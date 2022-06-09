@@ -1,0 +1,4105 @@
+fileFormatVersion: 2
+guid: ade0702f999aede4681133a10cf33e86
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: 5654893641106831591
+    second: lanterne007|Arbre003|Take 001|BaseLayer
+  - first:
+      74: -694107918377111801
+    second: lanterne007|Arbre004|Take 001|BaseLayer
+  - first:
+      74: 1890588420731693722
+    second: lanterne007|Arbre005|Take 001|BaseLayer
+  - first:
+      74: 4886600553595510530
+    second: lanterne007|Arbre006|Take 001|BaseLayer
+  - first:
+      74: -5922900488253245251
+    second: lanterne007|Arbre007|Take 001|BaseLayer
+  - first:
+      74: 7707493543083045826
+    second: lanterne007|Arbre008|Take 001|BaseLayer
+  - first:
+      74: 2234756535345583
+    second: lanterne007|Arbre009|Take 001|BaseLayer
+  - first:
+      74: 1266876116513520399
+    second: lanterne007|Arbre010|Take 001|BaseLayer
+  - first:
+      74: -1806764226579798249
+    second: lanterne007|Arbre011|Take 001|BaseLayer
+  - first:
+      74: 1210476733929627486
+    second: lanterne007|Arbre012|Take 001|BaseLayer
+  - first:
+      74: 4089735264355807045
+    second: lanterne007|Arbre013|Take 001|BaseLayer
+  - first:
+      74: -4341096871701274726
+    second: lanterne007|Arbre014|Take 001|BaseLayer
+  - first:
+      74: 4011964721752187885
+    second: lanterne007|Arbre015|Take 001|BaseLayer
+  - first:
+      74: -7583156951133608013
+    second: lanterne007|Arbre016|Take 001|BaseLayer
+  - first:
+      74: 3975055777864034724
+    second: lanterne007|Arbre017|Take 001|BaseLayer
+  - first:
+      74: -3551549503422673247
+    second: lanterne007|Arbre018|Take 001|BaseLayer
+  - first:
+      74: -7233019036246544524
+    second: lanterne007|Arbre01|Take 001|BaseLayer
+  - first:
+      74: -861855467938966894
+    second: lanterne007|Arbre02|Take 001|BaseLayer
+  - first:
+      74: 7224661533338955137
+    second: lanterne007|Arche001|Take 001|BaseLayer
+  - first:
+      74: 4131858469247649409
+    second: lanterne007|ArcheCasse001|Take 001|BaseLayer
+  - first:
+      74: 2339375813027129783
+    second: lanterne007|ArcheCasse|Take 001|BaseLayer
+  - first:
+      74: 3099920431018078033
+    second: lanterne007|Arche|Take 001|BaseLayer
+  - first:
+      74: 7791354195637690590
+    second: lanterne007|Bone003|Take 001|BaseLayer
+  - first:
+      74: -5139725724980349637
+    second: lanterne007|Bone004|Take 001|BaseLayer
+  - first:
+      74: -5742506810853864289
+    second: lanterne007|Bone005|Take 001|BaseLayer
+  - first:
+      74: 93044206008573642
+    second: lanterne007|Bone006|Take 001|BaseLayer
+  - first:
+      74: 3083433266195203950
+    second: lanterne007|Bone007|Take 001|BaseLayer
+  - first:
+      74: -3015556311159592426
+    second: lanterne007|Bone010|Take 001|BaseLayer
+  - first:
+      74: -8957586976561074181
+    second: lanterne007|Bone016|Take 001|BaseLayer
+  - first:
+      74: -6187642371101049723
+    second: lanterne007|Bone022|Take 001|BaseLayer
+  - first:
+      74: 6348001201634109942
+    second: lanterne007|Bone023|Take 001|BaseLayer
+  - first:
+      74: -1204987183515891491
+    second: lanterne007|BoneNexus01|Take 001|BaseLayer
+  - first:
+      74: -3056767198242867339
+    second: lanterne007|broken fence001|Take 001|BaseLayer
+  - first:
+      74: 4580977223745649984
+    second: lanterne007|broken fence|Take 001|BaseLayer
+  - first:
+      74: -3809720241422476295
+    second: lanterne007|Buche001|Take 001|BaseLayer
+  - first:
+      74: -5779118674400805554
+    second: lanterne007|Buche002|Take 001|BaseLayer
+  - first:
+      74: -3366075349892100004
+    second: lanterne007|Buche003|Take 001|BaseLayer
+  - first:
+      74: 1446886031049095385
+    second: lanterne007|Buche004|Take 001|BaseLayer
+  - first:
+      74: 7719521961392261686
+    second: lanterne007|Buche005|Take 001|BaseLayer
+  - first:
+      74: -2219761311305321531
+    second: lanterne007|Buche006|Take 001|BaseLayer
+  - first:
+      74: -7376833825469709451
+    second: lanterne007|Buche007|Take 001|BaseLayer
+  - first:
+      74: -1174151716164681285
+    second: lanterne007|Buche|Take 001|BaseLayer
+  - first:
+      74: 606156427800497276
+    second: lanterne007|Campement|Take 001|BaseLayer
+  - first:
+      74: -4797272953163839442
+    second: lanterne007|CampFire|Take 001|BaseLayer
+  - first:
+      74: -4964885411715545495
+    second: lanterne007|Champi002|Take 001|BaseLayer
+  - first:
+      74: -2451057398380494403
+    second: lanterne007|Champi004|Take 001|BaseLayer
+  - first:
+      74: 3841752164069844211
+    second: lanterne007|Champi005|Take 001|BaseLayer
+  - first:
+      74: -7397490297666955539
+    second: lanterne007|Champi006|Take 001|BaseLayer
+  - first:
+      74: 5234913416474085784
+    second: lanterne007|Champi007|Take 001|BaseLayer
+  - first:
+      74: 2573421643060976342
+    second: lanterne007|Champi008|Take 001|BaseLayer
+  - first:
+      74: -441333458501247667
+    second: lanterne007|Champi009|Take 001|BaseLayer
+  - first:
+      74: -5840321875051818149
+    second: lanterne007|Champi010|Take 001|BaseLayer
+  - first:
+      74: 3923264001874576425
+    second: lanterne007|Champi011|Take 001|BaseLayer
+  - first:
+      74: -3621215465846138821
+    second: lanterne007|Champi012|Take 001|BaseLayer
+  - first:
+      74: -7285781388398169963
+    second: lanterne007|Champi013|Take 001|BaseLayer
+  - first:
+      74: -8056023462065243892
+    second: lanterne007|Champi014|Take 001|BaseLayer
+  - first:
+      74: 8473985292829746569
+    second: lanterne007|Champi015|Take 001|BaseLayer
+  - first:
+      74: 7415790595408064520
+    second: lanterne007|Champi016|Take 001|BaseLayer
+  - first:
+      74: -3331567429160814524
+    second: lanterne007|Champi017|Take 001|BaseLayer
+  - first:
+      74: -3486580617587187111
+    second: lanterne007|Champi018|Take 001|BaseLayer
+  - first:
+      74: -7290302312824348016
+    second: lanterne007|Champi019|Take 001|BaseLayer
+  - first:
+      74: 569292024605807259
+    second: lanterne007|Champi020|Take 001|BaseLayer
+  - first:
+      74: -7509531107435748535
+    second: lanterne007|Champi021|Take 001|BaseLayer
+  - first:
+      74: 8195411601144085882
+    second: lanterne007|Champi|Take 001|BaseLayer
+  - first:
+      74: -7510839922236453523
+    second: lanterne007|Chaudron|Take 001|BaseLayer
+  - first:
+      74: -7422173213625442872
+    second: lanterne007|DoorCity|Take 001|BaseLayer
+  - first:
+      74: 2585503979583790307
+    second: lanterne007|Fence001|Take 001|BaseLayer
+  - first:
+      74: 7032752138024663372
+    second: lanterne007|Fence002|Take 001|BaseLayer
+  - first:
+      74: 2775229971725592820
+    second: lanterne007|Fence003|Take 001|BaseLayer
+  - first:
+      74: -5442036713306289570
+    second: lanterne007|Fence004|Take 001|BaseLayer
+  - first:
+      74: -5363683278648186274
+    second: lanterne007|Fence005|Take 001|BaseLayer
+  - first:
+      74: -6673048526440996076
+    second: lanterne007|Fence006|Take 001|BaseLayer
+  - first:
+      74: 4610793518978398407
+    second: lanterne007|Fence|Take 001|BaseLayer
+  - first:
+      74: 3085304013484579914
+    second: lanterne007|Grass002|Take 001|BaseLayer
+  - first:
+      74: 3368830266216410430
+    second: lanterne007|Grass003|Take 001|BaseLayer
+  - first:
+      74: -7244041152837604915
+    second: lanterne007|Grass004|Take 001|BaseLayer
+  - first:
+      74: -5077967310050916653
+    second: lanterne007|Grass005|Take 001|BaseLayer
+  - first:
+      74: 3176476871220058325
+    second: lanterne007|Grass006|Take 001|BaseLayer
+  - first:
+      74: 6599223417281754940
+    second: lanterne007|Grass007|Take 001|BaseLayer
+  - first:
+      74: 6820047940964590624
+    second: lanterne007|Grass008|Take 001|BaseLayer
+  - first:
+      74: 1809154019658113562
+    second: lanterne007|Grass009|Take 001|BaseLayer
+  - first:
+      74: 5723046519777138540
+    second: lanterne007|Grass010|Take 001|BaseLayer
+  - first:
+      74: 5653796068117731294
+    second: lanterne007|Grass011|Take 001|BaseLayer
+  - first:
+      74: 3474260407297677088
+    second: lanterne007|Grass012|Take 001|BaseLayer
+  - first:
+      74: 362673656302894545
+    second: lanterne007|Grass013|Take 001|BaseLayer
+  - first:
+      74: -3601504655806645060
+    second: lanterne007|Grass014|Take 001|BaseLayer
+  - first:
+      74: -8846380725322038082
+    second: lanterne007|Grass015|Take 001|BaseLayer
+  - first:
+      74: 5537380995109608117
+    second: lanterne007|Grass016|Take 001|BaseLayer
+  - first:
+      74: 5755458628460309877
+    second: lanterne007|Grass017|Take 001|BaseLayer
+  - first:
+      74: 7329123154321762883
+    second: lanterne007|Grass018|Take 001|BaseLayer
+  - first:
+      74: 4708585804309811335
+    second: lanterne007|Grass019|Take 001|BaseLayer
+  - first:
+      74: -2961937861666197130
+    second: lanterne007|Grass01|Take 001|BaseLayer
+  - first:
+      74: 4191410539701718593
+    second: lanterne007|Grass020|Take 001|BaseLayer
+  - first:
+      74: 7018988053401717101
+    second: lanterne007|Grass088|Take 001|BaseLayer
+  - first:
+      74: 2482159928138018485
+    second: lanterne007|Grass089|Take 001|BaseLayer
+  - first:
+      74: -36804153633156520
+    second: lanterne007|Grass090|Take 001|BaseLayer
+  - first:
+      74: -9055781483684228653
+    second: lanterne007|Grass091|Take 001|BaseLayer
+  - first:
+      74: -1062317279696078763
+    second: lanterne007|Grass092|Take 001|BaseLayer
+  - first:
+      74: 8616365582538882364
+    second: lanterne007|Grass093|Take 001|BaseLayer
+  - first:
+      74: 7250822203939921185
+    second: lanterne007|Grass094|Take 001|BaseLayer
+  - first:
+      74: 3800508611248594599
+    second: lanterne007|Grass095|Take 001|BaseLayer
+  - first:
+      74: -1989482061607020129
+    second: lanterne007|Grass096|Take 001|BaseLayer
+  - first:
+      74: 24292727402846155
+    second: lanterne007|Grass097|Take 001|BaseLayer
+  - first:
+      74: -1323039223252193073
+    second: lanterne007|Grass098|Take 001|BaseLayer
+  - first:
+      74: -2342821176155927147
+    second: lanterne007|Grass099|Take 001|BaseLayer
+  - first:
+      74: 7113825434517406014
+    second: lanterne007|Grass1000|Take 001|BaseLayer
+  - first:
+      74: 2058182679445379826
+    second: lanterne007|Grass1001|Take 001|BaseLayer
+  - first:
+      74: 7429841378436074440
+    second: lanterne007|Grass1002|Take 001|BaseLayer
+  - first:
+      74: -8295717250082520054
+    second: lanterne007|Grass1003|Take 001|BaseLayer
+  - first:
+      74: -2031437914455722609
+    second: lanterne007|Grass1004|Take 001|BaseLayer
+  - first:
+      74: 2689442268560412495
+    second: lanterne007|Grass1005|Take 001|BaseLayer
+  - first:
+      74: -4232545400283962064
+    second: lanterne007|Grass1006|Take 001|BaseLayer
+  - first:
+      74: 8184557279460399600
+    second: lanterne007|Grass1007|Take 001|BaseLayer
+  - first:
+      74: 488851160513599104
+    second: lanterne007|Grass1008|Take 001|BaseLayer
+  - first:
+      74: -4979657282287142507
+    second: lanterne007|Grass1009|Take 001|BaseLayer
+  - first:
+      74: -359223993197868982
+    second: lanterne007|Grass100|Take 001|BaseLayer
+  - first:
+      74: 5257651637643565602
+    second: lanterne007|Grass1010|Take 001|BaseLayer
+  - first:
+      74: -6135859345638839312
+    second: lanterne007|Grass1011|Take 001|BaseLayer
+  - first:
+      74: -7893334524569258616
+    second: lanterne007|Grass1012|Take 001|BaseLayer
+  - first:
+      74: 6379830813931884788
+    second: lanterne007|Grass1013|Take 001|BaseLayer
+  - first:
+      74: -6010299531790165544
+    second: lanterne007|Grass1014|Take 001|BaseLayer
+  - first:
+      74: -7746936486144120898
+    second: lanterne007|Grass1015|Take 001|BaseLayer
+  - first:
+      74: 5937364676918697745
+    second: lanterne007|Grass1016|Take 001|BaseLayer
+  - first:
+      74: -8016731258277364204
+    second: lanterne007|Grass1017|Take 001|BaseLayer
+  - first:
+      74: -2251306552463256149
+    second: lanterne007|Grass1018|Take 001|BaseLayer
+  - first:
+      74: 2766668999017088923
+    second: lanterne007|Grass1019|Take 001|BaseLayer
+  - first:
+      74: 3702439502942536624
+    second: lanterne007|Grass101|Take 001|BaseLayer
+  - first:
+      74: -9199698950309733298
+    second: lanterne007|Grass1020|Take 001|BaseLayer
+  - first:
+      74: -7168493360817168546
+    second: lanterne007|Grass1021|Take 001|BaseLayer
+  - first:
+      74: 4081308957709839511
+    second: lanterne007|Grass1022|Take 001|BaseLayer
+  - first:
+      74: -6621406982009702361
+    second: lanterne007|Grass1023|Take 001|BaseLayer
+  - first:
+      74: 1354456797932774993
+    second: lanterne007|Grass1024|Take 001|BaseLayer
+  - first:
+      74: 7705308536367614652
+    second: lanterne007|Grass1025|Take 001|BaseLayer
+  - first:
+      74: 1124007928108165356
+    second: lanterne007|Grass1026|Take 001|BaseLayer
+  - first:
+      74: -6468053820685097790
+    second: lanterne007|Grass1027|Take 001|BaseLayer
+  - first:
+      74: 2003015229760633187
+    second: lanterne007|Grass1028|Take 001|BaseLayer
+  - first:
+      74: 2292622992448723227
+    second: lanterne007|Grass1029|Take 001|BaseLayer
+  - first:
+      74: -8017813213037243782
+    second: lanterne007|Grass102|Take 001|BaseLayer
+  - first:
+      74: 3560947585448748387
+    second: lanterne007|Grass1030|Take 001|BaseLayer
+  - first:
+      74: -3567365659044084998
+    second: lanterne007|Grass1031|Take 001|BaseLayer
+  - first:
+      74: 8096302727145502729
+    second: lanterne007|Grass1032|Take 001|BaseLayer
+  - first:
+      74: -8444052488856886784
+    second: lanterne007|Grass1033|Take 001|BaseLayer
+  - first:
+      74: 2022584982312727377
+    second: lanterne007|Grass1034|Take 001|BaseLayer
+  - first:
+      74: -2304473584287435493
+    second: lanterne007|Grass1035|Take 001|BaseLayer
+  - first:
+      74: 1959743555194623980
+    second: lanterne007|Grass1036|Take 001|BaseLayer
+  - first:
+      74: 4434698583896018503
+    second: lanterne007|Grass1037|Take 001|BaseLayer
+  - first:
+      74: 504148773383805366
+    second: lanterne007|Grass1038|Take 001|BaseLayer
+  - first:
+      74: -7396853117522982155
+    second: lanterne007|Grass1039|Take 001|BaseLayer
+  - first:
+      74: -8723996102292775048
+    second: lanterne007|Grass103|Take 001|BaseLayer
+  - first:
+      74: 7288994244411574162
+    second: lanterne007|Grass1040|Take 001|BaseLayer
+  - first:
+      74: 184303179339340344
+    second: lanterne007|Grass1041|Take 001|BaseLayer
+  - first:
+      74: -3675189894367814237
+    second: lanterne007|Grass1042|Take 001|BaseLayer
+  - first:
+      74: 8865758381612828449
+    second: lanterne007|Grass1043|Take 001|BaseLayer
+  - first:
+      74: 1950900487330044808
+    second: lanterne007|Grass1044|Take 001|BaseLayer
+  - first:
+      74: 812351082767777244
+    second: lanterne007|Grass1045|Take 001|BaseLayer
+  - first:
+      74: -7472195836667380240
+    second: lanterne007|Grass1046|Take 001|BaseLayer
+  - first:
+      74: -1443812390398530667
+    second: lanterne007|Grass1047|Take 001|BaseLayer
+  - first:
+      74: 423622444092342093
+    second: lanterne007|Grass1048|Take 001|BaseLayer
+  - first:
+      74: -1274620067909461205
+    second: lanterne007|Grass1049|Take 001|BaseLayer
+  - first:
+      74: -1492530000294617498
+    second: lanterne007|Grass104|Take 001|BaseLayer
+  - first:
+      74: 147461403721109781
+    second: lanterne007|Grass1050|Take 001|BaseLayer
+  - first:
+      74: -8878534760352151715
+    second: lanterne007|Grass1051|Take 001|BaseLayer
+  - first:
+      74: -5389390209393845575
+    second: lanterne007|Grass1052|Take 001|BaseLayer
+  - first:
+      74: -1437755938203086164
+    second: lanterne007|Grass1053|Take 001|BaseLayer
+  - first:
+      74: -3894177307090895803
+    second: lanterne007|Grass1054|Take 001|BaseLayer
+  - first:
+      74: 2493611153878063163
+    second: lanterne007|Grass1055|Take 001|BaseLayer
+  - first:
+      74: 2079210919690272131
+    second: lanterne007|Grass1056|Take 001|BaseLayer
+  - first:
+      74: 3298158940976368146
+    second: lanterne007|Grass1057|Take 001|BaseLayer
+  - first:
+      74: 2609690931668222858
+    second: lanterne007|Grass1058|Take 001|BaseLayer
+  - first:
+      74: -5331919482049726072
+    second: lanterne007|Grass1059|Take 001|BaseLayer
+  - first:
+      74: 6216594365588791796
+    second: lanterne007|Grass105|Take 001|BaseLayer
+  - first:
+      74: 754010164377815777
+    second: lanterne007|Grass1060|Take 001|BaseLayer
+  - first:
+      74: 3986180874129922799
+    second: lanterne007|Grass1061|Take 001|BaseLayer
+  - first:
+      74: -3115275384586273750
+    second: lanterne007|Grass1062|Take 001|BaseLayer
+  - first:
+      74: 1632683713716789471
+    second: lanterne007|Grass1063|Take 001|BaseLayer
+  - first:
+      74: 8981757789583783344
+    second: lanterne007|Grass1064|Take 001|BaseLayer
+  - first:
+      74: -1154409630868655066
+    second: lanterne007|Grass1065|Take 001|BaseLayer
+  - first:
+      74: -2124434416206192662
+    second: lanterne007|Grass1066|Take 001|BaseLayer
+  - first:
+      74: -584388690208700089
+    second: lanterne007|Grass1067|Take 001|BaseLayer
+  - first:
+      74: 8578128337565647903
+    second: lanterne007|Grass1068|Take 001|BaseLayer
+  - first:
+      74: -7380052329433350772
+    second: lanterne007|Grass1069|Take 001|BaseLayer
+  - first:
+      74: 7007726612288521920
+    second: lanterne007|Grass106|Take 001|BaseLayer
+  - first:
+      74: -2472875743590085675
+    second: lanterne007|Grass1070|Take 001|BaseLayer
+  - first:
+      74: 450617696367883303
+    second: lanterne007|Grass1071|Take 001|BaseLayer
+  - first:
+      74: -7119297111469434998
+    second: lanterne007|Grass1072|Take 001|BaseLayer
+  - first:
+      74: -2974861071627571781
+    second: lanterne007|Grass1073|Take 001|BaseLayer
+  - first:
+      74: 5814213478936811856
+    second: lanterne007|Grass1074|Take 001|BaseLayer
+  - first:
+      74: 8870891382209188722
+    second: lanterne007|Grass1075|Take 001|BaseLayer
+  - first:
+      74: 7505152678145988497
+    second: lanterne007|Grass1076|Take 001|BaseLayer
+  - first:
+      74: -3733114282221760173
+    second: lanterne007|Grass1077|Take 001|BaseLayer
+  - first:
+      74: 3809379616089931028
+    second: lanterne007|Grass1078|Take 001|BaseLayer
+  - first:
+      74: -7780190915409472162
+    second: lanterne007|Grass1079|Take 001|BaseLayer
+  - first:
+      74: -6320781356747912411
+    second: lanterne007|Grass107|Take 001|BaseLayer
+  - first:
+      74: -2269233880682381278
+    second: lanterne007|Grass1080|Take 001|BaseLayer
+  - first:
+      74: -1375691436395447418
+    second: lanterne007|Grass1081|Take 001|BaseLayer
+  - first:
+      74: 5213299335855846897
+    second: lanterne007|Grass1082|Take 001|BaseLayer
+  - first:
+      74: 8384718735199002444
+    second: lanterne007|Grass1083|Take 001|BaseLayer
+  - first:
+      74: -3082132087126877463
+    second: lanterne007|Grass1084|Take 001|BaseLayer
+  - first:
+      74: 2176110675264260533
+    second: lanterne007|Grass1085|Take 001|BaseLayer
+  - first:
+      74: 3139522790488020459
+    second: lanterne007|Grass1086|Take 001|BaseLayer
+  - first:
+      74: 3008509569789580086
+    second: lanterne007|Grass1087|Take 001|BaseLayer
+  - first:
+      74: -7759911284090590602
+    second: lanterne007|Grass1088|Take 001|BaseLayer
+  - first:
+      74: 2839584818567821488
+    second: lanterne007|Grass1089|Take 001|BaseLayer
+  - first:
+      74: -4083517774827231688
+    second: lanterne007|Grass108|Take 001|BaseLayer
+  - first:
+      74: 2537015271673830645
+    second: lanterne007|Grass1090|Take 001|BaseLayer
+  - first:
+      74: 8472998324198870811
+    second: lanterne007|Grass1091|Take 001|BaseLayer
+  - first:
+      74: -4765048449330993594
+    second: lanterne007|Grass1092|Take 001|BaseLayer
+  - first:
+      74: -6192842038496380573
+    second: lanterne007|Grass1093|Take 001|BaseLayer
+  - first:
+      74: 5512431590485683490
+    second: lanterne007|Grass1094|Take 001|BaseLayer
+  - first:
+      74: 4701912900281951858
+    second: lanterne007|Grass1095|Take 001|BaseLayer
+  - first:
+      74: -2090421927671837485
+    second: lanterne007|Grass1096|Take 001|BaseLayer
+  - first:
+      74: 131606353662269586
+    second: lanterne007|Grass1097|Take 001|BaseLayer
+  - first:
+      74: 6967733797874745632
+    second: lanterne007|Grass1098|Take 001|BaseLayer
+  - first:
+      74: -5523056879171606562
+    second: lanterne007|Grass1099|Take 001|BaseLayer
+  - first:
+      74: -5529993611690026904
+    second: lanterne007|Grass109|Take 001|BaseLayer
+  - first:
+      74: -5574583887671533736
+    second: lanterne007|Grass1100|Take 001|BaseLayer
+  - first:
+      74: -1346834556744697676
+    second: lanterne007|Grass1101|Take 001|BaseLayer
+  - first:
+      74: 2368465996403586710
+    second: lanterne007|Grass1102|Take 001|BaseLayer
+  - first:
+      74: 7776356680906015158
+    second: lanterne007|Grass1103|Take 001|BaseLayer
+  - first:
+      74: 4829180525176988947
+    second: lanterne007|Grass1104|Take 001|BaseLayer
+  - first:
+      74: -8196033767876050969
+    second: lanterne007|Grass1105|Take 001|BaseLayer
+  - first:
+      74: -3776775227093048926
+    second: lanterne007|Grass1106|Take 001|BaseLayer
+  - first:
+      74: 4809462253583063523
+    second: lanterne007|Grass1107|Take 001|BaseLayer
+  - first:
+      74: -5987668781405173301
+    second: lanterne007|Grass1108|Take 001|BaseLayer
+  - first:
+      74: 403547571778511109
+    second: lanterne007|Grass1109|Take 001|BaseLayer
+  - first:
+      74: 1657054415254696608
+    second: lanterne007|Grass110|Take 001|BaseLayer
+  - first:
+      74: 3562634519283843767
+    second: lanterne007|Grass1110|Take 001|BaseLayer
+  - first:
+      74: -1431038138168042140
+    second: lanterne007|Grass1111|Take 001|BaseLayer
+  - first:
+      74: -4835426711890740794
+    second: lanterne007|Grass1112|Take 001|BaseLayer
+  - first:
+      74: -856136914051967094
+    second: lanterne007|Grass1113|Take 001|BaseLayer
+  - first:
+      74: -8001911428906658161
+    second: lanterne007|Grass1114|Take 001|BaseLayer
+  - first:
+      74: 3865364832465655933
+    second: lanterne007|Grass1115|Take 001|BaseLayer
+  - first:
+      74: -5715582424998808725
+    second: lanterne007|Grass1116|Take 001|BaseLayer
+  - first:
+      74: -3718375607194288710
+    second: lanterne007|Grass1117|Take 001|BaseLayer
+  - first:
+      74: -9145030281209265327
+    second: lanterne007|Grass1118|Take 001|BaseLayer
+  - first:
+      74: -518312134311754923
+    second: lanterne007|Grass1119|Take 001|BaseLayer
+  - first:
+      74: -6056865473919649674
+    second: lanterne007|Grass111|Take 001|BaseLayer
+  - first:
+      74: -4443093872295796380
+    second: lanterne007|Grass1120|Take 001|BaseLayer
+  - first:
+      74: 5581545893065507836
+    second: lanterne007|Grass1121|Take 001|BaseLayer
+  - first:
+      74: -1563354655112806932
+    second: lanterne007|Grass1122|Take 001|BaseLayer
+  - first:
+      74: -5996070113732878507
+    second: lanterne007|Grass1123|Take 001|BaseLayer
+  - first:
+      74: 8719837014889423901
+    second: lanterne007|Grass1124|Take 001|BaseLayer
+  - first:
+      74: 4291712821156265841
+    second: lanterne007|Grass1125|Take 001|BaseLayer
+  - first:
+      74: -5130087039493106839
+    second: lanterne007|Grass1126|Take 001|BaseLayer
+  - first:
+      74: 3636648977712340421
+    second: lanterne007|Grass1127|Take 001|BaseLayer
+  - first:
+      74: 7025442552316571673
+    second: lanterne007|Grass1128|Take 001|BaseLayer
+  - first:
+      74: 9085820486862993109
+    second: lanterne007|Grass1129|Take 001|BaseLayer
+  - first:
+      74: 8749810960991373935
+    second: lanterne007|Grass112|Take 001|BaseLayer
+  - first:
+      74: 2800508759703395769
+    second: lanterne007|Grass1130|Take 001|BaseLayer
+  - first:
+      74: -8758435735898918516
+    second: lanterne007|Grass1131|Take 001|BaseLayer
+  - first:
+      74: -7821648064532663807
+    second: lanterne007|Grass1132|Take 001|BaseLayer
+  - first:
+      74: 7346302959695971569
+    second: lanterne007|Grass1133|Take 001|BaseLayer
+  - first:
+      74: 6311028622184672202
+    second: lanterne007|Grass1134|Take 001|BaseLayer
+  - first:
+      74: 8306334619349955610
+    second: lanterne007|Grass1135|Take 001|BaseLayer
+  - first:
+      74: -897937489879325239
+    second: lanterne007|Grass1136|Take 001|BaseLayer
+  - first:
+      74: -3337805011172576212
+    second: lanterne007|Grass1137|Take 001|BaseLayer
+  - first:
+      74: -3990217698625352646
+    second: lanterne007|Grass1138|Take 001|BaseLayer
+  - first:
+      74: -82749090123805897
+    second: lanterne007|Grass1139|Take 001|BaseLayer
+  - first:
+      74: 2608728487803733110
+    second: lanterne007|Grass113|Take 001|BaseLayer
+  - first:
+      74: 6748518968575093886
+    second: lanterne007|Grass1140|Take 001|BaseLayer
+  - first:
+      74: -7048340377214188145
+    second: lanterne007|Grass1141|Take 001|BaseLayer
+  - first:
+      74: -4218617087564186648
+    second: lanterne007|Grass1142|Take 001|BaseLayer
+  - first:
+      74: 8255172024012645086
+    second: lanterne007|Grass1143|Take 001|BaseLayer
+  - first:
+      74: 1587567128533392888
+    second: lanterne007|Grass1144|Take 001|BaseLayer
+  - first:
+      74: 3588060354817731503
+    second: lanterne007|Grass1145|Take 001|BaseLayer
+  - first:
+      74: 4287388888609842891
+    second: lanterne007|Grass1146|Take 001|BaseLayer
+  - first:
+      74: 7774384964005247758
+    second: lanterne007|Grass1147|Take 001|BaseLayer
+  - first:
+      74: -7179042199308769904
+    second: lanterne007|Grass1148|Take 001|BaseLayer
+  - first:
+      74: -6103017656119236667
+    second: lanterne007|Grass1149|Take 001|BaseLayer
+  - first:
+      74: -663997106436568361
+    second: lanterne007|Grass114|Take 001|BaseLayer
+  - first:
+      74: 7059847339223189433
+    second: lanterne007|Grass1150|Take 001|BaseLayer
+  - first:
+      74: -5691756266921478057
+    second: lanterne007|Grass1151|Take 001|BaseLayer
+  - first:
+      74: -2666407566501342242
+    second: lanterne007|Grass1152|Take 001|BaseLayer
+  - first:
+      74: -3311134514095884205
+    second: lanterne007|Grass1153|Take 001|BaseLayer
+  - first:
+      74: -1283165383866215777
+    second: lanterne007|Grass1154|Take 001|BaseLayer
+  - first:
+      74: 251141847302230965
+    second: lanterne007|Grass1155|Take 001|BaseLayer
+  - first:
+      74: -300482264818582838
+    second: lanterne007|Grass1156|Take 001|BaseLayer
+  - first:
+      74: -5361783461591392951
+    second: lanterne007|Grass1157|Take 001|BaseLayer
+  - first:
+      74: 4085617210217981313
+    second: lanterne007|Grass1158|Take 001|BaseLayer
+  - first:
+      74: -6985842580447030739
+    second: lanterne007|Grass1159|Take 001|BaseLayer
+  - first:
+      74: 7946166013957788848
+    second: lanterne007|Grass115|Take 001|BaseLayer
+  - first:
+      74: -1011559420516053375
+    second: lanterne007|Grass1160|Take 001|BaseLayer
+  - first:
+      74: -7860471658969453881
+    second: lanterne007|Grass1161|Take 001|BaseLayer
+  - first:
+      74: -63893025684295420
+    second: lanterne007|Grass1162|Take 001|BaseLayer
+  - first:
+      74: -4434493946449843409
+    second: lanterne007|Grass1163|Take 001|BaseLayer
+  - first:
+      74: -8875252935367390007
+    second: lanterne007|Grass1164|Take 001|BaseLayer
+  - first:
+      74: -2305758506340860744
+    second: lanterne007|Grass1165|Take 001|BaseLayer
+  - first:
+      74: 4328130172012690175
+    second: lanterne007|Grass1166|Take 001|BaseLayer
+  - first:
+      74: -5800188000576059072
+    second: lanterne007|Grass1167|Take 001|BaseLayer
+  - first:
+      74: -8463296274673443973
+    second: lanterne007|Grass1168|Take 001|BaseLayer
+  - first:
+      74: 5662657270272707847
+    second: lanterne007|Grass1169|Take 001|BaseLayer
+  - first:
+      74: -3585976030028030017
+    second: lanterne007|Grass116|Take 001|BaseLayer
+  - first:
+      74: 8397314431810544116
+    second: lanterne007|Grass1170|Take 001|BaseLayer
+  - first:
+      74: 360069153709556344
+    second: lanterne007|Grass1171|Take 001|BaseLayer
+  - first:
+      74: 3599146484326344875
+    second: lanterne007|Grass1172|Take 001|BaseLayer
+  - first:
+      74: 1889188196741059659
+    second: lanterne007|Grass1173|Take 001|BaseLayer
+  - first:
+      74: 2100132523275802347
+    second: lanterne007|Grass1174|Take 001|BaseLayer
+  - first:
+      74: 6422335151965670496
+    second: lanterne007|Grass1175|Take 001|BaseLayer
+  - first:
+      74: -8600282989188805593
+    second: lanterne007|Grass1176|Take 001|BaseLayer
+  - first:
+      74: -5216831006184904171
+    second: lanterne007|Grass1177|Take 001|BaseLayer
+  - first:
+      74: -1402416103706858942
+    second: lanterne007|Grass1178|Take 001|BaseLayer
+  - first:
+      74: -5950217948662603255
+    second: lanterne007|Grass1179|Take 001|BaseLayer
+  - first:
+      74: 3101608750727547118
+    second: lanterne007|Grass117|Take 001|BaseLayer
+  - first:
+      74: 4474346439368049971
+    second: lanterne007|Grass1180|Take 001|BaseLayer
+  - first:
+      74: 8505885871587600559
+    second: lanterne007|Grass1181|Take 001|BaseLayer
+  - first:
+      74: -5844794738124013878
+    second: lanterne007|Grass1182|Take 001|BaseLayer
+  - first:
+      74: -861191514226259094
+    second: lanterne007|Grass1183|Take 001|BaseLayer
+  - first:
+      74: -5684974260508638947
+    second: lanterne007|Grass1184|Take 001|BaseLayer
+  - first:
+      74: 2824008687395969645
+    second: lanterne007|Grass1185|Take 001|BaseLayer
+  - first:
+      74: 7170236563854156672
+    second: lanterne007|Grass1186|Take 001|BaseLayer
+  - first:
+      74: -1202015674141808110
+    second: lanterne007|Grass1187|Take 001|BaseLayer
+  - first:
+      74: 7949604536054579777
+    second: lanterne007|Grass1188|Take 001|BaseLayer
+  - first:
+      74: -4507710627489960480
+    second: lanterne007|Grass1189|Take 001|BaseLayer
+  - first:
+      74: -673406504695001605
+    second: lanterne007|Grass118|Take 001|BaseLayer
+  - first:
+      74: -5404595507046489239
+    second: lanterne007|Grass1190|Take 001|BaseLayer
+  - first:
+      74: 1269626702642044338
+    second: lanterne007|Grass1191|Take 001|BaseLayer
+  - first:
+      74: -8033879188887107558
+    second: lanterne007|Grass1192|Take 001|BaseLayer
+  - first:
+      74: 3528566874958322085
+    second: lanterne007|Grass1193|Take 001|BaseLayer
+  - first:
+      74: -5460473973910151703
+    second: lanterne007|Grass1194|Take 001|BaseLayer
+  - first:
+      74: -5953498599242304811
+    second: lanterne007|Grass1195|Take 001|BaseLayer
+  - first:
+      74: -1835881530690275476
+    second: lanterne007|Grass1196|Take 001|BaseLayer
+  - first:
+      74: 5270198908779238529
+    second: lanterne007|Grass1197|Take 001|BaseLayer
+  - first:
+      74: 1539475604977705838
+    second: lanterne007|Grass1198|Take 001|BaseLayer
+  - first:
+      74: -2416183984085290639
+    second: lanterne007|Grass1199|Take 001|BaseLayer
+  - first:
+      74: -7895096313787070941
+    second: lanterne007|Grass119|Take 001|BaseLayer
+  - first:
+      74: -7316685978537674305
+    second: lanterne007|Grass1200|Take 001|BaseLayer
+  - first:
+      74: 1239380366227360117
+    second: lanterne007|Grass1201|Take 001|BaseLayer
+  - first:
+      74: -3347443881471846638
+    second: lanterne007|Grass1202|Take 001|BaseLayer
+  - first:
+      74: 5779140894488806960
+    second: lanterne007|Grass1203|Take 001|BaseLayer
+  - first:
+      74: 5034088806950946395
+    second: lanterne007|Grass1204|Take 001|BaseLayer
+  - first:
+      74: 5450084499884060596
+    second: lanterne007|Grass1205|Take 001|BaseLayer
+  - first:
+      74: 4773243233741881884
+    second: lanterne007|Grass1206|Take 001|BaseLayer
+  - first:
+      74: 200792160714207301
+    second: lanterne007|Grass1207|Take 001|BaseLayer
+  - first:
+      74: -2640102607810626357
+    second: lanterne007|Grass1208|Take 001|BaseLayer
+  - first:
+      74: -7006182873777338335
+    second: lanterne007|Grass1209|Take 001|BaseLayer
+  - first:
+      74: 7525266083396692533
+    second: lanterne007|Grass120|Take 001|BaseLayer
+  - first:
+      74: -1703158483433974726
+    second: lanterne007|Grass1210|Take 001|BaseLayer
+  - first:
+      74: 7821883871540289042
+    second: lanterne007|Grass1211|Take 001|BaseLayer
+  - first:
+      74: -2274516789094748320
+    second: lanterne007|Grass1212|Take 001|BaseLayer
+  - first:
+      74: 8807402872740493487
+    second: lanterne007|Grass1213|Take 001|BaseLayer
+  - first:
+      74: 6459715187221766910
+    second: lanterne007|Grass1214|Take 001|BaseLayer
+  - first:
+      74: 170874412271030393
+    second: lanterne007|Grass1215|Take 001|BaseLayer
+  - first:
+      74: -3765356968185497085
+    second: lanterne007|Grass1216|Take 001|BaseLayer
+  - first:
+      74: 1897741969288545069
+    second: lanterne007|Grass1217|Take 001|BaseLayer
+  - first:
+      74: -5367799540734385450
+    second: lanterne007|Grass1218|Take 001|BaseLayer
+  - first:
+      74: -8986972235952178908
+    second: lanterne007|Grass1219|Take 001|BaseLayer
+  - first:
+      74: -8228261651772248145
+    second: lanterne007|Grass121|Take 001|BaseLayer
+  - first:
+      74: -5216587765360774787
+    second: lanterne007|Grass1220|Take 001|BaseLayer
+  - first:
+      74: 3261012017365332975
+    second: lanterne007|Grass1221|Take 001|BaseLayer
+  - first:
+      74: 8467898604059930766
+    second: lanterne007|Grass1222|Take 001|BaseLayer
+  - first:
+      74: 5208306049871068557
+    second: lanterne007|Grass1223|Take 001|BaseLayer
+  - first:
+      74: 850514273860979277
+    second: lanterne007|Grass1224|Take 001|BaseLayer
+  - first:
+      74: 6764921280126381759
+    second: lanterne007|Grass1225|Take 001|BaseLayer
+  - first:
+      74: 1761072298817086939
+    second: lanterne007|Grass1226|Take 001|BaseLayer
+  - first:
+      74: -6348543990945633552
+    second: lanterne007|Grass1227|Take 001|BaseLayer
+  - first:
+      74: -5318361511612896875
+    second: lanterne007|Grass1228|Take 001|BaseLayer
+  - first:
+      74: 9221593830896107260
+    second: lanterne007|Grass1229|Take 001|BaseLayer
+  - first:
+      74: -3532432314310272587
+    second: lanterne007|Grass122|Take 001|BaseLayer
+  - first:
+      74: 2568473489550860102
+    second: lanterne007|Grass1230|Take 001|BaseLayer
+  - first:
+      74: -1055119555800248114
+    second: lanterne007|Grass1231|Take 001|BaseLayer
+  - first:
+      74: -7602554614830051045
+    second: lanterne007|Grass1232|Take 001|BaseLayer
+  - first:
+      74: 8220370110935815931
+    second: lanterne007|Grass1233|Take 001|BaseLayer
+  - first:
+      74: 7841717701467437609
+    second: lanterne007|Grass1234|Take 001|BaseLayer
+  - first:
+      74: 872704314092776174
+    second: lanterne007|Grass1235|Take 001|BaseLayer
+  - first:
+      74: 5762603577339654180
+    second: lanterne007|Grass1236|Take 001|BaseLayer
+  - first:
+      74: 1086128225740406624
+    second: lanterne007|Grass1237|Take 001|BaseLayer
+  - first:
+      74: 163620337872075690
+    second: lanterne007|Grass1238|Take 001|BaseLayer
+  - first:
+      74: 5228088010681800135
+    second: lanterne007|Grass1239|Take 001|BaseLayer
+  - first:
+      74: -578990417118374987
+    second: lanterne007|Grass123|Take 001|BaseLayer
+  - first:
+      74: -1866440341132299303
+    second: lanterne007|Grass1240|Take 001|BaseLayer
+  - first:
+      74: 6415019657038450071
+    second: lanterne007|Grass1241|Take 001|BaseLayer
+  - first:
+      74: -1466650927262730113
+    second: lanterne007|Grass1242|Take 001|BaseLayer
+  - first:
+      74: 6110877895164057070
+    second: lanterne007|Grass1243|Take 001|BaseLayer
+  - first:
+      74: 5980027830354671948
+    second: lanterne007|Grass1244|Take 001|BaseLayer
+  - first:
+      74: 6439182568694682997
+    second: lanterne007|Grass1245|Take 001|BaseLayer
+  - first:
+      74: -5398531661454905994
+    second: lanterne007|Grass1246|Take 001|BaseLayer
+  - first:
+      74: -3461295181084918771
+    second: lanterne007|Grass1247|Take 001|BaseLayer
+  - first:
+      74: -8401048102947459745
+    second: lanterne007|Grass1248|Take 001|BaseLayer
+  - first:
+      74: -567270921977006654
+    second: lanterne007|Grass1249|Take 001|BaseLayer
+  - first:
+      74: -487570117788518207
+    second: lanterne007|Grass124|Take 001|BaseLayer
+  - first:
+      74: 3584277550557905440
+    second: lanterne007|Grass1250|Take 001|BaseLayer
+  - first:
+      74: 2009438132946740845
+    second: lanterne007|Grass1251|Take 001|BaseLayer
+  - first:
+      74: 6382795011781517775
+    second: lanterne007|Grass1252|Take 001|BaseLayer
+  - first:
+      74: 7968993125712093162
+    second: lanterne007|Grass1253|Take 001|BaseLayer
+  - first:
+      74: 3037083407724782789
+    second: lanterne007|Grass1254|Take 001|BaseLayer
+  - first:
+      74: 4373151916794560367
+    second: lanterne007|Grass1255|Take 001|BaseLayer
+  - first:
+      74: 9061450589568630193
+    second: lanterne007|Grass1256|Take 001|BaseLayer
+  - first:
+      74: 5045920257796395034
+    second: lanterne007|Grass1257|Take 001|BaseLayer
+  - first:
+      74: -6702669127704978571
+    second: lanterne007|Grass1258|Take 001|BaseLayer
+  - first:
+      74: -4310566507217143217
+    second: lanterne007|Grass1259|Take 001|BaseLayer
+  - first:
+      74: -2574002827269041691
+    second: lanterne007|Grass125|Take 001|BaseLayer
+  - first:
+      74: -6464437207393788832
+    second: lanterne007|Grass1260|Take 001|BaseLayer
+  - first:
+      74: 7134642253835356830
+    second: lanterne007|Grass1261|Take 001|BaseLayer
+  - first:
+      74: 4775804230168071384
+    second: lanterne007|Grass1262|Take 001|BaseLayer
+  - first:
+      74: 7909498700643481286
+    second: lanterne007|Grass1263|Take 001|BaseLayer
+  - first:
+      74: -6353177203547591168
+    second: lanterne007|Grass1264|Take 001|BaseLayer
+  - first:
+      74: -404814339670767573
+    second: lanterne007|Grass1265|Take 001|BaseLayer
+  - first:
+      74: 3580854735226777084
+    second: lanterne007|Grass1266|Take 001|BaseLayer
+  - first:
+      74: -5883887774141160322
+    second: lanterne007|Grass1267|Take 001|BaseLayer
+  - first:
+      74: 2410885135672845673
+    second: lanterne007|Grass1268|Take 001|BaseLayer
+  - first:
+      74: -323156556914644314
+    second: lanterne007|Grass1269|Take 001|BaseLayer
+  - first:
+      74: 4006509461397312075
+    second: lanterne007|Grass126|Take 001|BaseLayer
+  - first:
+      74: -2610243902271267285
+    second: lanterne007|Grass1270|Take 001|BaseLayer
+  - first:
+      74: 5853160168574328296
+    second: lanterne007|Grass1271|Take 001|BaseLayer
+  - first:
+      74: 6637016239713658855
+    second: lanterne007|Grass1272|Take 001|BaseLayer
+  - first:
+      74: -2873013186163276460
+    second: lanterne007|Grass1273|Take 001|BaseLayer
+  - first:
+      74: 4977751690642418691
+    second: lanterne007|Grass1274|Take 001|BaseLayer
+  - first:
+      74: -6973819485164214287
+    second: lanterne007|Grass1275|Take 001|BaseLayer
+  - first:
+      74: 6579644899908749961
+    second: lanterne007|Grass1276|Take 001|BaseLayer
+  - first:
+      74: -9207029785250386623
+    second: lanterne007|Grass1277|Take 001|BaseLayer
+  - first:
+      74: -7882167156018739105
+    second: lanterne007|Grass1278|Take 001|BaseLayer
+  - first:
+      74: 3744284717069319319
+    second: lanterne007|Grass1279|Take 001|BaseLayer
+  - first:
+      74: -8920577061785612911
+    second: lanterne007|Grass127|Take 001|BaseLayer
+  - first:
+      74: -4673265442993829723
+    second: lanterne007|Grass1280|Take 001|BaseLayer
+  - first:
+      74: 3867191554962737274
+    second: lanterne007|Grass1281|Take 001|BaseLayer
+  - first:
+      74: 7592531808351229727
+    second: lanterne007|Grass1282|Take 001|BaseLayer
+  - first:
+      74: 3215461959263989681
+    second: lanterne007|Grass1283|Take 001|BaseLayer
+  - first:
+      74: -6576122605230675396
+    second: lanterne007|Grass1284|Take 001|BaseLayer
+  - first:
+      74: 5850683104820289455
+    second: lanterne007|Grass1285|Take 001|BaseLayer
+  - first:
+      74: 4646276461848487607
+    second: lanterne007|Grass1286|Take 001|BaseLayer
+  - first:
+      74: -9046570132378748875
+    second: lanterne007|Grass1287|Take 001|BaseLayer
+  - first:
+      74: -3696996637436721029
+    second: lanterne007|Grass1288|Take 001|BaseLayer
+  - first:
+      74: -1539229853450778889
+    second: lanterne007|Grass1289|Take 001|BaseLayer
+  - first:
+      74: -2927835410050985027
+    second: lanterne007|Grass128|Take 001|BaseLayer
+  - first:
+      74: 696269262506617583
+    second: lanterne007|Grass1290|Take 001|BaseLayer
+  - first:
+      74: 1227498706056066634
+    second: lanterne007|Grass1291|Take 001|BaseLayer
+  - first:
+      74: -3342814335626822632
+    second: lanterne007|Grass1292|Take 001|BaseLayer
+  - first:
+      74: 115116466926260195
+    second: lanterne007|Grass1293|Take 001|BaseLayer
+  - first:
+      74: 2308546134676828096
+    second: lanterne007|Grass1294|Take 001|BaseLayer
+  - first:
+      74: 4947329822311409899
+    second: lanterne007|Grass1295|Take 001|BaseLayer
+  - first:
+      74: 3764787408262843889
+    second: lanterne007|Grass1296|Take 001|BaseLayer
+  - first:
+      74: 845093191300196140
+    second: lanterne007|Grass1297|Take 001|BaseLayer
+  - first:
+      74: 7079114316152123981
+    second: lanterne007|Grass1298|Take 001|BaseLayer
+  - first:
+      74: -6813105803851175699
+    second: lanterne007|Grass1299|Take 001|BaseLayer
+  - first:
+      74: 913037746649848623
+    second: lanterne007|Grass129|Take 001|BaseLayer
+  - first:
+      74: -7780413804340265156
+    second: lanterne007|Grass1300|Take 001|BaseLayer
+  - first:
+      74: -6180651924573893866
+    second: lanterne007|Grass1301|Take 001|BaseLayer
+  - first:
+      74: -5412792468147968883
+    second: lanterne007|Grass1302|Take 001|BaseLayer
+  - first:
+      74: 6062292373029633922
+    second: lanterne007|Grass1303|Take 001|BaseLayer
+  - first:
+      74: 580267805973623318
+    second: lanterne007|Grass1304|Take 001|BaseLayer
+  - first:
+      74: -2795713819264610935
+    second: lanterne007|Grass1305|Take 001|BaseLayer
+  - first:
+      74: 3731002203008027481
+    second: lanterne007|Grass1306|Take 001|BaseLayer
+  - first:
+      74: 6929002421353669883
+    second: lanterne007|Grass1307|Take 001|BaseLayer
+  - first:
+      74: 2415346059866573228
+    second: lanterne007|Grass1308|Take 001|BaseLayer
+  - first:
+      74: -3817385358945327733
+    second: lanterne007|Grass1309|Take 001|BaseLayer
+  - first:
+      74: 8902138873945753425
+    second: lanterne007|Grass130|Take 001|BaseLayer
+  - first:
+      74: 5188302060869013672
+    second: lanterne007|Grass1310|Take 001|BaseLayer
+  - first:
+      74: 4397953769384738165
+    second: lanterne007|Grass1311|Take 001|BaseLayer
+  - first:
+      74: -5200563876996900706
+    second: lanterne007|Grass1312|Take 001|BaseLayer
+  - first:
+      74: -2174874973454236339
+    second: lanterne007|Grass1313|Take 001|BaseLayer
+  - first:
+      74: -4833632758681988115
+    second: lanterne007|Grass1314|Take 001|BaseLayer
+  - first:
+      74: -228833061900338200
+    second: lanterne007|Grass1315|Take 001|BaseLayer
+  - first:
+      74: -8885530115766347719
+    second: lanterne007|Grass1316|Take 001|BaseLayer
+  - first:
+      74: 5745333913526017313
+    second: lanterne007|Grass1317|Take 001|BaseLayer
+  - first:
+      74: -1973253151676807137
+    second: lanterne007|Grass1318|Take 001|BaseLayer
+  - first:
+      74: -6789101422189405438
+    second: lanterne007|Grass1319|Take 001|BaseLayer
+  - first:
+      74: -441385287798726041
+    second: lanterne007|Grass131|Take 001|BaseLayer
+  - first:
+      74: 908726182155220227
+    second: lanterne007|Grass1320|Take 001|BaseLayer
+  - first:
+      74: -1333747356876426575
+    second: lanterne007|Grass1321|Take 001|BaseLayer
+  - first:
+      74: 5289570361986240012
+    second: lanterne007|Grass1322|Take 001|BaseLayer
+  - first:
+      74: -3988890709787367312
+    second: lanterne007|Grass1323|Take 001|BaseLayer
+  - first:
+      74: -447776781639398578
+    second: lanterne007|Grass1324|Take 001|BaseLayer
+  - first:
+      74: -2111878017984307166
+    second: lanterne007|Grass1325|Take 001|BaseLayer
+  - first:
+      74: -3750062546403765144
+    second: lanterne007|Grass1326|Take 001|BaseLayer
+  - first:
+      74: 1602542319652590991
+    second: lanterne007|Grass1327|Take 001|BaseLayer
+  - first:
+      74: -9195977012059562399
+    second: lanterne007|Grass1328|Take 001|BaseLayer
+  - first:
+      74: -6374757302165017361
+    second: lanterne007|Grass1329|Take 001|BaseLayer
+  - first:
+      74: -8005290596194081950
+    second: lanterne007|Grass132|Take 001|BaseLayer
+  - first:
+      74: -6490892418398806173
+    second: lanterne007|Grass1330|Take 001|BaseLayer
+  - first:
+      74: -2910960984130557297
+    second: lanterne007|Grass1331|Take 001|BaseLayer
+  - first:
+      74: 8081143736536237537
+    second: lanterne007|Grass1332|Take 001|BaseLayer
+  - first:
+      74: -3332784120950384024
+    second: lanterne007|Grass1333|Take 001|BaseLayer
+  - first:
+      74: -5439218648018104667
+    second: lanterne007|Grass1334|Take 001|BaseLayer
+  - first:
+      74: -7245741524506788365
+    second: lanterne007|Grass1335|Take 001|BaseLayer
+  - first:
+      74: 6849077597306050038
+    second: lanterne007|Grass1336|Take 001|BaseLayer
+  - first:
+      74: -3724370633428076318
+    second: lanterne007|Grass1337|Take 001|BaseLayer
+  - first:
+      74: 3403271551536434960
+    second: lanterne007|Grass1338|Take 001|BaseLayer
+  - first:
+      74: 1333469785121846222
+    second: lanterne007|Grass1339|Take 001|BaseLayer
+  - first:
+      74: -3057266556891312374
+    second: lanterne007|Grass133|Take 001|BaseLayer
+  - first:
+      74: 4313287335918147585
+    second: lanterne007|Grass1340|Take 001|BaseLayer
+  - first:
+      74: -3201726041526200688
+    second: lanterne007|Grass1341|Take 001|BaseLayer
+  - first:
+      74: 597057764619491425
+    second: lanterne007|Grass1342|Take 001|BaseLayer
+  - first:
+      74: -4930831871374051587
+    second: lanterne007|Grass1343|Take 001|BaseLayer
+  - first:
+      74: -7728250275246515812
+    second: lanterne007|Grass1344|Take 001|BaseLayer
+  - first:
+      74: 1615641152319012771
+    second: lanterne007|Grass134|Take 001|BaseLayer
+  - first:
+      74: 2768069858777325652
+    second: lanterne007|Grass135|Take 001|BaseLayer
+  - first:
+      74: 2246871330234559311
+    second: lanterne007|Grass136|Take 001|BaseLayer
+  - first:
+      74: 7756553464389071916
+    second: lanterne007|Grass137|Take 001|BaseLayer
+  - first:
+      74: -242922304765832742
+    second: lanterne007|Grass138|Take 001|BaseLayer
+  - first:
+      74: -1426260524397036771
+    second: lanterne007|Grass139|Take 001|BaseLayer
+  - first:
+      74: 4524891468858540693
+    second: lanterne007|Grass140|Take 001|BaseLayer
+  - first:
+      74: 5893590211709753295
+    second: lanterne007|Grass141|Take 001|BaseLayer
+  - first:
+      74: 6396176027662909950
+    second: lanterne007|Grass142|Take 001|BaseLayer
+  - first:
+      74: -5561814678511429654
+    second: lanterne007|Grass143|Take 001|BaseLayer
+  - first:
+      74: -9129264351340053438
+    second: lanterne007|Grass144|Take 001|BaseLayer
+  - first:
+      74: 4038708126084200131
+    second: lanterne007|Grass145|Take 001|BaseLayer
+  - first:
+      74: -2496184222176868096
+    second: lanterne007|Grass146|Take 001|BaseLayer
+  - first:
+      74: 8333851529508879879
+    second: lanterne007|Grass147|Take 001|BaseLayer
+  - first:
+      74: 7131634990281859289
+    second: lanterne007|Grass148|Take 001|BaseLayer
+  - first:
+      74: 1947516504866894646
+    second: lanterne007|Grass149|Take 001|BaseLayer
+  - first:
+      74: -239502682856587184
+    second: lanterne007|Grass150|Take 001|BaseLayer
+  - first:
+      74: -2806073190303296238
+    second: lanterne007|Grass151|Take 001|BaseLayer
+  - first:
+      74: -1177987955286191312
+    second: lanterne007|Grass152|Take 001|BaseLayer
+  - first:
+      74: 7751543588109896975
+    second: lanterne007|Grass153|Take 001|BaseLayer
+  - first:
+      74: 842926323587645930
+    second: lanterne007|Grass154|Take 001|BaseLayer
+  - first:
+      74: 7430767029804707861
+    second: lanterne007|Grass222|Take 001|BaseLayer
+  - first:
+      74: 903323444273645530
+    second: lanterne007|Grass223|Take 001|BaseLayer
+  - first:
+      74: -8535205111798160775
+    second: lanterne007|Grass224|Take 001|BaseLayer
+  - first:
+      74: 4937211338678483312
+    second: lanterne007|Grass225|Take 001|BaseLayer
+  - first:
+      74: -7171246938635369131
+    second: lanterne007|Grass226|Take 001|BaseLayer
+  - first:
+      74: -4498576094862883441
+    second: lanterne007|Grass227|Take 001|BaseLayer
+  - first:
+      74: -1249468507794017439
+    second: lanterne007|Grass228|Take 001|BaseLayer
+  - first:
+      74: 7795488599894267372
+    second: lanterne007|Grass229|Take 001|BaseLayer
+  - first:
+      74: 112184699409362587
+    second: lanterne007|Grass230|Take 001|BaseLayer
+  - first:
+      74: -1662275297045344448
+    second: lanterne007|Grass231|Take 001|BaseLayer
+  - first:
+      74: 6097592540694735087
+    second: lanterne007|Grass232|Take 001|BaseLayer
+  - first:
+      74: -4175739142764444044
+    second: lanterne007|Grass233|Take 001|BaseLayer
+  - first:
+      74: 7101481295353936197
+    second: lanterne007|Grass234|Take 001|BaseLayer
+  - first:
+      74: 779907648234045722
+    second: lanterne007|Grass235|Take 001|BaseLayer
+  - first:
+      74: -1940315736714539850
+    second: lanterne007|Grass236|Take 001|BaseLayer
+  - first:
+      74: -417091884104764500
+    second: lanterne007|Grass237|Take 001|BaseLayer
+  - first:
+      74: -5741843331380009932
+    second: lanterne007|Grass238|Take 001|BaseLayer
+  - first:
+      74: -6893877448852932914
+    second: lanterne007|Grass239|Take 001|BaseLayer
+  - first:
+      74: -2495577804238099383
+    second: lanterne007|Grass240|Take 001|BaseLayer
+  - first:
+      74: 4351265337358211542
+    second: lanterne007|Grass241|Take 001|BaseLayer
+  - first:
+      74: 3041730175424191311
+    second: lanterne007|Grass242|Take 001|BaseLayer
+  - first:
+      74: -3977862709043387041
+    second: lanterne007|Grass243|Take 001|BaseLayer
+  - first:
+      74: -6110321504660512645
+    second: lanterne007|Grass244|Take 001|BaseLayer
+  - first:
+      74: 5406028330077785860
+    second: lanterne007|Grass245|Take 001|BaseLayer
+  - first:
+      74: -6996558179975223557
+    second: lanterne007|Grass246|Take 001|BaseLayer
+  - first:
+      74: 2430268518426422841
+    second: lanterne007|Grass247|Take 001|BaseLayer
+  - first:
+      74: -4566140413505598185
+    second: lanterne007|Grass248|Take 001|BaseLayer
+  - first:
+      74: 4711081076629576221
+    second: lanterne007|Grass249|Take 001|BaseLayer
+  - first:
+      74: 7941215258925635982
+    second: lanterne007|Grass250|Take 001|BaseLayer
+  - first:
+      74: -2346253570116960486
+    second: lanterne007|Grass251|Take 001|BaseLayer
+  - first:
+      74: -6706820960157423020
+    second: lanterne007|Grass252|Take 001|BaseLayer
+  - first:
+      74: -3335042181071599010
+    second: lanterne007|Grass253|Take 001|BaseLayer
+  - first:
+      74: -4644884603640968370
+    second: lanterne007|Grass254|Take 001|BaseLayer
+  - first:
+      74: -5091302399147549550
+    second: lanterne007|Grass255|Take 001|BaseLayer
+  - first:
+      74: -292325146295262365
+    second: lanterne007|Grass256|Take 001|BaseLayer
+  - first:
+      74: 8849607291626382178
+    second: lanterne007|Grass257|Take 001|BaseLayer
+  - first:
+      74: -3457760172523892794
+    second: lanterne007|Grass258|Take 001|BaseLayer
+  - first:
+      74: -367591562608109988
+    second: lanterne007|Grass259|Take 001|BaseLayer
+  - first:
+      74: 7673189664927191985
+    second: lanterne007|Grass260|Take 001|BaseLayer
+  - first:
+      74: -6089366353678959444
+    second: lanterne007|Grass261|Take 001|BaseLayer
+  - first:
+      74: 5312592011507544451
+    second: lanterne007|Grass262|Take 001|BaseLayer
+  - first:
+      74: -4906369581747657832
+    second: lanterne007|Grass263|Take 001|BaseLayer
+  - first:
+      74: -8696843291523396240
+    second: lanterne007|Grass264|Take 001|BaseLayer
+  - first:
+      74: 8138696816202200635
+    second: lanterne007|Grass265|Take 001|BaseLayer
+  - first:
+      74: -8173225964099855604
+    second: lanterne007|Grass266|Take 001|BaseLayer
+  - first:
+      74: -2697247217945563265
+    second: lanterne007|Grass267|Take 001|BaseLayer
+  - first:
+      74: 6899431953102358981
+    second: lanterne007|Grass268|Take 001|BaseLayer
+  - first:
+      74: -2885567907298208467
+    second: lanterne007|Grass269|Take 001|BaseLayer
+  - first:
+      74: 580193794918909786
+    second: lanterne007|Grass270|Take 001|BaseLayer
+  - first:
+      74: 7586712401078782368
+    second: lanterne007|Grass271|Take 001|BaseLayer
+  - first:
+      74: 9002830693674755948
+    second: lanterne007|Grass272|Take 001|BaseLayer
+  - first:
+      74: -3027401914344639906
+    second: lanterne007|Grass273|Take 001|BaseLayer
+  - first:
+      74: -6269827679148195919
+    second: lanterne007|Grass274|Take 001|BaseLayer
+  - first:
+      74: -2134806100401478042
+    second: lanterne007|Grass275|Take 001|BaseLayer
+  - first:
+      74: -3752945020449540486
+    second: lanterne007|Grass276|Take 001|BaseLayer
+  - first:
+      74: 717989327081069148
+    second: lanterne007|Grass277|Take 001|BaseLayer
+  - first:
+      74: -8562020033192808808
+    second: lanterne007|Grass278|Take 001|BaseLayer
+  - first:
+      74: 2490864313190581035
+    second: lanterne007|Grass279|Take 001|BaseLayer
+  - first:
+      74: -2557563900654402625
+    second: lanterne007|Grass280|Take 001|BaseLayer
+  - first:
+      74: 5666486235474723452
+    second: lanterne007|Grass281|Take 001|BaseLayer
+  - first:
+      74: 5547747848344887796
+    second: lanterne007|Grass282|Take 001|BaseLayer
+  - first:
+      74: -3817703121596822963
+    second: lanterne007|Grass283|Take 001|BaseLayer
+  - first:
+      74: -7983152781096553312
+    second: lanterne007|Grass284|Take 001|BaseLayer
+  - first:
+      74: -6334865225310643148
+    second: lanterne007|Grass285|Take 001|BaseLayer
+  - first:
+      74: 172025439090228481
+    second: lanterne007|Grass286|Take 001|BaseLayer
+  - first:
+      74: -8293092203024484775
+    second: lanterne007|Grass287|Take 001|BaseLayer
+  - first:
+      74: 2326422699345549633
+    second: lanterne007|Grass288|Take 001|BaseLayer
+  - first:
+      74: 5402192650621492310
+    second: lanterne007|Grass289|Take 001|BaseLayer
+  - first:
+      74: -4941836599906270425
+    second: lanterne007|Grass290|Take 001|BaseLayer
+  - first:
+      74: -9215448738497231293
+    second: lanterne007|Grass291|Take 001|BaseLayer
+  - first:
+      74: -621056409769899790
+    second: lanterne007|Grass292|Take 001|BaseLayer
+  - first:
+      74: -2684423377410210543
+    second: lanterne007|Grass293|Take 001|BaseLayer
+  - first:
+      74: -2043799484964715138
+    second: lanterne007|Grass294|Take 001|BaseLayer
+  - first:
+      74: 43535482674738518
+    second: lanterne007|Grass295|Take 001|BaseLayer
+  - first:
+      74: 5909826517399218338
+    second: lanterne007|Grass296|Take 001|BaseLayer
+  - first:
+      74: -6250520329518523833
+    second: lanterne007|Grass297|Take 001|BaseLayer
+  - first:
+      74: 4104659934531430426
+    second: lanterne007|Grass298|Take 001|BaseLayer
+  - first:
+      74: -8758200054604959723
+    second: lanterne007|Grass299|Take 001|BaseLayer
+  - first:
+      74: -1350275600528147222
+    second: lanterne007|Grass300|Take 001|BaseLayer
+  - first:
+      74: 1470722613933533375
+    second: lanterne007|Grass301|Take 001|BaseLayer
+  - first:
+      74: -8423161256658168884
+    second: lanterne007|Grass302|Take 001|BaseLayer
+  - first:
+      74: -4995622721573919112
+    second: lanterne007|Grass303|Take 001|BaseLayer
+  - first:
+      74: 3666510961693275453
+    second: lanterne007|Grass304|Take 001|BaseLayer
+  - first:
+      74: -4509638593493404364
+    second: lanterne007|Grass305|Take 001|BaseLayer
+  - first:
+      74: -1663147052688239585
+    second: lanterne007|Grass306|Take 001|BaseLayer
+  - first:
+      74: -5689214983871376581
+    second: lanterne007|Grass307|Take 001|BaseLayer
+  - first:
+      74: -6924987828898292849
+    second: lanterne007|Grass308|Take 001|BaseLayer
+  - first:
+      74: 654648713285812324
+    second: lanterne007|Grass309|Take 001|BaseLayer
+  - first:
+      74: 8924301305482947106
+    second: lanterne007|Grass310|Take 001|BaseLayer
+  - first:
+      74: 8830666397605931347
+    second: lanterne007|Grass311|Take 001|BaseLayer
+  - first:
+      74: -5296918085417603824
+    second: lanterne007|Grass312|Take 001|BaseLayer
+  - first:
+      74: -8075662635459790606
+    second: lanterne007|Grass313|Take 001|BaseLayer
+  - first:
+      74: -7333530369039290955
+    second: lanterne007|Grass314|Take 001|BaseLayer
+  - first:
+      74: -5483023264715996510
+    second: lanterne007|Grass315|Take 001|BaseLayer
+  - first:
+      74: 4348734540423323487
+    second: lanterne007|Grass316|Take 001|BaseLayer
+  - first:
+      74: 5385713445620179406
+    second: lanterne007|Grass317|Take 001|BaseLayer
+  - first:
+      74: 5358975935322390525
+    second: lanterne007|Grass318|Take 001|BaseLayer
+  - first:
+      74: -2803950416359184308
+    second: lanterne007|Grass319|Take 001|BaseLayer
+  - first:
+      74: 7457798303491456252
+    second: lanterne007|Grass320|Take 001|BaseLayer
+  - first:
+      74: 4818417096671799295
+    second: lanterne007|Grass321|Take 001|BaseLayer
+  - first:
+      74: 9222780675063811231
+    second: lanterne007|Grass322|Take 001|BaseLayer
+  - first:
+      74: -7522345145167038502
+    second: lanterne007|Grass323|Take 001|BaseLayer
+  - first:
+      74: 8826332000553854129
+    second: lanterne007|Grass324|Take 001|BaseLayer
+  - first:
+      74: 7150139485586528043
+    second: lanterne007|Grass325|Take 001|BaseLayer
+  - first:
+      74: -4623914283123677346
+    second: lanterne007|Grass326|Take 001|BaseLayer
+  - first:
+      74: -2599469665646166310
+    second: lanterne007|Grass327|Take 001|BaseLayer
+  - first:
+      74: -805185237535603365
+    second: lanterne007|Grass328|Take 001|BaseLayer
+  - first:
+      74: 4759738607065205339
+    second: lanterne007|Grass329|Take 001|BaseLayer
+  - first:
+      74: 5646335929796903462
+    second: lanterne007|Grass330|Take 001|BaseLayer
+  - first:
+      74: 4765096271247989801
+    second: lanterne007|Grass331|Take 001|BaseLayer
+  - first:
+      74: -4612365270640738933
+    second: lanterne007|Grass332|Take 001|BaseLayer
+  - first:
+      74: 8713729320486407975
+    second: lanterne007|Grass333|Take 001|BaseLayer
+  - first:
+      74: 2061588034955561220
+    second: lanterne007|Grass334|Take 001|BaseLayer
+  - first:
+      74: 835085032527192411
+    second: lanterne007|Grass335|Take 001|BaseLayer
+  - first:
+      74: 7333137649958713104
+    second: lanterne007|Grass336|Take 001|BaseLayer
+  - first:
+      74: 4928173971845307841
+    second: lanterne007|Grass337|Take 001|BaseLayer
+  - first:
+      74: 1902154887492102903
+    second: lanterne007|Grass338|Take 001|BaseLayer
+  - first:
+      74: 2534520353084441093
+    second: lanterne007|Grass339|Take 001|BaseLayer
+  - first:
+      74: -6497429051134274153
+    second: lanterne007|Grass340|Take 001|BaseLayer
+  - first:
+      74: -2936742034355743212
+    second: lanterne007|Grass341|Take 001|BaseLayer
+  - first:
+      74: -7945858909397975468
+    second: lanterne007|Grass342|Take 001|BaseLayer
+  - first:
+      74: -2245970129709130700
+    second: lanterne007|Grass343|Take 001|BaseLayer
+  - first:
+      74: -3151645074472705837
+    second: lanterne007|Grass344|Take 001|BaseLayer
+  - first:
+      74: 2753732642441283423
+    second: lanterne007|Grass345|Take 001|BaseLayer
+  - first:
+      74: 6383833664445360036
+    second: lanterne007|Grass346|Take 001|BaseLayer
+  - first:
+      74: 8830890161526575656
+    second: lanterne007|Grass347|Take 001|BaseLayer
+  - first:
+      74: 45714611962293719
+    second: lanterne007|Grass348|Take 001|BaseLayer
+  - first:
+      74: -5876578124193928946
+    second: lanterne007|Grass349|Take 001|BaseLayer
+  - first:
+      74: 889302641587745984
+    second: lanterne007|Grass350|Take 001|BaseLayer
+  - first:
+      74: -5837577779422898360
+    second: lanterne007|Grass351|Take 001|BaseLayer
+  - first:
+      74: 2992657960679023376
+    second: lanterne007|Grass352|Take 001|BaseLayer
+  - first:
+      74: 107548284427522269
+    second: lanterne007|Grass353|Take 001|BaseLayer
+  - first:
+      74: 7660717475770617312
+    second: lanterne007|Grass354|Take 001|BaseLayer
+  - first:
+      74: -5749144370629167596
+    second: lanterne007|Grass355|Take 001|BaseLayer
+  - first:
+      74: -900187303029495723
+    second: lanterne007|Grass356|Take 001|BaseLayer
+  - first:
+      74: -6336156326446041640
+    second: lanterne007|Grass357|Take 001|BaseLayer
+  - first:
+      74: -1671482014479295944
+    second: lanterne007|Grass358|Take 001|BaseLayer
+  - first:
+      74: -597680561585184433
+    second: lanterne007|Grass359|Take 001|BaseLayer
+  - first:
+      74: -907299539603176872
+    second: lanterne007|Grass360|Take 001|BaseLayer
+  - first:
+      74: -1690895111457078975
+    second: lanterne007|Grass361|Take 001|BaseLayer
+  - first:
+      74: 8739572915773873662
+    second: lanterne007|Grass362|Take 001|BaseLayer
+  - first:
+      74: 4872330953890961496
+    second: lanterne007|Grass363|Take 001|BaseLayer
+  - first:
+      74: -5022511184051800042
+    second: lanterne007|Grass364|Take 001|BaseLayer
+  - first:
+      74: -3072668136339142129
+    second: lanterne007|Grass365|Take 001|BaseLayer
+  - first:
+      74: 6773333703681220070
+    second: lanterne007|Grass366|Take 001|BaseLayer
+  - first:
+      74: -6273031514623617091
+    second: lanterne007|Grass367|Take 001|BaseLayer
+  - first:
+      74: -8224741688962824524
+    second: lanterne007|Grass368|Take 001|BaseLayer
+  - first:
+      74: 3146435685131528241
+    second: lanterne007|Grass369|Take 001|BaseLayer
+  - first:
+      74: -1020854811640200484
+    second: lanterne007|Grass370|Take 001|BaseLayer
+  - first:
+      74: 4039473985631151199
+    second: lanterne007|Grass371|Take 001|BaseLayer
+  - first:
+      74: -198526943632384068
+    second: lanterne007|Grass372|Take 001|BaseLayer
+  - first:
+      74: -4309789396652844930
+    second: lanterne007|Grass373|Take 001|BaseLayer
+  - first:
+      74: -7440824760593809952
+    second: lanterne007|Grass374|Take 001|BaseLayer
+  - first:
+      74: 8674641377023596429
+    second: lanterne007|Grass375|Take 001|BaseLayer
+  - first:
+      74: 8359046386433773272
+    second: lanterne007|Grass376|Take 001|BaseLayer
+  - first:
+      74: -593625181450924338
+    second: lanterne007|Grass377|Take 001|BaseLayer
+  - first:
+      74: -3375591541844222321
+    second: lanterne007|Grass378|Take 001|BaseLayer
+  - first:
+      74: 3394869244717257757
+    second: lanterne007|Grass379|Take 001|BaseLayer
+  - first:
+      74: -3022896621639347575
+    second: lanterne007|Grass380|Take 001|BaseLayer
+  - first:
+      74: 6716092140100975803
+    second: lanterne007|Grass381|Take 001|BaseLayer
+  - first:
+      74: 7093257094754050022
+    second: lanterne007|Grass382|Take 001|BaseLayer
+  - first:
+      74: -2274536509561228042
+    second: lanterne007|Grass383|Take 001|BaseLayer
+  - first:
+      74: -5112783243851472428
+    second: lanterne007|Grass384|Take 001|BaseLayer
+  - first:
+      74: 5529379172295165570
+    second: lanterne007|Grass385|Take 001|BaseLayer
+  - first:
+      74: -6922450430013384217
+    second: lanterne007|Grass386|Take 001|BaseLayer
+  - first:
+      74: 7633225912346123075
+    second: lanterne007|Grass387|Take 001|BaseLayer
+  - first:
+      74: -5030509712153404036
+    second: lanterne007|Grass388|Take 001|BaseLayer
+  - first:
+      74: -4801551080122360938
+    second: lanterne007|Grass389|Take 001|BaseLayer
+  - first:
+      74: 745035836796469393
+    second: lanterne007|Grass390|Take 001|BaseLayer
+  - first:
+      74: 6677309863025338097
+    second: lanterne007|Grass391|Take 001|BaseLayer
+  - first:
+      74: 2044974581320545687
+    second: lanterne007|Grass392|Take 001|BaseLayer
+  - first:
+      74: -9087687602197668045
+    second: lanterne007|Grass393|Take 001|BaseLayer
+  - first:
+      74: 4572699459769155284
+    second: lanterne007|Grass394|Take 001|BaseLayer
+  - first:
+      74: -3716838145011123550
+    second: lanterne007|Grass395|Take 001|BaseLayer
+  - first:
+      74: -6442206184350864090
+    second: lanterne007|Grass396|Take 001|BaseLayer
+  - first:
+      74: 5541633581535743851
+    second: lanterne007|Grass397|Take 001|BaseLayer
+  - first:
+      74: 8858759893944056627
+    second: lanterne007|Grass398|Take 001|BaseLayer
+  - first:
+      74: 2760197223996774216
+    second: lanterne007|Grass399|Take 001|BaseLayer
+  - first:
+      74: -2843315479866716544
+    second: lanterne007|Grass400|Take 001|BaseLayer
+  - first:
+      74: 8416981345542691767
+    second: lanterne007|Grass401|Take 001|BaseLayer
+  - first:
+      74: 6966510550836705389
+    second: lanterne007|Grass402|Take 001|BaseLayer
+  - first:
+      74: 7343491125141468162
+    second: lanterne007|Grass403|Take 001|BaseLayer
+  - first:
+      74: 7967806022361684932
+    second: lanterne007|Grass404|Take 001|BaseLayer
+  - first:
+      74: 6957870783384290742
+    second: lanterne007|Grass405|Take 001|BaseLayer
+  - first:
+      74: -4039195471910189796
+    second: lanterne007|Grass406|Take 001|BaseLayer
+  - first:
+      74: -5445627720171511903
+    second: lanterne007|Grass407|Take 001|BaseLayer
+  - first:
+      74: 5580224432794128750
+    second: lanterne007|Grass408|Take 001|BaseLayer
+  - first:
+      74: 6093714190470112052
+    second: lanterne007|Grass409|Take 001|BaseLayer
+  - first:
+      74: -310433335000902843
+    second: lanterne007|Grass410|Take 001|BaseLayer
+  - first:
+      74: 7960011186861665655
+    second: lanterne007|Grass411|Take 001|BaseLayer
+  - first:
+      74: 125763944105994660
+    second: lanterne007|Grass412|Take 001|BaseLayer
+  - first:
+      74: 1502921566908311279
+    second: lanterne007|Grass413|Take 001|BaseLayer
+  - first:
+      74: -3724384745571678994
+    second: lanterne007|Grass414|Take 001|BaseLayer
+  - first:
+      74: 8808970708569754526
+    second: lanterne007|Grass415|Take 001|BaseLayer
+  - first:
+      74: 987293690537781995
+    second: lanterne007|Grass416|Take 001|BaseLayer
+  - first:
+      74: 8763455995609171304
+    second: lanterne007|Grass417|Take 001|BaseLayer
+  - first:
+      74: 8438868254794585189
+    second: lanterne007|Grass418|Take 001|BaseLayer
+  - first:
+      74: 9083188063280304428
+    second: lanterne007|Grass419|Take 001|BaseLayer
+  - first:
+      74: 3179037826300685045
+    second: lanterne007|Grass420|Take 001|BaseLayer
+  - first:
+      74: -2190932693041616231
+    second: lanterne007|Grass421|Take 001|BaseLayer
+  - first:
+      74: -5214335040370326725
+    second: lanterne007|Grass422|Take 001|BaseLayer
+  - first:
+      74: -9197199755373351752
+    second: lanterne007|Grass423|Take 001|BaseLayer
+  - first:
+      74: -195610960236324711
+    second: lanterne007|Grass424|Take 001|BaseLayer
+  - first:
+      74: -5044270121472615257
+    second: lanterne007|Grass425|Take 001|BaseLayer
+  - first:
+      74: 3034459189689356461
+    second: lanterne007|Grass426|Take 001|BaseLayer
+  - first:
+      74: 6660176835359129940
+    second: lanterne007|Grass427|Take 001|BaseLayer
+  - first:
+      74: -3964439722118402262
+    second: lanterne007|Grass428|Take 001|BaseLayer
+  - first:
+      74: 7175653248735423
+    second: lanterne007|Grass429|Take 001|BaseLayer
+  - first:
+      74: 4374778289400340684
+    second: lanterne007|Grass430|Take 001|BaseLayer
+  - first:
+      74: -9089829852569940111
+    second: lanterne007|Grass431|Take 001|BaseLayer
+  - first:
+      74: -5163811642624326078
+    second: lanterne007|Grass432|Take 001|BaseLayer
+  - first:
+      74: 123139507440291653
+    second: lanterne007|Grass433|Take 001|BaseLayer
+  - first:
+      74: 3775270088177280538
+    second: lanterne007|Grass434|Take 001|BaseLayer
+  - first:
+      74: 5451954165746856188
+    second: lanterne007|Grass435|Take 001|BaseLayer
+  - first:
+      74: -7388346649896653993
+    second: lanterne007|Grass436|Take 001|BaseLayer
+  - first:
+      74: 7268450565551901004
+    second: lanterne007|Grass437|Take 001|BaseLayer
+  - first:
+      74: -9166627061934532135
+    second: lanterne007|Grass438|Take 001|BaseLayer
+  - first:
+      74: -7709815176190472346
+    second: lanterne007|Grass439|Take 001|BaseLayer
+  - first:
+      74: -1787051641579034591
+    second: lanterne007|Grass440|Take 001|BaseLayer
+  - first:
+      74: 6562384876236275820
+    second: lanterne007|Grass441|Take 001|BaseLayer
+  - first:
+      74: 5345668277752430580
+    second: lanterne007|Grass442|Take 001|BaseLayer
+  - first:
+      74: -5066164595464505772
+    second: lanterne007|Grass443|Take 001|BaseLayer
+  - first:
+      74: -6824887250687035299
+    second: lanterne007|Grass444|Take 001|BaseLayer
+  - first:
+      74: 877141175862650402
+    second: lanterne007|Grass445|Take 001|BaseLayer
+  - first:
+      74: 4539402445762829379
+    second: lanterne007|Grass446|Take 001|BaseLayer
+  - first:
+      74: 900704266515292668
+    second: lanterne007|Grass447|Take 001|BaseLayer
+  - first:
+      74: 3696785390560849768
+    second: lanterne007|Grass448|Take 001|BaseLayer
+  - first:
+      74: -6672947446465701012
+    second: lanterne007|Grass449|Take 001|BaseLayer
+  - first:
+      74: -1790146315891903135
+    second: lanterne007|Grass450|Take 001|BaseLayer
+  - first:
+      74: 306864636963426705
+    second: lanterne007|Grass451|Take 001|BaseLayer
+  - first:
+      74: -5182233346050837685
+    second: lanterne007|Grass452|Take 001|BaseLayer
+  - first:
+      74: 6023749632223259525
+    second: lanterne007|Grass453|Take 001|BaseLayer
+  - first:
+      74: -810293864928672149
+    second: lanterne007|Grass454|Take 001|BaseLayer
+  - first:
+      74: -5748453743274750480
+    second: lanterne007|Grass455|Take 001|BaseLayer
+  - first:
+      74: 7826542300504442336
+    second: lanterne007|Grass456|Take 001|BaseLayer
+  - first:
+      74: -7736531310715602348
+    second: lanterne007|Grass457|Take 001|BaseLayer
+  - first:
+      74: 8920576268883414994
+    second: lanterne007|Grass458|Take 001|BaseLayer
+  - first:
+      74: -6301682393181734137
+    second: lanterne007|Grass459|Take 001|BaseLayer
+  - first:
+      74: -5259721416901903434
+    second: lanterne007|Grass460|Take 001|BaseLayer
+  - first:
+      74: 54538643534947250
+    second: lanterne007|Grass461|Take 001|BaseLayer
+  - first:
+      74: -1760408438961063869
+    second: lanterne007|Grass462|Take 001|BaseLayer
+  - first:
+      74: 7325962121832183645
+    second: lanterne007|Grass463|Take 001|BaseLayer
+  - first:
+      74: 8023065036925514230
+    second: lanterne007|Grass464|Take 001|BaseLayer
+  - first:
+      74: -1303859813702293642
+    second: lanterne007|Grass465|Take 001|BaseLayer
+  - first:
+      74: 5990673353596065379
+    second: lanterne007|Grass466|Take 001|BaseLayer
+  - first:
+      74: 7607583552299374573
+    second: lanterne007|Grass467|Take 001|BaseLayer
+  - first:
+      74: -4666362080677874703
+    second: lanterne007|Grass468|Take 001|BaseLayer
+  - first:
+      74: -5533253439328470895
+    second: lanterne007|Grass469|Take 001|BaseLayer
+  - first:
+      74: -4874874251669906507
+    second: lanterne007|Grass470|Take 001|BaseLayer
+  - first:
+      74: 3524283800587520230
+    second: lanterne007|Grass471|Take 001|BaseLayer
+  - first:
+      74: -2170467661723532815
+    second: lanterne007|Grass472|Take 001|BaseLayer
+  - first:
+      74: 2698286654200656524
+    second: lanterne007|Grass473|Take 001|BaseLayer
+  - first:
+      74: 4145185776643581718
+    second: lanterne007|Grass474|Take 001|BaseLayer
+  - first:
+      74: 1049346762583163555
+    second: lanterne007|Grass475|Take 001|BaseLayer
+  - first:
+      74: -1258257260523435803
+    second: lanterne007|Grass476|Take 001|BaseLayer
+  - first:
+      74: -3365258348227981140
+    second: lanterne007|Grass477|Take 001|BaseLayer
+  - first:
+      74: 88943506428469918
+    second: lanterne007|Grass478|Take 001|BaseLayer
+  - first:
+      74: 4173319506704815305
+    second: lanterne007|Grass479|Take 001|BaseLayer
+  - first:
+      74: -6555043200717143748
+    second: lanterne007|Grass480|Take 001|BaseLayer
+  - first:
+      74: 6917224090118820818
+    second: lanterne007|Grass481|Take 001|BaseLayer
+  - first:
+      74: -5638381891751507626
+    second: lanterne007|Grass482|Take 001|BaseLayer
+  - first:
+      74: -5730245371703043760
+    second: lanterne007|Grass483|Take 001|BaseLayer
+  - first:
+      74: 6394006819722002715
+    second: lanterne007|Grass484|Take 001|BaseLayer
+  - first:
+      74: -8155608166716099303
+    second: lanterne007|Grass485|Take 001|BaseLayer
+  - first:
+      74: 7191856371047327023
+    second: lanterne007|Grass486|Take 001|BaseLayer
+  - first:
+      74: -768414312796553566
+    second: lanterne007|Grass487|Take 001|BaseLayer
+  - first:
+      74: -4395359660147421736
+    second: lanterne007|Grass488|Take 001|BaseLayer
+  - first:
+      74: 685347272070332126
+    second: lanterne007|Grass489|Take 001|BaseLayer
+  - first:
+      74: 2037779614214753706
+    second: lanterne007|Grass490|Take 001|BaseLayer
+  - first:
+      74: -5689072919508008282
+    second: lanterne007|Grass491|Take 001|BaseLayer
+  - first:
+      74: -8988235881243687961
+    second: lanterne007|Grass492|Take 001|BaseLayer
+  - first:
+      74: 1742593713287093183
+    second: lanterne007|Grass493|Take 001|BaseLayer
+  - first:
+      74: 2507547839321789491
+    second: lanterne007|Grass494|Take 001|BaseLayer
+  - first:
+      74: -7726162236158468285
+    second: lanterne007|Grass495|Take 001|BaseLayer
+  - first:
+      74: 6559009546674492803
+    second: lanterne007|Grass496|Take 001|BaseLayer
+  - first:
+      74: -3982192594213489865
+    second: lanterne007|Grass497|Take 001|BaseLayer
+  - first:
+      74: -3414674722662419457
+    second: lanterne007|Grass498|Take 001|BaseLayer
+  - first:
+      74: 9096757590222439285
+    second: lanterne007|Grass499|Take 001|BaseLayer
+  - first:
+      74: 4462218949941605279
+    second: lanterne007|Grass500|Take 001|BaseLayer
+  - first:
+      74: -6477439682086453336
+    second: lanterne007|Grass501|Take 001|BaseLayer
+  - first:
+      74: -3685350649085130164
+    second: lanterne007|Grass502|Take 001|BaseLayer
+  - first:
+      74: 837433074292068761
+    second: lanterne007|Grass503|Take 001|BaseLayer
+  - first:
+      74: 4327321801068834564
+    second: lanterne007|Grass504|Take 001|BaseLayer
+  - first:
+      74: -7193319344375317811
+    second: lanterne007|Grass505|Take 001|BaseLayer
+  - first:
+      74: -4365138120968593108
+    second: lanterne007|Grass506|Take 001|BaseLayer
+  - first:
+      74: 9028445844118830591
+    second: lanterne007|Grass507|Take 001|BaseLayer
+  - first:
+      74: 3082116616922655747
+    second: lanterne007|Grass508|Take 001|BaseLayer
+  - first:
+      74: 3576085045547458297
+    second: lanterne007|Grass509|Take 001|BaseLayer
+  - first:
+      74: 21049779600595599
+    second: lanterne007|Grass510|Take 001|BaseLayer
+  - first:
+      74: -451846543781616643
+    second: lanterne007|Grass511|Take 001|BaseLayer
+  - first:
+      74: -6824775006456851157
+    second: lanterne007|Grass512|Take 001|BaseLayer
+  - first:
+      74: 1465015012139903047
+    second: lanterne007|Grass513|Take 001|BaseLayer
+  - first:
+      74: -1437146622536703205
+    second: lanterne007|Grass514|Take 001|BaseLayer
+  - first:
+      74: -5833918132666136391
+    second: lanterne007|Grass515|Take 001|BaseLayer
+  - first:
+      74: 3756408895027911715
+    second: lanterne007|Grass516|Take 001|BaseLayer
+  - first:
+      74: 3800895307163705376
+    second: lanterne007|Grass517|Take 001|BaseLayer
+  - first:
+      74: 2605478097066391031
+    second: lanterne007|Grass518|Take 001|BaseLayer
+  - first:
+      74: -7549357998742823473
+    second: lanterne007|Grass519|Take 001|BaseLayer
+  - first:
+      74: -217156565562747129
+    second: lanterne007|Grass520|Take 001|BaseLayer
+  - first:
+      74: 5136154201814308766
+    second: lanterne007|Grass521|Take 001|BaseLayer
+  - first:
+      74: -647741115898571502
+    second: lanterne007|Grass522|Take 001|BaseLayer
+  - first:
+      74: 2907658946332823293
+    second: lanterne007|Grass523|Take 001|BaseLayer
+  - first:
+      74: 3018701363639631941
+    second: lanterne007|Grass524|Take 001|BaseLayer
+  - first:
+      74: 3313044126102907491
+    second: lanterne007|Grass525|Take 001|BaseLayer
+  - first:
+      74: 7838631607662497727
+    second: lanterne007|Grass526|Take 001|BaseLayer
+  - first:
+      74: -9119332843657120675
+    second: lanterne007|Grass527|Take 001|BaseLayer
+  - first:
+      74: -1943525313961261377
+    second: lanterne007|Grass528|Take 001|BaseLayer
+  - first:
+      74: -5372682479330991183
+    second: lanterne007|Grass529|Take 001|BaseLayer
+  - first:
+      74: 1533752371451279640
+    second: lanterne007|Grass530|Take 001|BaseLayer
+  - first:
+      74: -6326818462736015291
+    second: lanterne007|Grass531|Take 001|BaseLayer
+  - first:
+      74: 2395408156003055973
+    second: lanterne007|Grass532|Take 001|BaseLayer
+  - first:
+      74: 1778989234016027017
+    second: lanterne007|Grass533|Take 001|BaseLayer
+  - first:
+      74: -2989674662845389078
+    second: lanterne007|Grass534|Take 001|BaseLayer
+  - first:
+      74: -8029930709897865448
+    second: lanterne007|Grass535|Take 001|BaseLayer
+  - first:
+      74: 2221153489826297224
+    second: lanterne007|Grass536|Take 001|BaseLayer
+  - first:
+      74: 3451449395598405040
+    second: lanterne007|Grass537|Take 001|BaseLayer
+  - first:
+      74: -7655252625836143599
+    second: lanterne007|Grass538|Take 001|BaseLayer
+  - first:
+      74: 7757829537548754125
+    second: lanterne007|Grass539|Take 001|BaseLayer
+  - first:
+      74: -1173554860085818070
+    second: lanterne007|Grass540|Take 001|BaseLayer
+  - first:
+      74: 5659534279111874684
+    second: lanterne007|Grass541|Take 001|BaseLayer
+  - first:
+      74: -4875407336632855951
+    second: lanterne007|Grass542|Take 001|BaseLayer
+  - first:
+      74: -1171308538057432144
+    second: lanterne007|Grass543|Take 001|BaseLayer
+  - first:
+      74: 776720244031191387
+    second: lanterne007|Grass544|Take 001|BaseLayer
+  - first:
+      74: -949110100699854130
+    second: lanterne007|Grass545|Take 001|BaseLayer
+  - first:
+      74: -6456614306102693164
+    second: lanterne007|Grass546|Take 001|BaseLayer
+  - first:
+      74: 8727668888070832565
+    second: lanterne007|Grass547|Take 001|BaseLayer
+  - first:
+      74: -2035702331604415679
+    second: lanterne007|Grass548|Take 001|BaseLayer
+  - first:
+      74: -7460560194449769353
+    second: lanterne007|Grass549|Take 001|BaseLayer
+  - first:
+      74: 2664536095472902968
+    second: lanterne007|Grass550|Take 001|BaseLayer
+  - first:
+      74: 2940269510686104129
+    second: lanterne007|Grass551|Take 001|BaseLayer
+  - first:
+      74: 3865144272851907210
+    second: lanterne007|Grass552|Take 001|BaseLayer
+  - first:
+      74: 1434436355352934719
+    second: lanterne007|Grass553|Take 001|BaseLayer
+  - first:
+      74: -2943664539650617926
+    second: lanterne007|Grass554|Take 001|BaseLayer
+  - first:
+      74: -3509784912746243462
+    second: lanterne007|Grass555|Take 001|BaseLayer
+  - first:
+      74: 2950934844994299573
+    second: lanterne007|Grass556|Take 001|BaseLayer
+  - first:
+      74: 6726648140447880443
+    second: lanterne007|Grass557|Take 001|BaseLayer
+  - first:
+      74: 7723788685428936003
+    second: lanterne007|Grass558|Take 001|BaseLayer
+  - first:
+      74: -5461670616201628907
+    second: lanterne007|Grass559|Take 001|BaseLayer
+  - first:
+      74: 7892288200297223381
+    second: lanterne007|Grass560|Take 001|BaseLayer
+  - first:
+      74: -4309825707640712074
+    second: lanterne007|Grass561|Take 001|BaseLayer
+  - first:
+      74: 2672583652131094734
+    second: lanterne007|Grass562|Take 001|BaseLayer
+  - first:
+      74: 6564658132704556692
+    second: lanterne007|Grass563|Take 001|BaseLayer
+  - first:
+      74: -9071384464973055704
+    second: lanterne007|Grass564|Take 001|BaseLayer
+  - first:
+      74: -4458027303749018379
+    second: lanterne007|Grass565|Take 001|BaseLayer
+  - first:
+      74: 4155444937936361157
+    second: lanterne007|Grass566|Take 001|BaseLayer
+  - first:
+      74: 2222213070868346545
+    second: lanterne007|Grass567|Take 001|BaseLayer
+  - first:
+      74: -4388013025194378595
+    second: lanterne007|Grass568|Take 001|BaseLayer
+  - first:
+      74: 2891693231322965635
+    second: lanterne007|Grass569|Take 001|BaseLayer
+  - first:
+      74: 676580316896300707
+    second: lanterne007|Grass570|Take 001|BaseLayer
+  - first:
+      74: 8897343754278455966
+    second: lanterne007|Grass571|Take 001|BaseLayer
+  - first:
+      74: 3035959788134022238
+    second: lanterne007|Grass572|Take 001|BaseLayer
+  - first:
+      74: -2492379357239891078
+    second: lanterne007|Grass573|Take 001|BaseLayer
+  - first:
+      74: 5500151493065574204
+    second: lanterne007|Grass574|Take 001|BaseLayer
+  - first:
+      74: 6166671557875571369
+    second: lanterne007|Grass575|Take 001|BaseLayer
+  - first:
+      74: -962052163239542666
+    second: lanterne007|Grass576|Take 001|BaseLayer
+  - first:
+      74: 130799884734377837
+    second: lanterne007|Grass577|Take 001|BaseLayer
+  - first:
+      74: 7120951230149470035
+    second: lanterne007|Grass578|Take 001|BaseLayer
+  - first:
+      74: 3804442707149036492
+    second: lanterne007|Grass579|Take 001|BaseLayer
+  - first:
+      74: -346257948701510082
+    second: lanterne007|Grass580|Take 001|BaseLayer
+  - first:
+      74: -2317088623101755304
+    second: lanterne007|Grass581|Take 001|BaseLayer
+  - first:
+      74: 5071942818430806976
+    second: lanterne007|Grass582|Take 001|BaseLayer
+  - first:
+      74: -9070840259868551418
+    second: lanterne007|Grass583|Take 001|BaseLayer
+  - first:
+      74: 6830181613488958751
+    second: lanterne007|Grass584|Take 001|BaseLayer
+  - first:
+      74: 2446446357626345010
+    second: lanterne007|Grass585|Take 001|BaseLayer
+  - first:
+      74: -6252938510501467113
+    second: lanterne007|Grass586|Take 001|BaseLayer
+  - first:
+      74: -714963746946219271
+    second: lanterne007|Grass587|Take 001|BaseLayer
+  - first:
+      74: -2432662555479982844
+    second: lanterne007|Grass588|Take 001|BaseLayer
+  - first:
+      74: 5878698948508106677
+    second: lanterne007|Grass589|Take 001|BaseLayer
+  - first:
+      74: 1126687767078484054
+    second: lanterne007|Grass590|Take 001|BaseLayer
+  - first:
+      74: 6087059577564240844
+    second: lanterne007|Grass591|Take 001|BaseLayer
+  - first:
+      74: 1226018837081766219
+    second: lanterne007|Grass592|Take 001|BaseLayer
+  - first:
+      74: -8188024549778440202
+    second: lanterne007|Grass593|Take 001|BaseLayer
+  - first:
+      74: -8193115533319934345
+    second: lanterne007|Grass594|Take 001|BaseLayer
+  - first:
+      74: 6463416815702527116
+    second: lanterne007|Grass595|Take 001|BaseLayer
+  - first:
+      74: 2280869890853034725
+    second: lanterne007|Grass596|Take 001|BaseLayer
+  - first:
+      74: -3475106068687867235
+    second: lanterne007|Grass597|Take 001|BaseLayer
+  - first:
+      74: 5754516139856072350
+    second: lanterne007|Grass598|Take 001|BaseLayer
+  - first:
+      74: 714669325255043961
+    second: lanterne007|Grass599|Take 001|BaseLayer
+  - first:
+      74: -8962888771859878761
+    second: lanterne007|Grass600|Take 001|BaseLayer
+  - first:
+      74: 5027722695385600222
+    second: lanterne007|Grass601|Take 001|BaseLayer
+  - first:
+      74: 904195176806977309
+    second: lanterne007|Grass602|Take 001|BaseLayer
+  - first:
+      74: -2083642756113834125
+    second: lanterne007|Grass603|Take 001|BaseLayer
+  - first:
+      74: -4655506373181711160
+    second: lanterne007|Grass604|Take 001|BaseLayer
+  - first:
+      74: -2905962834310477331
+    second: lanterne007|Grass605|Take 001|BaseLayer
+  - first:
+      74: -8446149858013721534
+    second: lanterne007|Grass606|Take 001|BaseLayer
+  - first:
+      74: -216849880855314701
+    second: lanterne007|Grass607|Take 001|BaseLayer
+  - first:
+      74: -4920992629713412513
+    second: lanterne007|Grass608|Take 001|BaseLayer
+  - first:
+      74: -647674683462345251
+    second: lanterne007|Grass609|Take 001|BaseLayer
+  - first:
+      74: -3257650132703448616
+    second: lanterne007|Grass610|Take 001|BaseLayer
+  - first:
+      74: 5200063972380219973
+    second: lanterne007|Grass611|Take 001|BaseLayer
+  - first:
+      74: 2083630480780362687
+    second: lanterne007|Grass612|Take 001|BaseLayer
+  - first:
+      74: 3278390091675331990
+    second: lanterne007|Grass613|Take 001|BaseLayer
+  - first:
+      74: 1498192959592354104
+    second: lanterne007|Grass614|Take 001|BaseLayer
+  - first:
+      74: -7682074414148284672
+    second: lanterne007|Grass615|Take 001|BaseLayer
+  - first:
+      74: -4506692126612360584
+    second: lanterne007|Grass616|Take 001|BaseLayer
+  - first:
+      74: -351040112850802515
+    second: lanterne007|Grass617|Take 001|BaseLayer
+  - first:
+      74: -8078498200889302071
+    second: lanterne007|Grass618|Take 001|BaseLayer
+  - first:
+      74: 4915748822273541466
+    second: lanterne007|Grass619|Take 001|BaseLayer
+  - first:
+      74: 8811079759472198597
+    second: lanterne007|Grass620|Take 001|BaseLayer
+  - first:
+      74: -8473000119155083488
+    second: lanterne007|Grass621|Take 001|BaseLayer
+  - first:
+      74: -6988665312711854956
+    second: lanterne007|Grass622|Take 001|BaseLayer
+  - first:
+      74: 7883157679509719990
+    second: lanterne007|Grass623|Take 001|BaseLayer
+  - first:
+      74: -2078507029933944734
+    second: lanterne007|Grass624|Take 001|BaseLayer
+  - first:
+      74: 9113205637491820492
+    second: lanterne007|Grass625|Take 001|BaseLayer
+  - first:
+      74: -923284225032767714
+    second: lanterne007|Grass626|Take 001|BaseLayer
+  - first:
+      74: 7923452532011199
+    second: lanterne007|Grass627|Take 001|BaseLayer
+  - first:
+      74: 3746880054148794042
+    second: lanterne007|Grass628|Take 001|BaseLayer
+  - first:
+      74: -8428889673513795050
+    second: lanterne007|Grass629|Take 001|BaseLayer
+  - first:
+      74: -8767109284080398827
+    second: lanterne007|Grass630|Take 001|BaseLayer
+  - first:
+      74: 6606395108707494651
+    second: lanterne007|Grass631|Take 001|BaseLayer
+  - first:
+      74: 5309752429319572729
+    second: lanterne007|Grass632|Take 001|BaseLayer
+  - first:
+      74: 7421988605565420908
+    second: lanterne007|Grass633|Take 001|BaseLayer
+  - first:
+      74: -5446240074118803989
+    second: lanterne007|Grass634|Take 001|BaseLayer
+  - first:
+      74: -2623443537588044606
+    second: lanterne007|Grass635|Take 001|BaseLayer
+  - first:
+      74: 2145468426777195242
+    second: lanterne007|Grass636|Take 001|BaseLayer
+  - first:
+      74: -4310616754810432146
+    second: lanterne007|Grass637|Take 001|BaseLayer
+  - first:
+      74: -6316039410393356498
+    second: lanterne007|Grass638|Take 001|BaseLayer
+  - first:
+      74: 8011272760780309432
+    second: lanterne007|Grass639|Take 001|BaseLayer
+  - first:
+      74: -6813317902185361376
+    second: lanterne007|Grass640|Take 001|BaseLayer
+  - first:
+      74: -6417051004112147845
+    second: lanterne007|Grass641|Take 001|BaseLayer
+  - first:
+      74: -4012687730451354754
+    second: lanterne007|Grass642|Take 001|BaseLayer
+  - first:
+      74: 8980130613991781945
+    second: lanterne007|Grass643|Take 001|BaseLayer
+  - first:
+      74: -3584461283200941824
+    second: lanterne007|Grass644|Take 001|BaseLayer
+  - first:
+      74: 8187489203890569298
+    second: lanterne007|Grass645|Take 001|BaseLayer
+  - first:
+      74: 5008336126679882520
+    second: lanterne007|Grass646|Take 001|BaseLayer
+  - first:
+      74: 5019692060261830273
+    second: lanterne007|Grass647|Take 001|BaseLayer
+  - first:
+      74: -2580904401902693671
+    second: lanterne007|Grass648|Take 001|BaseLayer
+  - first:
+      74: -6901810392746261556
+    second: lanterne007|Grass649|Take 001|BaseLayer
+  - first:
+      74: 7847480329561866339
+    second: lanterne007|Grass650|Take 001|BaseLayer
+  - first:
+      74: -1972404901207274755
+    second: lanterne007|Grass651|Take 001|BaseLayer
+  - first:
+      74: 8220962003229350002
+    second: lanterne007|Grass652|Take 001|BaseLayer
+  - first:
+      74: -1676190605970978777
+    second: lanterne007|Grass653|Take 001|BaseLayer
+  - first:
+      74: -678293418914806919
+    second: lanterne007|Grass654|Take 001|BaseLayer
+  - first:
+      74: 2909185844205953365
+    second: lanterne007|Grass655|Take 001|BaseLayer
+  - first:
+      74: 4131983289679479836
+    second: lanterne007|Grass656|Take 001|BaseLayer
+  - first:
+      74: 617922017970946565
+    second: lanterne007|Grass657|Take 001|BaseLayer
+  - first:
+      74: -3626991260830769418
+    second: lanterne007|Grass658|Take 001|BaseLayer
+  - first:
+      74: -3536375017120147953
+    second: lanterne007|Grass659|Take 001|BaseLayer
+  - first:
+      74: 3113504225925516529
+    second: lanterne007|Grass660|Take 001|BaseLayer
+  - first:
+      74: 3606311997054003786
+    second: lanterne007|Grass661|Take 001|BaseLayer
+  - first:
+      74: 3722220388772446203
+    second: lanterne007|Grass662|Take 001|BaseLayer
+  - first:
+      74: -5578520962712882322
+    second: lanterne007|Grass663|Take 001|BaseLayer
+  - first:
+      74: -2184396349132190314
+    second: lanterne007|Grass664|Take 001|BaseLayer
+  - first:
+      74: -7352205730538784963
+    second: lanterne007|Grass665|Take 001|BaseLayer
+  - first:
+      74: -185191360815914896
+    second: lanterne007|Grass666|Take 001|BaseLayer
+  - first:
+      74: 1403939948633985935
+    second: lanterne007|Grass667|Take 001|BaseLayer
+  - first:
+      74: -6859804721455590548
+    second: lanterne007|Grass668|Take 001|BaseLayer
+  - first:
+      74: -1613176710115606812
+    second: lanterne007|Grass669|Take 001|BaseLayer
+  - first:
+      74: -7865287488060392993
+    second: lanterne007|Grass670|Take 001|BaseLayer
+  - first:
+      74: -6288744115819006295
+    second: lanterne007|Grass671|Take 001|BaseLayer
+  - first:
+      74: -1248250896002568019
+    second: lanterne007|Grass672|Take 001|BaseLayer
+  - first:
+      74: 6514065065375990594
+    second: lanterne007|Grass673|Take 001|BaseLayer
+  - first:
+      74: -2212194532287730733
+    second: lanterne007|Grass674|Take 001|BaseLayer
+  - first:
+      74: 1781942788278335644
+    second: lanterne007|Grass675|Take 001|BaseLayer
+  - first:
+      74: 906433927761067979
+    second: lanterne007|Grass676|Take 001|BaseLayer
+  - first:
+      74: 4320835650230936544
+    second: lanterne007|Grass677|Take 001|BaseLayer
+  - first:
+      74: -1468415019022326240
+    second: lanterne007|Grass678|Take 001|BaseLayer
+  - first:
+      74: -5008931579494569612
+    second: lanterne007|Grass679|Take 001|BaseLayer
+  - first:
+      74: -3376411320594203042
+    second: lanterne007|Grass680|Take 001|BaseLayer
+  - first:
+      74: -7370213421529842840
+    second: lanterne007|Grass681|Take 001|BaseLayer
+  - first:
+      74: -8169370353077385812
+    second: lanterne007|Grass682|Take 001|BaseLayer
+  - first:
+      74: 5593062573738492316
+    second: lanterne007|Grass683|Take 001|BaseLayer
+  - first:
+      74: -3258689925851688333
+    second: lanterne007|Grass684|Take 001|BaseLayer
+  - first:
+      74: 4573321302089191313
+    second: lanterne007|Grass685|Take 001|BaseLayer
+  - first:
+      74: 4506864485889499366
+    second: lanterne007|Grass686|Take 001|BaseLayer
+  - first:
+      74: -7160154729151186342
+    second: lanterne007|Grass687|Take 001|BaseLayer
+  - first:
+      74: 5801855778019204844
+    second: lanterne007|Grass688|Take 001|BaseLayer
+  - first:
+      74: -5081156467097446388
+    second: lanterne007|Grass689|Take 001|BaseLayer
+  - first:
+      74: -7642112275267481180
+    second: lanterne007|Grass690|Take 001|BaseLayer
+  - first:
+      74: -3489311738380044691
+    second: lanterne007|Grass691|Take 001|BaseLayer
+  - first:
+      74: 1953383555395735169
+    second: lanterne007|Grass692|Take 001|BaseLayer
+  - first:
+      74: 5311142011938982416
+    second: lanterne007|Grass693|Take 001|BaseLayer
+  - first:
+      74: -5672986776501367864
+    second: lanterne007|Grass694|Take 001|BaseLayer
+  - first:
+      74: 8397474801141686737
+    second: lanterne007|Grass695|Take 001|BaseLayer
+  - first:
+      74: -2366202002121794372
+    second: lanterne007|Grass696|Take 001|BaseLayer
+  - first:
+      74: -2522852130022006992
+    second: lanterne007|Grass697|Take 001|BaseLayer
+  - first:
+      74: -9083397956066829171
+    second: lanterne007|Grass698|Take 001|BaseLayer
+  - first:
+      74: -6252551811519058307
+    second: lanterne007|Grass699|Take 001|BaseLayer
+  - first:
+      74: 3300243634997107583
+    second: lanterne007|Grass700|Take 001|BaseLayer
+  - first:
+      74: -3940704009822311097
+    second: lanterne007|Grass701|Take 001|BaseLayer
+  - first:
+      74: -8219021364468492196
+    second: lanterne007|Grass702|Take 001|BaseLayer
+  - first:
+      74: 4348257491129132201
+    second: lanterne007|Grass703|Take 001|BaseLayer
+  - first:
+      74: -5714718055459268895
+    second: lanterne007|Grass704|Take 001|BaseLayer
+  - first:
+      74: 2835928573537728066
+    second: lanterne007|Grass705|Take 001|BaseLayer
+  - first:
+      74: 7125901576486587656
+    second: lanterne007|Grass706|Take 001|BaseLayer
+  - first:
+      74: 3770941474072802522
+    second: lanterne007|Grass707|Take 001|BaseLayer
+  - first:
+      74: 5778921753591050736
+    second: lanterne007|Grass708|Take 001|BaseLayer
+  - first:
+      74: -3175606519923336827
+    second: lanterne007|Grass709|Take 001|BaseLayer
+  - first:
+      74: 1669733750977581652
+    second: lanterne007|Grass710|Take 001|BaseLayer
+  - first:
+      74: -7152170103441795947
+    second: lanterne007|Grass711|Take 001|BaseLayer
+  - first:
+      74: 3350223150199589071
+    second: lanterne007|Grass712|Take 001|BaseLayer
+  - first:
+      74: -7692246453405949255
+    second: lanterne007|Grass713|Take 001|BaseLayer
+  - first:
+      74: 3792509988984545567
+    second: lanterne007|Grass714|Take 001|BaseLayer
+  - first:
+      74: -8461136892021862443
+    second: lanterne007|Grass715|Take 001|BaseLayer
+  - first:
+      74: -8794909646429212125
+    second: lanterne007|Grass716|Take 001|BaseLayer
+  - first:
+      74: 349369027840072298
+    second: lanterne007|Grass717|Take 001|BaseLayer
+  - first:
+      74: -8545315760267139652
+    second: lanterne007|Grass718|Take 001|BaseLayer
+  - first:
+      74: -4730274166014023808
+    second: lanterne007|Grass719|Take 001|BaseLayer
+  - first:
+      74: -8296698260204252502
+    second: lanterne007|Grass720|Take 001|BaseLayer
+  - first:
+      74: -4414411589173369291
+    second: lanterne007|Grass721|Take 001|BaseLayer
+  - first:
+      74: 2418982246409880565
+    second: lanterne007|Grass722|Take 001|BaseLayer
+  - first:
+      74: -5328240932071400461
+    second: lanterne007|Grass723|Take 001|BaseLayer
+  - first:
+      74: 1009710877662772920
+    second: lanterne007|Grass724|Take 001|BaseLayer
+  - first:
+      74: -2370648828382178486
+    second: lanterne007|Grass725|Take 001|BaseLayer
+  - first:
+      74: -3424938697427030618
+    second: lanterne007|Grass726|Take 001|BaseLayer
+  - first:
+      74: 6703758561329986436
+    second: lanterne007|Grass727|Take 001|BaseLayer
+  - first:
+      74: 4155831614030934808
+    second: lanterne007|Grass728|Take 001|BaseLayer
+  - first:
+      74: -3077520645052771330
+    second: lanterne007|Grass729|Take 001|BaseLayer
+  - first:
+      74: 418892966508835739
+    second: lanterne007|Grass730|Take 001|BaseLayer
+  - first:
+      74: -2359264685590284213
+    second: lanterne007|Grass731|Take 001|BaseLayer
+  - first:
+      74: -3807444116783148328
+    second: lanterne007|Grass732|Take 001|BaseLayer
+  - first:
+      74: -4339959232791190315
+    second: lanterne007|Grass733|Take 001|BaseLayer
+  - first:
+      74: -5319136034791693069
+    second: lanterne007|Grass734|Take 001|BaseLayer
+  - first:
+      74: -8704188547734113513
+    second: lanterne007|Grass735|Take 001|BaseLayer
+  - first:
+      74: -5548450513979739804
+    second: lanterne007|Grass736|Take 001|BaseLayer
+  - first:
+      74: -3142647752777925592
+    second: lanterne007|Grass737|Take 001|BaseLayer
+  - first:
+      74: 1337133783609421587
+    second: lanterne007|Grass738|Take 001|BaseLayer
+  - first:
+      74: -5099230768445886544
+    second: lanterne007|Grass739|Take 001|BaseLayer
+  - first:
+      74: -9098970132297739706
+    second: lanterne007|Grass740|Take 001|BaseLayer
+  - first:
+      74: -1139148089674886355
+    second: lanterne007|Grass741|Take 001|BaseLayer
+  - first:
+      74: 6233123508773199575
+    second: lanterne007|Grass742|Take 001|BaseLayer
+  - first:
+      74: -5929924413098441372
+    second: lanterne007|Grass743|Take 001|BaseLayer
+  - first:
+      74: 8391575124841013792
+    second: lanterne007|Grass744|Take 001|BaseLayer
+  - first:
+      74: -1023319402661607982
+    second: lanterne007|Grass745|Take 001|BaseLayer
+  - first:
+      74: 3610348264550864214
+    second: lanterne007|Grass746|Take 001|BaseLayer
+  - first:
+      74: 1590573792790535392
+    second: lanterne007|Grass747|Take 001|BaseLayer
+  - first:
+      74: 1252296230189466005
+    second: lanterne007|Grass748|Take 001|BaseLayer
+  - first:
+      74: 64706203895182796
+    second: lanterne007|Grass749|Take 001|BaseLayer
+  - first:
+      74: -9024109823582393320
+    second: lanterne007|Grass750|Take 001|BaseLayer
+  - first:
+      74: 2763381004365350205
+    second: lanterne007|Grass751|Take 001|BaseLayer
+  - first:
+      74: -7308879692802017814
+    second: lanterne007|Grass752|Take 001|BaseLayer
+  - first:
+      74: 6178440752902382585
+    second: lanterne007|Grass753|Take 001|BaseLayer
+  - first:
+      74: -7189027189161018338
+    second: lanterne007|Grass754|Take 001|BaseLayer
+  - first:
+      74: 6117751680627204739
+    second: lanterne007|Grass755|Take 001|BaseLayer
+  - first:
+      74: -595512593937443484
+    second: lanterne007|Grass756|Take 001|BaseLayer
+  - first:
+      74: -6205777156053054552
+    second: lanterne007|Grass757|Take 001|BaseLayer
+  - first:
+      74: -8056065745012932907
+    second: lanterne007|Grass758|Take 001|BaseLayer
+  - first:
+      74: 7962968518265325489
+    second: lanterne007|Grass759|Take 001|BaseLayer
+  - first:
+      74: -5732863895908844118
+    second: lanterne007|Grass760|Take 001|BaseLayer
+  - first:
+      74: -3910705436746907749
+    second: lanterne007|Grass761|Take 001|BaseLayer
+  - first:
+      74: -8990568932697098782
+    second: lanterne007|Grass762|Take 001|BaseLayer
+  - first:
+      74: -7893686892128102545
+    second: lanterne007|Grass763|Take 001|BaseLayer
+  - first:
+      74: 8822566967206046124
+    second: lanterne007|Grass764|Take 001|BaseLayer
+  - first:
+      74: -5277959757819011895
+    second: lanterne007|Grass765|Take 001|BaseLayer
+  - first:
+      74: -195755195357114783
+    second: lanterne007|Grass766|Take 001|BaseLayer
+  - first:
+      74: -6985912792187625588
+    second: lanterne007|Grass767|Take 001|BaseLayer
+  - first:
+      74: -5375950198296640754
+    second: lanterne007|Grass768|Take 001|BaseLayer
+  - first:
+      74: 1946081169458212094
+    second: lanterne007|Grass769|Take 001|BaseLayer
+  - first:
+      74: -3299196967910927794
+    second: lanterne007|Grass770|Take 001|BaseLayer
+  - first:
+      74: 5673437686435181322
+    second: lanterne007|Grass771|Take 001|BaseLayer
+  - first:
+      74: -3574600422063503026
+    second: lanterne007|Grass772|Take 001|BaseLayer
+  - first:
+      74: 1909275352856620063
+    second: lanterne007|Grass773|Take 001|BaseLayer
+  - first:
+      74: 8415321516238770223
+    second: lanterne007|Grass774|Take 001|BaseLayer
+  - first:
+      74: -170743056766674467
+    second: lanterne007|Grass775|Take 001|BaseLayer
+  - first:
+      74: -9099389659359897474
+    second: lanterne007|Grass776|Take 001|BaseLayer
+  - first:
+      74: -7935170282194599749
+    second: lanterne007|Grass777|Take 001|BaseLayer
+  - first:
+      74: -2672212481967436237
+    second: lanterne007|Grass778|Take 001|BaseLayer
+  - first:
+      74: 3994847106278612818
+    second: lanterne007|Grass779|Take 001|BaseLayer
+  - first:
+      74: -2170337995184166169
+    second: lanterne007|Grass780|Take 001|BaseLayer
+  - first:
+      74: 8403824652220661827
+    second: lanterne007|Grass781|Take 001|BaseLayer
+  - first:
+      74: 7110936711987789960
+    second: lanterne007|Grass782|Take 001|BaseLayer
+  - first:
+      74: -7086149579624155711
+    second: lanterne007|Grass783|Take 001|BaseLayer
+  - first:
+      74: 6699055819228469166
+    second: lanterne007|Grass784|Take 001|BaseLayer
+  - first:
+      74: 1380732647966126669
+    second: lanterne007|Grass785|Take 001|BaseLayer
+  - first:
+      74: -1391261123686134777
+    second: lanterne007|Grass786|Take 001|BaseLayer
+  - first:
+      74: 6274536587980735376
+    second: lanterne007|Grass787|Take 001|BaseLayer
+  - first:
+      74: 5885103616743728451
+    second: lanterne007|Grass788|Take 001|BaseLayer
+  - first:
+      74: -7031446178653350217
+    second: lanterne007|Grass789|Take 001|BaseLayer
+  - first:
+      74: 857809549876059997
+    second: lanterne007|Grass790|Take 001|BaseLayer
+  - first:
+      74: -2854691746743227390
+    second: lanterne007|Grass791|Take 001|BaseLayer
+  - first:
+      74: -4657515476797058319
+    second: lanterne007|Grass792|Take 001|BaseLayer
+  - first:
+      74: 6509965220841383371
+    second: lanterne007|Grass793|Take 001|BaseLayer
+  - first:
+      74: 1039310509141063576
+    second: lanterne007|Grass794|Take 001|BaseLayer
+  - first:
+      74: 2580567334943111461
+    second: lanterne007|Grass795|Take 001|BaseLayer
+  - first:
+      74: -3800375044912645475
+    second: lanterne007|Grass796|Take 001|BaseLayer
+  - first:
+      74: -6238362424298694759
+    second: lanterne007|Grass797|Take 001|BaseLayer
+  - first:
+      74: 7557087173349421704
+    second: lanterne007|Grass798|Take 001|BaseLayer
+  - first:
+      74: -2656320187454643272
+    second: lanterne007|Grass799|Take 001|BaseLayer
+  - first:
+      74: 1380573383113653443
+    second: lanterne007|Grass800|Take 001|BaseLayer
+  - first:
+      74: 8785578914889460854
+    second: lanterne007|Grass801|Take 001|BaseLayer
+  - first:
+      74: 3129661267544441686
+    second: lanterne007|Grass802|Take 001|BaseLayer
+  - first:
+      74: -3763751832126014864
+    second: lanterne007|Grass803|Take 001|BaseLayer
+  - first:
+      74: -8353361223210776152
+    second: lanterne007|Grass804|Take 001|BaseLayer
+  - first:
+      74: -6288217113695618806
+    second: lanterne007|Grass805|Take 001|BaseLayer
+  - first:
+      74: -2065765783113794881
+    second: lanterne007|Grass806|Take 001|BaseLayer
+  - first:
+      74: -4968989577261343295
+    second: lanterne007|Grass807|Take 001|BaseLayer
+  - first:
+      74: -4143843366328931933
+    second: lanterne007|Grass808|Take 001|BaseLayer
+  - first:
+      74: -1476056107919253414
+    second: lanterne007|Grass809|Take 001|BaseLayer
+  - first:
+      74: 610534856655891848
+    second: lanterne007|Grass810|Take 001|BaseLayer
+  - first:
+      74: -9052630434316735461
+    second: lanterne007|Grass811|Take 001|BaseLayer
+  - first:
+      74: 5676001436059882893
+    second: lanterne007|Grass812|Take 001|BaseLayer
+  - first:
+      74: 2294478061256048571
+    second: lanterne007|Grass813|Take 001|BaseLayer
+  - first:
+      74: -1306799646523754898
+    second: lanterne007|Grass814|Take 001|BaseLayer
+  - first:
+      74: -6330366659593749771
+    second: lanterne007|Grass815|Take 001|BaseLayer
+  - first:
+      74: 5000932339734746666
+    second: lanterne007|Grass816|Take 001|BaseLayer
+  - first:
+      74: 2448204915850056746
+    second: lanterne007|Grass817|Take 001|BaseLayer
+  - first:
+      74: -6116135131240802059
+    second: lanterne007|Grass818|Take 001|BaseLayer
+  - first:
+      74: -137579387119621236
+    second: lanterne007|Grass819|Take 001|BaseLayer
+  - first:
+      74: -4468927446842771634
+    second: lanterne007|Grass820|Take 001|BaseLayer
+  - first:
+      74: -884235645793196719
+    second: lanterne007|Grass821|Take 001|BaseLayer
+  - first:
+      74: -8305603926911622996
+    second: lanterne007|Grass822|Take 001|BaseLayer
+  - first:
+      74: 7700550571770208956
+    second: lanterne007|Grass823|Take 001|BaseLayer
+  - first:
+      74: -7637036215181548307
+    second: lanterne007|Grass824|Take 001|BaseLayer
+  - first:
+      74: 2960111465176423245
+    second: lanterne007|Grass825|Take 001|BaseLayer
+  - first:
+      74: -5781060209437553850
+    second: lanterne007|Grass826|Take 001|BaseLayer
+  - first:
+      74: -6667882998303069747
+    second: lanterne007|Grass827|Take 001|BaseLayer
+  - first:
+      74: 5300071664875754111
+    second: lanterne007|Grass828|Take 001|BaseLayer
+  - first:
+      74: -8961380119201724441
+    second: lanterne007|Grass829|Take 001|BaseLayer
+  - first:
+      74: 1317299390084290482
+    second: lanterne007|Grass830|Take 001|BaseLayer
+  - first:
+      74: -1811956323752519695
+    second: lanterne007|Grass831|Take 001|BaseLayer
+  - first:
+      74: -6979859453457062403
+    second: lanterne007|Grass832|Take 001|BaseLayer
+  - first:
+      74: -1459341884833107679
+    second: lanterne007|Grass833|Take 001|BaseLayer
+  - first:
+      74: 912956485009587272
+    second: lanterne007|Grass834|Take 001|BaseLayer
+  - first:
+      74: 5479038183872856412
+    second: lanterne007|Grass835|Take 001|BaseLayer
+  - first:
+      74: -6134428390177025258
+    second: lanterne007|Grass836|Take 001|BaseLayer
+  - first:
+      74: -7515777203733003346
+    second: lanterne007|Grass837|Take 001|BaseLayer
+  - first:
+      74: 306220105853716352
+    second: lanterne007|Grass838|Take 001|BaseLayer
+  - first:
+      74: 7762919276775965287
+    second: lanterne007|Grass839|Take 001|BaseLayer
+  - first:
+      74: -8897349934233039321
+    second: lanterne007|Grass840|Take 001|BaseLayer
+  - first:
+      74: 92534879119520897
+    second: lanterne007|Grass841|Take 001|BaseLayer
+  - first:
+      74: -2317693320907839759
+    second: lanterne007|Grass842|Take 001|BaseLayer
+  - first:
+      74: -6386638909952274082
+    second: lanterne007|Grass843|Take 001|BaseLayer
+  - first:
+      74: -684195905871415305
+    second: lanterne007|Grass844|Take 001|BaseLayer
+  - first:
+      74: 1285635442147188176
+    second: lanterne007|Grass845|Take 001|BaseLayer
+  - first:
+      74: -404241425467494855
+    second: lanterne007|Grass846|Take 001|BaseLayer
+  - first:
+      74: -5750441384410843736
+    second: lanterne007|Grass847|Take 001|BaseLayer
+  - first:
+      74: -3301769074096743893
+    second: lanterne007|Grass848|Take 001|BaseLayer
+  - first:
+      74: 2137548356176201963
+    second: lanterne007|Grass849|Take 001|BaseLayer
+  - first:
+      74: 5892762834088508042
+    second: lanterne007|Grass850|Take 001|BaseLayer
+  - first:
+      74: -5654327436184703905
+    second: lanterne007|Grass851|Take 001|BaseLayer
+  - first:
+      74: 6173291868339661836
+    second: lanterne007|Grass852|Take 001|BaseLayer
+  - first:
+      74: 2316818665559349593
+    second: lanterne007|Grass853|Take 001|BaseLayer
+  - first:
+      74: 6406553781160163548
+    second: lanterne007|Grass854|Take 001|BaseLayer
+  - first:
+      74: 818864946695889723
+    second: lanterne007|Grass855|Take 001|BaseLayer
+  - first:
+      74: 1190864839943132554
+    second: lanterne007|Grass856|Take 001|BaseLayer
+  - first:
+      74: -512175307366511238
+    second: lanterne007|Grass857|Take 001|BaseLayer
+  - first:
+      74: 6222487846726668252
+    second: lanterne007|Grass858|Take 001|BaseLayer
+  - first:
+      74: 2715264639525137032
+    second: lanterne007|Grass859|Take 001|BaseLayer
+  - first:
+      74: -1595500440059087940
+    second: lanterne007|Grass860|Take 001|BaseLayer
+  - first:
+      74: -8482623829955889033
+    second: lanterne007|Grass861|Take 001|BaseLayer
+  - first:
+      74: -4101740108555999649
+    second: lanterne007|Grass862|Take 001|BaseLayer
+  - first:
+      74: 3151460668339782989
+    second: lanterne007|Grass863|Take 001|BaseLayer
+  - first:
+      74: -4513009134432642513
+    second: lanterne007|Grass864|Take 001|BaseLayer
+  - first:
+      74: -1311492953413595501
+    second: lanterne007|Grass865|Take 001|BaseLayer
+  - first:
+      74: -5790098957831167952
+    second: lanterne007|Grass866|Take 001|BaseLayer
+  - first:
+      74: 6929555435145943231
+    second: lanterne007|Grass867|Take 001|BaseLayer
+  - first:
+      74: -2219273146694601332
+    second: lanterne007|Grass868|Take 001|BaseLayer
+  - first:
+      74: 47518189992617821
+    second: lanterne007|Grass869|Take 001|BaseLayer
+  - first:
+      74: -3652706598980739968
+    second: lanterne007|Grass870|Take 001|BaseLayer
+  - first:
+      74: -7664102490892257225
+    second: lanterne007|Grass871|Take 001|BaseLayer
+  - first:
+      74: -2135179090257192271
+    second: lanterne007|Grass872|Take 001|BaseLayer
+  - first:
+      74: 6477584697390769313
+    second: lanterne007|Grass873|Take 001|BaseLayer
+  - first:
+      74: -4101954404232183808
+    second: lanterne007|Grass874|Take 001|BaseLayer
+  - first:
+      74: -6241646669395091906
+    second: lanterne007|Grass875|Take 001|BaseLayer
+  - first:
+      74: 3369999187845597079
+    second: lanterne007|Grass876|Take 001|BaseLayer
+  - first:
+      74: -380710043097915164
+    second: lanterne007|Grass877|Take 001|BaseLayer
+  - first:
+      74: 340225583644963405
+    second: lanterne007|Grass878|Take 001|BaseLayer
+  - first:
+      74: 2366621595780909694
+    second: lanterne007|Grass879|Take 001|BaseLayer
+  - first:
+      74: 3582540789842274494
+    second: lanterne007|Grass880|Take 001|BaseLayer
+  - first:
+      74: -3262354367205809707
+    second: lanterne007|Grass881|Take 001|BaseLayer
+  - first:
+      74: -5194148028642806119
+    second: lanterne007|Grass882|Take 001|BaseLayer
+  - first:
+      74: -9147445843145530720
+    second: lanterne007|Grass883|Take 001|BaseLayer
+  - first:
+      74: 6523365519364819860
+    second: lanterne007|Grass884|Take 001|BaseLayer
+  - first:
+      74: -3247621308955893499
+    second: lanterne007|Grass885|Take 001|BaseLayer
+  - first:
+      74: 756187284216014932
+    second: lanterne007|Grass886|Take 001|BaseLayer
+  - first:
+      74: 5388470908101660668
+    second: lanterne007|Grass887|Take 001|BaseLayer
+  - first:
+      74: -7344412478865946421
+    second: lanterne007|Grass888|Take 001|BaseLayer
+  - first:
+      74: 3413610647627861187
+    second: lanterne007|Grass889|Take 001|BaseLayer
+  - first:
+      74: 4730622476357207000
+    second: lanterne007|Grass890|Take 001|BaseLayer
+  - first:
+      74: -7988771386971261139
+    second: lanterne007|Grass891|Take 001|BaseLayer
+  - first:
+      74: 2491561399535246623
+    second: lanterne007|Grass892|Take 001|BaseLayer
+  - first:
+      74: 4494342481404071138
+    second: lanterne007|Grass893|Take 001|BaseLayer
+  - first:
+      74: -6090086286878516745
+    second: lanterne007|Grass894|Take 001|BaseLayer
+  - first:
+      74: 8010290146186320450
+    second: lanterne007|Grass895|Take 001|BaseLayer
+  - first:
+      74: 2742765043650329856
+    second: lanterne007|Grass896|Take 001|BaseLayer
+  - first:
+      74: 5308683174926550191
+    second: lanterne007|Grass897|Take 001|BaseLayer
+  - first:
+      74: -3359726383398107444
+    second: lanterne007|Grass898|Take 001|BaseLayer
+  - first:
+      74: 301710748056751419
+    second: lanterne007|Grass899|Take 001|BaseLayer
+  - first:
+      74: 6975318969042027985
+    second: lanterne007|Grass900|Take 001|BaseLayer
+  - first:
+      74: 8415578655508279767
+    second: lanterne007|Grass901|Take 001|BaseLayer
+  - first:
+      74: -7380106331051389257
+    second: lanterne007|Grass902|Take 001|BaseLayer
+  - first:
+      74: -3387819619487144018
+    second: lanterne007|Grass903|Take 001|BaseLayer
+  - first:
+      74: -1646029249180400331
+    second: lanterne007|Grass904|Take 001|BaseLayer
+  - first:
+      74: 5750965301996211047
+    second: lanterne007|Grass905|Take 001|BaseLayer
+  - first:
+      74: -7801834227885727124
+    second: lanterne007|Grass906|Take 001|BaseLayer
+  - first:
+      74: -2563023133224445111
+    second: lanterne007|Grass907|Take 001|BaseLayer
+  - first:
+      74: 683650890119269361
+    second: lanterne007|Grass908|Take 001|BaseLayer
+  - first:
+      74: -7009996460119202938
+    second: lanterne007|Grass909|Take 001|BaseLayer
+  - first:
+      74: 2531515825351240144
+    second: lanterne007|Grass910|Take 001|BaseLayer
+  - first:
+      74: -5301102792981127349
+    second: lanterne007|Grass911|Take 001|BaseLayer
+  - first:
+      74: -4315084601508386536
+    second: lanterne007|Grass912|Take 001|BaseLayer
+  - first:
+      74: 1328244799056840068
+    second: lanterne007|Grass913|Take 001|BaseLayer
+  - first:
+      74: -6342032135651957533
+    second: lanterne007|Grass914|Take 001|BaseLayer
+  - first:
+      74: -8823782812428200012
+    second: lanterne007|Grass915|Take 001|BaseLayer
+  - first:
+      74: 3983976946682889014
+    second: lanterne007|Grass916|Take 001|BaseLayer
+  - first:
+      74: -54153945875619172
+    second: lanterne007|Grass917|Take 001|BaseLayer
+  - first:
+      74: -345992421672507641
+    second: lanterne007|Grass918|Take 001|BaseLayer
+  - first:
+      74: -995760559745955247
+    second: lanterne007|Grass919|Take 001|BaseLayer
+  - first:
+      74: 5393012747310652734
+    second: lanterne007|Grass920|Take 001|BaseLayer
+  - first:
+      74: 932541871264493402
+    second: lanterne007|Grass921|Take 001|BaseLayer
+  - first:
+      74: -1006221515275613865
+    second: lanterne007|Grass922|Take 001|BaseLayer
+  - first:
+      74: -4097967030600180459
+    second: lanterne007|Grass923|Take 001|BaseLayer
+  - first:
+      74: -7226630953882361668
+    second: lanterne007|Grass924|Take 001|BaseLayer
+  - first:
+      74: 727831374727106779
+    second: lanterne007|Grass925|Take 001|BaseLayer
+  - first:
+      74: -2475137346091798495
+    second: lanterne007|Grass926|Take 001|BaseLayer
+  - first:
+      74: 1093857652927897855
+    second: lanterne007|Grass927|Take 001|BaseLayer
+  - first:
+      74: 2250040664192624394
+    second: lanterne007|Grass928|Take 001|BaseLayer
+  - first:
+      74: 7863125928903722100
+    second: lanterne007|Grass929|Take 001|BaseLayer
+  - first:
+      74: -2275830120642962798
+    second: lanterne007|Grass930|Take 001|BaseLayer
+  - first:
+      74: 8155706048064607100
+    second: lanterne007|Grass931|Take 001|BaseLayer
+  - first:
+      74: 3942998400076177963
+    second: lanterne007|Grass932|Take 001|BaseLayer
+  - first:
+      74: -5991156988455174029
+    second: lanterne007|Grass933|Take 001|BaseLayer
+  - first:
+      74: 7938857306134245239
+    second: lanterne007|Grass934|Take 001|BaseLayer
+  - first:
+      74: -3487857880426616419
+    second: lanterne007|Grass935|Take 001|BaseLayer
+  - first:
+      74: 2516016814905539756
+    second: lanterne007|Grass936|Take 001|BaseLayer
+  - first:
+      74: -2128411002412510540
+    second: lanterne007|Grass937|Take 001|BaseLayer
+  - first:
+      74: -7787791679571246497
+    second: lanterne007|Grass938|Take 001|BaseLayer
+  - first:
+      74: 6205009720094594484
+    second: lanterne007|Grass939|Take 001|BaseLayer
+  - first:
+      74: 1775973030822786445
+    second: lanterne007|Grass940|Take 001|BaseLayer
+  - first:
+      74: 7673319511425781246
+    second: lanterne007|Grass941|Take 001|BaseLayer
+  - first:
+      74: -5486698449235450342
+    second: lanterne007|Grass942|Take 001|BaseLayer
+  - first:
+      74: -8355168305061152116
+    second: lanterne007|Grass943|Take 001|BaseLayer
+  - first:
+      74: -6207060929881014622
+    second: lanterne007|Grass944|Take 001|BaseLayer
+  - first:
+      74: -7380123113519290647
+    second: lanterne007|Grass945|Take 001|BaseLayer
+  - first:
+      74: 2757914851007758106
+    second: lanterne007|Grass946|Take 001|BaseLayer
+  - first:
+      74: 1557888870574572819
+    second: lanterne007|Grass947|Take 001|BaseLayer
+  - first:
+      74: 8633172262354655628
+    second: lanterne007|Grass948|Take 001|BaseLayer
+  - first:
+      74: -6598078426761391755
+    second: lanterne007|Grass949|Take 001|BaseLayer
+  - first:
+      74: 3592944365992435660
+    second: lanterne007|Grass950|Take 001|BaseLayer
+  - first:
+      74: -4852020525037214183
+    second: lanterne007|Grass951|Take 001|BaseLayer
+  - first:
+      74: -4599638717607965225
+    second: lanterne007|Grass952|Take 001|BaseLayer
+  - first:
+      74: 8896205309500186150
+    second: lanterne007|Grass953|Take 001|BaseLayer
+  - first:
+      74: 4869306346580984696
+    second: lanterne007|Grass954|Take 001|BaseLayer
+  - first:
+      74: 7384430045407101348
+    second: lanterne007|Grass955|Take 001|BaseLayer
+  - first:
+      74: -727923988939879671
+    second: lanterne007|Grass956|Take 001|BaseLayer
+  - first:
+      74: 7951604329403048106
+    second: lanterne007|Grass957|Take 001|BaseLayer
+  - first:
+      74: -4745290179915425806
+    second: lanterne007|Grass958|Take 001|BaseLayer
+  - first:
+      74: -3683658469688502544
+    second: lanterne007|Grass959|Take 001|BaseLayer
+  - first:
+      74: 8933092998115008808
+    second: lanterne007|Grass960|Take 001|BaseLayer
+  - first:
+      74: -4858964072540920136
+    second: lanterne007|Grass961|Take 001|BaseLayer
+  - first:
+      74: -1074286420107464035
+    second: lanterne007|Grass962|Take 001|BaseLayer
+  - first:
+      74: -4532600566175801391
+    second: lanterne007|Grass963|Take 001|BaseLayer
+  - first:
+      74: 1255931127998288179
+    second: lanterne007|Grass964|Take 001|BaseLayer
+  - first:
+      74: -8196636090735170473
+    second: lanterne007|Grass965|Take 001|BaseLayer
+  - first:
+      74: -6574642323817971701
+    second: lanterne007|Grass966|Take 001|BaseLayer
+  - first:
+      74: 2350425304955797710
+    second: lanterne007|Grass967|Take 001|BaseLayer
+  - first:
+      74: -2759969620221838125
+    second: lanterne007|Grass968|Take 001|BaseLayer
+  - first:
+      74: -6403137506840614851
+    second: lanterne007|Grass969|Take 001|BaseLayer
+  - first:
+      74: 8637223427586983438
+    second: lanterne007|Grass970|Take 001|BaseLayer
+  - first:
+      74: -5316640078819220984
+    second: lanterne007|Grass971|Take 001|BaseLayer
+  - first:
+      74: 4869478420465154329
+    second: lanterne007|Grass972|Take 001|BaseLayer
+  - first:
+      74: 3802551790551961001
+    second: lanterne007|Grass973|Take 001|BaseLayer
+  - first:
+      74: -6888534966705303772
+    second: lanterne007|Grass974|Take 001|BaseLayer
+  - first:
+      74: 1955824924075152744
+    second: lanterne007|Grass975|Take 001|BaseLayer
+  - first:
+      74: 2464206217533550324
+    second: lanterne007|Grass976|Take 001|BaseLayer
+  - first:
+      74: 1853737706873086442
+    second: lanterne007|Grass977|Take 001|BaseLayer
+  - first:
+      74: 4468543870862007551
+    second: lanterne007|Grass978|Take 001|BaseLayer
+  - first:
+      74: -6199257181679940364
+    second: lanterne007|Grass979|Take 001|BaseLayer
+  - first:
+      74: -8844963743197466060
+    second: lanterne007|Grass980|Take 001|BaseLayer
+  - first:
+      74: 5232622658461484821
+    second: lanterne007|Grass981|Take 001|BaseLayer
+  - first:
+      74: 3447010135017689271
+    second: lanterne007|Grass982|Take 001|BaseLayer
+  - first:
+      74: -4103398983257212162
+    second: lanterne007|Grass983|Take 001|BaseLayer
+  - first:
+      74: -7860923290244356360
+    second: lanterne007|Grass984|Take 001|BaseLayer
+  - first:
+      74: -8131826950327385789
+    second: lanterne007|Grass985|Take 001|BaseLayer
+  - first:
+      74: 8001847397559311578
+    second: lanterne007|Grass986|Take 001|BaseLayer
+  - first:
+      74: -3418212520112755977
+    second: lanterne007|Grass987|Take 001|BaseLayer
+  - first:
+      74: 5210036273365237417
+    second: lanterne007|Grass988|Take 001|BaseLayer
+  - first:
+      74: -6108589337150037353
+    second: lanterne007|Grass989|Take 001|BaseLayer
+  - first:
+      74: -4032982278986073652
+    second: lanterne007|Grass990|Take 001|BaseLayer
+  - first:
+      74: -9009599508108135205
+    second: lanterne007|Grass991|Take 001|BaseLayer
+  - first:
+      74: 711837180291667087
+    second: lanterne007|Grass992|Take 001|BaseLayer
+  - first:
+      74: -3222103346468054584
+    second: lanterne007|Grass993|Take 001|BaseLayer
+  - first:
+      74: 6677969499123011595
+    second: lanterne007|Grass994|Take 001|BaseLayer
+  - first:
+      74: 3638560788981345178
+    second: lanterne007|Grass995|Take 001|BaseLayer
+  - first:
+      74: 715225324635685331
+    second: lanterne007|Grass996|Take 001|BaseLayer
+  - first:
+      74: -4773056722599435876
+    second: lanterne007|Grass997|Take 001|BaseLayer
+  - first:
+      74: 4337565916020903094
+    second: lanterne007|Grass998|Take 001|BaseLayer
+  - first:
+      74: 2693317894019641255
+    second: lanterne007|Grass999|Take 001|BaseLayer
+  - first:
+      74: -7053807127108708781
+    second: lanterne007|lanterne002|Take 001|BaseLayer
+  - first:
+      74: -1157108642807442886
+    second: lanterne007|lanterne003|Take 001|BaseLayer
+  - first:
+      74: -1326953416632476341
+    second: lanterne007|Lanterne003|Take 001|BaseLayer
+  - first:
+      74: -599512134187907727
+    second: lanterne007|lanterne004|Take 001|BaseLayer
+  - first:
+      74: 8276616015882773041
+    second: lanterne007|Lanterne004|Take 001|BaseLayer
+  - first:
+      74: -3337450229773050885
+    second: lanterne007|Lanterne005|Take 001|BaseLayer
+  - first:
+      74: -8906452575382570514
+    second: lanterne007|lanterne005|Take 001|BaseLayer
+  - first:
+      74: -8914738145929919625
+    second: lanterne007|lanterne006|Take 001|BaseLayer
+  - first:
+      74: -5553243594387847840
+    second: lanterne007|lanterne007|Take 001|BaseLayer
+  - first:
+      74: 2883269850571002728
+    second: lanterne007|lanterne01|Take 001|BaseLayer
+  - first:
+      74: -9083032433303563886
+    second: lanterne007|Lanterne02|Take 001|BaseLayer
+  - first:
+      74: 3873233530712378562
+    second: lanterne007|LanterneSorciere001|Take 001|BaseLayer
+  - first:
+      74: -7065111800278014953
+    second: lanterne007|LanterneSorciere002|Take 001|BaseLayer
+  - first:
+      74: -664131526904796301
+    second: lanterne007|LanterneSorciere003|Take 001|BaseLayer
+  - first:
+      74: -7286396419227252127
+    second: lanterne007|LanterneSorciere|Take 001|BaseLayer
+  - first:
+      74: 33826606219686287
+    second: lanterne007|Mine001|Take 001|BaseLayer
+  - first:
+      74: -3242062595851013194
+    second: lanterne007|Mine|Take 001|BaseLayer
+  - first:
+      74: -7617364801789366727
+    second: lanterne007|Pentacle|Take 001|BaseLayer
+  - first:
+      74: -1468105801660234409
+    second: lanterne007|pillar|Take 001|BaseLayer
+  - first:
+      74: -5734660740377156901
+    second: lanterne007|Rock003|Take 001|BaseLayer
+  - first:
+      74: -7908450447788151009
+    second: lanterne007|Rock004|Take 001|BaseLayer
+  - first:
+      74: -4789640420554485389
+    second: lanterne007|Rock005|Take 001|BaseLayer
+  - first:
+      74: -2945894775662345921
+    second: lanterne007|Rock006|Take 001|BaseLayer
+  - first:
+      74: -493371468582509435
+    second: lanterne007|Rock007|Take 001|BaseLayer
+  - first:
+      74: -8803660214454101645
+    second: lanterne007|Rock008|Take 001|BaseLayer
+  - first:
+      74: 3769745059248162783
+    second: lanterne007|Rock009|Take 001|BaseLayer
+  - first:
+      74: -782201280269617495
+    second: lanterne007|Rock010|Take 001|BaseLayer
+  - first:
+      74: 1074692996142138411
+    second: lanterne007|Rock011|Take 001|BaseLayer
+  - first:
+      74: 6708190389160767550
+    second: lanterne007|Rock012|Take 001|BaseLayer
+  - first:
+      74: -1446293756201052110
+    second: lanterne007|Rock013|Take 001|BaseLayer
+  - first:
+      74: -8506940964586924525
+    second: lanterne007|Rock01|Take 001|BaseLayer
+  - first:
+      74: 1262743647169785917
+    second: lanterne007|Rock02|Take 001|BaseLayer
+  - first:
+      74: -429124742370684067
+    second: lanterne007|rock4_002|Take 001|BaseLayer
+  - first:
+      74: 3444028016941315134
+    second: lanterne007|rock4_003|Take 001|BaseLayer
+  - first:
+      74: -3695126890272845431
+    second: lanterne007|rock4_004|Take 001|BaseLayer
+  - first:
+      74: 1863227519569107548
+    second: lanterne007|rock4_005|Take 001|BaseLayer
+  - first:
+      74: 8113265112206484849
+    second: lanterne007|rock4_006|Take 001|BaseLayer
+  - first:
+      74: 8797769035291255990
+    second: lanterne007|rock4_007|Take 001|BaseLayer
+  - first:
+      74: -1737722815373212222
+    second: lanterne007|rock4_008|Take 001|BaseLayer
+  - first:
+      74: 6713775344916164441
+    second: lanterne007|rock4_009|Take 001|BaseLayer
+  - first:
+      74: -594286622222646550
+    second: lanterne007|rock4_1|Take 001|BaseLayer
+  - first:
+      74: -3695966257189195597
+    second: lanterne007|rockset1|Take 001|BaseLayer
+  - first:
+      74: -699310490722232055
+    second: lanterne007|Ronce001|Take 001|BaseLayer
+  - first:
+      74: 5254541089474815670
+    second: lanterne007|Ronce|Take 001|BaseLayer
+  - first:
+      74: 2515018365830078085
+    second: lanterne007|scole|Take 001|BaseLayer
+  - first:
+      74: 4816411823707400461
+    second: lanterne007|stele01|Take 001|BaseLayer
+  - first:
+      74: 3686156419077066251
+    second: lanterne007|Table|Take 001|BaseLayer
+  - first:
+      74: 987191256584199896
+    second: lanterne007|Temple|Take 001|BaseLayer
+  - first:
+      74: -821725035129389809
+    second: lanterne007|Wall001|Take 001|BaseLayer
+  - first:
+      74: -5938542434337168811
+    second: lanterne007|WallTower001|Take 001|BaseLayer
+  - first:
+      74: -4141703642437964845
+    second: lanterne007|WallTower002|Take 001|BaseLayer
+  - first:
+      74: 7746124284027888863
+    second: lanterne007|WallTower|Take 001|BaseLayer
+  - first:
+      74: -7866738487488222686
+    second: lanterne007|Wall|Take 001|BaseLayer
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

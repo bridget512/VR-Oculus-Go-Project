@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 4220899353
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0ef9be26a8dc26a181375d19a730b07c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 22357172b8cea85847937e8f62d0c077
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Scenes/Materials/mat_red.mat
+- Assets/Oculus/VR/Meshes/OculusTouchForRift/Materials/OculusTouchForRift_Material.mat
+- Assets/Oculus/SampleFramework/Usage/SharedAssets/Skyboxes/Sky_01/Skybox01.mat
+- Assets/Scenes/Materials/mat_yellow.mat
+- Assets/Scenes/Materials/mat_grey.mat
+- Assets/Oculus/VR/Meshes/OculusGoController/Materials/OculusGoControllerMat.mat
+- Assets/Scenes/Materials/mat_blue.mat
+- Assets/Oculus/VR/Meshes/OculusTouchForQuestAndRiftS/Materials/OculusTouchForQuestAndRiftS_Material.mat
+Dependencies:
+- C:/Users/Bridget/Documents/Unity Projects/VR - Oculus Go/OVRAssetBundles/OVRMasterBundle/asset_png0
+- C:/Users/Bridget/Documents/Unity Projects/VR - Oculus Go/OVRAssetBundles/OVRMasterBundle/asset_tga0
