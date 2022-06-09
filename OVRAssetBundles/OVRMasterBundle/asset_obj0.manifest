@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2574226925
+CRC: 3846610938
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: aca8d2cbf30f997619e261e0612a602a
+    Hash: 49a096bb0a8208f3b49185defa64f021
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 07353491aca6e6a29636b555171f2e48
+    Hash: ae2cf77de671e115b4e55d2b65767202
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -17,8 +17,6 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 23
   Script: {instanceID: 0}
-- Class: 28
-  Script: {instanceID: 0}
 - Class: 33
   Script: {instanceID: 0}
 - Class: 43
@@ -28,6 +26,4 @@ ClassTypes:
 SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Scenes/Models/SpawnRoom.obj
-- Assets/Scenes/Models/MirageApexLegends/MirageApexLegends.obj
-Dependencies:
-- C:/Users/Bridget/Documents/Unity Projects/VR - Oculus Go/OVRAssetBundles/OVRMasterBundle/asset_png0
+Dependencies: []

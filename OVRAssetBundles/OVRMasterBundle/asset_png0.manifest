@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2383554370
+CRC: 1259481779
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ae0b7a510827cee4635740d76a42fac9
+    Hash: 5d65b8b17643cd535101bcd5b1dc1751
   TypeTreeHash:
     serializedVersion: 2
     Hash: 7859cd501ea75098bcf7e53f1b477c26
@@ -18,7 +18,6 @@ Assets:
 - Assets/Oculus/SampleFramework/Usage/SharedAssets/Skyboxes/Sky_01/Skybox01_Back-Z.png
 - Assets/Scenes/Models/textures/T_Fence_Albedo.png
 - Assets/Oculus/SampleFramework/Usage/SharedAssets/Skyboxes/Sky_01/Skybox01_Left+X.png
-- Assets/Scenes/Models/MirageApexLegends/MirageApexLegends.png
 - Assets/Oculus/SampleFramework/Usage/SharedAssets/Skyboxes/Sky_01/Skybox01_Up+Y.png
 - Assets/Oculus/SampleFramework/Usage/SharedAssets/Skyboxes/Sky_01/Skybox01_Right-X.png
 - Assets/Scenes/Models/textures/T_Lanterne_Albedo.png
