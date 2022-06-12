@@ -1,20 +1,18 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.XR.Interaction.Toolkit;
 
-public class CodeBlock_test : MonoBehaviour
+public class CodeBlock_AnswerTrigger : MonoBehaviour
 {
- 
-     void OnHoverEnter(Collider other) {
+
+    Vector3 blockTransform;
+
+    private void OnTriggerEnter(Collider other)
+    {
+        other.transform.position = blockTransform;
+    }
 
 
-     }
- 
- 
- 
- 
- 
     // Start is called before the first frame update
     void Start()
     {
