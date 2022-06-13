@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 61232491
+CRC: 1998108344
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 79be8280eaff5b799b163167d1ef9278
+    Hash: be5384223700b7334aa18fe16c191b13
   TypeTreeHash:
     serializedVersion: 2
     Hash: 7859cd501ea75098bcf7e53f1b477c26
@@ -15,6 +15,5 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Scenes/Models/HandpaintedHouse/DefaultMaterial_AO.jpg
 - Assets/Scenes/Models/HandpaintedHouse/DefaultMaterial_albedo.jpg
-- Assets/Scenes/Materials/myrthe-van-tol-grass-texture.jpg
 - Assets/Scenes/Materials/myrthe-van-tol-grass-texture-tiling.jpg
 Dependencies: []

@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 636551412
+CRC: 850371476
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 2a5b0d29a724a767dff28f2ee2ed9843
+    Hash: a877ba62f79d9186e7ffb4fa39730627
   TypeTreeHash:
     serializedVersion: 2
     Hash: 4a98e78f78aff62674c551fec7262106
@@ -41,6 +41,7 @@ Assets:
 - Assets/Scenes/Models/Rock_Large_01.fbx
 - Assets/Scenes/Models/SpellBook UI Static Demo.fbx
 - Assets/Scenes/Models/SpellBook_tut_refSheets.fbx
+- Assets/Scenes/Models/fantasy_tree01.fbx
 - Assets/Scenes/Models/Fence_Type1.fbx
 - Assets/Scenes/Models/SpellBook_tut_Scroll.fbx
 - Assets/Oculus/VR/Meshes/OculusTouchForRift/left_touch_controller_model_skel.fbx
