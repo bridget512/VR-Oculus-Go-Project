@@ -9,6 +9,7 @@ public class CodeBlock_AnswerTrigger : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
+        // attempts to get the position of the other object on collider intersect
         other.transform.position = blockTransform;
     }
 
