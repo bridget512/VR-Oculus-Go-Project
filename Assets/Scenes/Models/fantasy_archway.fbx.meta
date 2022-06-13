@@ -1,0 +1,4105 @@
+fileFormatVersion: 2
+guid: 1aff0672598b63745a03b55f69e6bc0a
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: -1795473591384203307
+    second: Arche001|Arbre003|Take 001|BaseLayer
+  - first:
+      74: 8224058992187882003
+    second: Arche001|Arbre004|Take 001|BaseLayer
+  - first:
+      74: 8301961721380146950
+    second: Arche001|Arbre005|Take 001|BaseLayer
+  - first:
+      74: -7851432462739870198
+    second: Arche001|Arbre006|Take 001|BaseLayer
+  - first:
+      74: 6451466362320439809
+    second: Arche001|Arbre007|Take 001|BaseLayer
+  - first:
+      74: 4231052821714341125
+    second: Arche001|Arbre008|Take 001|BaseLayer
+  - first:
+      74: -6422301882072730996
+    second: Arche001|Arbre009|Take 001|BaseLayer
+  - first:
+      74: -876413862078295098
+    second: Arche001|Arbre010|Take 001|BaseLayer
+  - first:
+      74: 3160315278523257216
+    second: Arche001|Arbre011|Take 001|BaseLayer
+  - first:
+      74: 339961395460974988
+    second: Arche001|Arbre012|Take 001|BaseLayer
+  - first:
+      74: 2298491856128728114
+    second: Arche001|Arbre013|Take 001|BaseLayer
+  - first:
+      74: -3633448679892946505
+    second: Arche001|Arbre014|Take 001|BaseLayer
+  - first:
+      74: -4172065187220885097
+    second: Arche001|Arbre015|Take 001|BaseLayer
+  - first:
+      74: -4500592005075129355
+    second: Arche001|Arbre016|Take 001|BaseLayer
+  - first:
+      74: -5738706026375875207
+    second: Arche001|Arbre017|Take 001|BaseLayer
+  - first:
+      74: 4609114074103660259
+    second: Arche001|Arbre018|Take 001|BaseLayer
+  - first:
+      74: -5474942428888929559
+    second: Arche001|Arbre01|Take 001|BaseLayer
+  - first:
+      74: -3908012644773666169
+    second: Arche001|Arbre02|Take 001|BaseLayer
+  - first:
+      74: 3836137046306047850
+    second: Arche001|Arche001|Take 001|BaseLayer
+  - first:
+      74: -3119375676468829498
+    second: Arche001|ArcheCasse001|Take 001|BaseLayer
+  - first:
+      74: 8683721478288307133
+    second: Arche001|ArcheCasse|Take 001|BaseLayer
+  - first:
+      74: -7187951235554726212
+    second: Arche001|Arche|Take 001|BaseLayer
+  - first:
+      74: 3838909049283270265
+    second: Arche001|Bone003|Take 001|BaseLayer
+  - first:
+      74: 1861220233899381769
+    second: Arche001|Bone004|Take 001|BaseLayer
+  - first:
+      74: -6254877621173543024
+    second: Arche001|Bone005|Take 001|BaseLayer
+  - first:
+      74: -7508939270741641093
+    second: Arche001|Bone006|Take 001|BaseLayer
+  - first:
+      74: -6968032956536562474
+    second: Arche001|Bone007|Take 001|BaseLayer
+  - first:
+      74: 1284196011059891419
+    second: Arche001|Bone010|Take 001|BaseLayer
+  - first:
+      74: -2932464759385518176
+    second: Arche001|Bone016|Take 001|BaseLayer
+  - first:
+      74: -2437316717043614883
+    second: Arche001|Bone022|Take 001|BaseLayer
+  - first:
+      74: 5307737027031384145
+    second: Arche001|Bone023|Take 001|BaseLayer
+  - first:
+      74: -1645790785315818335
+    second: Arche001|BoneNexus01|Take 001|BaseLayer
+  - first:
+      74: 1769341973498461224
+    second: Arche001|broken fence001|Take 001|BaseLayer
+  - first:
+      74: -6212197144304256974
+    second: Arche001|broken fence|Take 001|BaseLayer
+  - first:
+      74: 8907679373340165758
+    second: Arche001|Buche001|Take 001|BaseLayer
+  - first:
+      74: 2946505852136480872
+    second: Arche001|Buche002|Take 001|BaseLayer
+  - first:
+      74: -895977116120387765
+    second: Arche001|Buche003|Take 001|BaseLayer
+  - first:
+      74: 2619167682262392166
+    second: Arche001|Buche004|Take 001|BaseLayer
+  - first:
+      74: 8432460280050261091
+    second: Arche001|Buche005|Take 001|BaseLayer
+  - first:
+      74: 754009149345359679
+    second: Arche001|Buche006|Take 001|BaseLayer
+  - first:
+      74: 1834094914885155912
+    second: Arche001|Buche007|Take 001|BaseLayer
+  - first:
+      74: 4317196662819613967
+    second: Arche001|Buche|Take 001|BaseLayer
+  - first:
+      74: -2460760305837546642
+    second: Arche001|Campement|Take 001|BaseLayer
+  - first:
+      74: 4681330319958308907
+    second: Arche001|CampFire|Take 001|BaseLayer
+  - first:
+      74: -40336152137301326
+    second: Arche001|Champi002|Take 001|BaseLayer
+  - first:
+      74: -8339158801349668183
+    second: Arche001|Champi004|Take 001|BaseLayer
+  - first:
+      74: -4979089081070502385
+    second: Arche001|Champi005|Take 001|BaseLayer
+  - first:
+      74: 4392860424159041918
+    second: Arche001|Champi006|Take 001|BaseLayer
+  - first:
+      74: 4093301238585952695
+    second: Arche001|Champi007|Take 001|BaseLayer
+  - first:
+      74: 4745058440605346663
+    second: Arche001|Champi008|Take 001|BaseLayer
+  - first:
+      74: -8009208174767618672
+    second: Arche001|Champi009|Take 001|BaseLayer
+  - first:
+      74: 236810588671110169
+    second: Arche001|Champi010|Take 001|BaseLayer
+  - first:
+      74: 3609424771559219844
+    second: Arche001|Champi011|Take 001|BaseLayer
+  - first:
+      74: -5350925605647049299
+    second: Arche001|Champi012|Take 001|BaseLayer
+  - first:
+      74: 6823010667233841303
+    second: Arche001|Champi013|Take 001|BaseLayer
+  - first:
+      74: 8725538913437133128
+    second: Arche001|Champi014|Take 001|BaseLayer
+  - first:
+      74: 5092910585023203373
+    second: Arche001|Champi015|Take 001|BaseLayer
+  - first:
+      74: -7952811685992019403
+    second: Arche001|Champi016|Take 001|BaseLayer
+  - first:
+      74: 4745846035852835496
+    second: Arche001|Champi017|Take 001|BaseLayer
+  - first:
+      74: 3658164205641206568
+    second: Arche001|Champi018|Take 001|BaseLayer
+  - first:
+      74: -7508212132838808071
+    second: Arche001|Champi019|Take 001|BaseLayer
+  - first:
+      74: 2859585319511607157
+    second: Arche001|Champi020|Take 001|BaseLayer
+  - first:
+      74: 3441342023341677491
+    second: Arche001|Champi021|Take 001|BaseLayer
+  - first:
+      74: 2254256232411455809
+    second: Arche001|Champi|Take 001|BaseLayer
+  - first:
+      74: 4831303108847465132
+    second: Arche001|Chaudron|Take 001|BaseLayer
+  - first:
+      74: 5818503061779716080
+    second: Arche001|DoorCity|Take 001|BaseLayer
+  - first:
+      74: -1625154569167454146
+    second: Arche001|Fence001|Take 001|BaseLayer
+  - first:
+      74: -7602876545665264412
+    second: Arche001|Fence002|Take 001|BaseLayer
+  - first:
+      74: -5610350814767319971
+    second: Arche001|Fence003|Take 001|BaseLayer
+  - first:
+      74: -3987009469531604891
+    second: Arche001|Fence004|Take 001|BaseLayer
+  - first:
+      74: 4102673258206412485
+    second: Arche001|Fence005|Take 001|BaseLayer
+  - first:
+      74: 210073227426926068
+    second: Arche001|Fence006|Take 001|BaseLayer
+  - first:
+      74: -6078362208683904242
+    second: Arche001|Fence|Take 001|BaseLayer
+  - first:
+      74: -6454085300736573336
+    second: Arche001|Grass002|Take 001|BaseLayer
+  - first:
+      74: -5305988332074791541
+    second: Arche001|Grass003|Take 001|BaseLayer
+  - first:
+      74: 1223784289323274218
+    second: Arche001|Grass004|Take 001|BaseLayer
+  - first:
+      74: -1772384680676613763
+    second: Arche001|Grass005|Take 001|BaseLayer
+  - first:
+      74: -6619789034425085123
+    second: Arche001|Grass006|Take 001|BaseLayer
+  - first:
+      74: -9161018401292533240
+    second: Arche001|Grass007|Take 001|BaseLayer
+  - first:
+      74: -2800081127867288951
+    second: Arche001|Grass008|Take 001|BaseLayer
+  - first:
+      74: -2244466541806975656
+    second: Arche001|Grass009|Take 001|BaseLayer
+  - first:
+      74: 3491275451256744284
+    second: Arche001|Grass010|Take 001|BaseLayer
+  - first:
+      74: -590191580381963749
+    second: Arche001|Grass011|Take 001|BaseLayer
+  - first:
+      74: -4650959248375593530
+    second: Arche001|Grass012|Take 001|BaseLayer
+  - first:
+      74: 1129445483791470233
+    second: Arche001|Grass013|Take 001|BaseLayer
+  - first:
+      74: 6292933570251683973
+    second: Arche001|Grass014|Take 001|BaseLayer
+  - first:
+      74: 3182531638979070045
+    second: Arche001|Grass015|Take 001|BaseLayer
+  - first:
+      74: -1571589140291151577
+    second: Arche001|Grass016|Take 001|BaseLayer
+  - first:
+      74: 4408664070073201134
+    second: Arche001|Grass017|Take 001|BaseLayer
+  - first:
+      74: -5789799802301519298
+    second: Arche001|Grass018|Take 001|BaseLayer
+  - first:
+      74: 3581438697144620473
+    second: Arche001|Grass019|Take 001|BaseLayer
+  - first:
+      74: 3373934740615827518
+    second: Arche001|Grass01|Take 001|BaseLayer
+  - first:
+      74: 5818283567177134346
+    second: Arche001|Grass020|Take 001|BaseLayer
+  - first:
+      74: 1247438147163585109
+    second: Arche001|Grass088|Take 001|BaseLayer
+  - first:
+      74: 3073099370193873429
+    second: Arche001|Grass089|Take 001|BaseLayer
+  - first:
+      74: 2818125527699597873
+    second: Arche001|Grass090|Take 001|BaseLayer
+  - first:
+      74: -4237566637736468434
+    second: Arche001|Grass091|Take 001|BaseLayer
+  - first:
+      74: -7994111720643957837
+    second: Arche001|Grass092|Take 001|BaseLayer
+  - first:
+      74: 3292326548547906704
+    second: Arche001|Grass093|Take 001|BaseLayer
+  - first:
+      74: -7724322323226327963
+    second: Arche001|Grass094|Take 001|BaseLayer
+  - first:
+      74: -1057874269946301569
+    second: Arche001|Grass095|Take 001|BaseLayer
+  - first:
+      74: -6729823577154642847
+    second: Arche001|Grass096|Take 001|BaseLayer
+  - first:
+      74: -253010508394634549
+    second: Arche001|Grass097|Take 001|BaseLayer
+  - first:
+      74: -4894653925654597240
+    second: Arche001|Grass098|Take 001|BaseLayer
+  - first:
+      74: 6683879668996845861
+    second: Arche001|Grass099|Take 001|BaseLayer
+  - first:
+      74: 8566605719565904578
+    second: Arche001|Grass1000|Take 001|BaseLayer
+  - first:
+      74: -5035020811533620430
+    second: Arche001|Grass1001|Take 001|BaseLayer
+  - first:
+      74: -818873375189723313
+    second: Arche001|Grass1002|Take 001|BaseLayer
+  - first:
+      74: -5814069099315364830
+    second: Arche001|Grass1003|Take 001|BaseLayer
+  - first:
+      74: -1762918508406798551
+    second: Arche001|Grass1004|Take 001|BaseLayer
+  - first:
+      74: -3734620819326049240
+    second: Arche001|Grass1005|Take 001|BaseLayer
+  - first:
+      74: 1855136687080263992
+    second: Arche001|Grass1006|Take 001|BaseLayer
+  - first:
+      74: -101161755700706490
+    second: Arche001|Grass1007|Take 001|BaseLayer
+  - first:
+      74: 8552196869203197978
+    second: Arche001|Grass1008|Take 001|BaseLayer
+  - first:
+      74: 3193385685586989034
+    second: Arche001|Grass1009|Take 001|BaseLayer
+  - first:
+      74: -3163459448237057288
+    second: Arche001|Grass100|Take 001|BaseLayer
+  - first:
+      74: 6910154822012527034
+    second: Arche001|Grass1010|Take 001|BaseLayer
+  - first:
+      74: -3240922105900815874
+    second: Arche001|Grass1011|Take 001|BaseLayer
+  - first:
+      74: 3854754621974859874
+    second: Arche001|Grass1012|Take 001|BaseLayer
+  - first:
+      74: -679335842262754145
+    second: Arche001|Grass1013|Take 001|BaseLayer
+  - first:
+      74: 7724734946455884753
+    second: Arche001|Grass1014|Take 001|BaseLayer
+  - first:
+      74: 5758889860573876567
+    second: Arche001|Grass1015|Take 001|BaseLayer
+  - first:
+      74: -7684076409897426203
+    second: Arche001|Grass1016|Take 001|BaseLayer
+  - first:
+      74: -7987178598839855492
+    second: Arche001|Grass1017|Take 001|BaseLayer
+  - first:
+      74: -1601527312026985771
+    second: Arche001|Grass1018|Take 001|BaseLayer
+  - first:
+      74: 7784721307664692688
+    second: Arche001|Grass1019|Take 001|BaseLayer
+  - first:
+      74: -4265977765915394805
+    second: Arche001|Grass101|Take 001|BaseLayer
+  - first:
+      74: 5963346959454714520
+    second: Arche001|Grass1020|Take 001|BaseLayer
+  - first:
+      74: 3326223061600884094
+    second: Arche001|Grass1021|Take 001|BaseLayer
+  - first:
+      74: 2121631562313075535
+    second: Arche001|Grass1022|Take 001|BaseLayer
+  - first:
+      74: -1435620512039906964
+    second: Arche001|Grass1023|Take 001|BaseLayer
+  - first:
+      74: -6511674230284609700
+    second: Arche001|Grass1024|Take 001|BaseLayer
+  - first:
+      74: -2470256003023111489
+    second: Arche001|Grass1025|Take 001|BaseLayer
+  - first:
+      74: -9007891263112818277
+    second: Arche001|Grass1026|Take 001|BaseLayer
+  - first:
+      74: 7846266458845185590
+    second: Arche001|Grass1027|Take 001|BaseLayer
+  - first:
+      74: -8530678381360201154
+    second: Arche001|Grass1028|Take 001|BaseLayer
+  - first:
+      74: -3846550891251495935
+    second: Arche001|Grass1029|Take 001|BaseLayer
+  - first:
+      74: -7391948234873527563
+    second: Arche001|Grass102|Take 001|BaseLayer
+  - first:
+      74: -8050318586553284944
+    second: Arche001|Grass1030|Take 001|BaseLayer
+  - first:
+      74: -3565937120759237247
+    second: Arche001|Grass1031|Take 001|BaseLayer
+  - first:
+      74: -6470215174885457744
+    second: Arche001|Grass1032|Take 001|BaseLayer
+  - first:
+      74: -2275366408783196590
+    second: Arche001|Grass1033|Take 001|BaseLayer
+  - first:
+      74: -8959442984298175610
+    second: Arche001|Grass1034|Take 001|BaseLayer
+  - first:
+      74: 2619126963778487560
+    second: Arche001|Grass1035|Take 001|BaseLayer
+  - first:
+      74: 6624682511235516746
+    second: Arche001|Grass1036|Take 001|BaseLayer
+  - first:
+      74: 4149211025405036105
+    second: Arche001|Grass1037|Take 001|BaseLayer
+  - first:
+      74: -4901004156884249184
+    second: Arche001|Grass1038|Take 001|BaseLayer
+  - first:
+      74: -7211040354342455007
+    second: Arche001|Grass1039|Take 001|BaseLayer
+  - first:
+      74: -8093501152697414211
+    second: Arche001|Grass103|Take 001|BaseLayer
+  - first:
+      74: 7600052053950344967
+    second: Arche001|Grass1040|Take 001|BaseLayer
+  - first:
+      74: -1269713171064691306
+    second: Arche001|Grass1041|Take 001|BaseLayer
+  - first:
+      74: 7961398591714586884
+    second: Arche001|Grass1042|Take 001|BaseLayer
+  - first:
+      74: -7873809986716232967
+    second: Arche001|Grass1043|Take 001|BaseLayer
+  - first:
+      74: 5409026267947543961
+    second: Arche001|Grass1044|Take 001|BaseLayer
+  - first:
+      74: 212380393883250495
+    second: Arche001|Grass1045|Take 001|BaseLayer
+  - first:
+      74: -2807074911293226370
+    second: Arche001|Grass1046|Take 001|BaseLayer
+  - first:
+      74: -1037901888619851413
+    second: Arche001|Grass1047|Take 001|BaseLayer
+  - first:
+      74: 4869377096351361991
+    second: Arche001|Grass1048|Take 001|BaseLayer
+  - first:
+      74: -196932342703463787
+    second: Arche001|Grass1049|Take 001|BaseLayer
+  - first:
+      74: 3952290208778631372
+    second: Arche001|Grass104|Take 001|BaseLayer
+  - first:
+      74: -1890858173336257098
+    second: Arche001|Grass1050|Take 001|BaseLayer
+  - first:
+      74: 3970885570931612047
+    second: Arche001|Grass1051|Take 001|BaseLayer
+  - first:
+      74: -2187001632233349946
+    second: Arche001|Grass1052|Take 001|BaseLayer
+  - first:
+      74: 6062782616561006711
+    second: Arche001|Grass1053|Take 001|BaseLayer
+  - first:
+      74: -2701093364941455371
+    second: Arche001|Grass1054|Take 001|BaseLayer
+  - first:
+      74: -9099826351356227363
+    second: Arche001|Grass1055|Take 001|BaseLayer
+  - first:
+      74: -570727616125779254
+    second: Arche001|Grass1056|Take 001|BaseLayer
+  - first:
+      74: -8431084033019404451
+    second: Arche001|Grass1057|Take 001|BaseLayer
+  - first:
+      74: 672185300483552497
+    second: Arche001|Grass1058|Take 001|BaseLayer
+  - first:
+      74: -4017420396144067162
+    second: Arche001|Grass1059|Take 001|BaseLayer
+  - first:
+      74: -1035525892806968959
+    second: Arche001|Grass105|Take 001|BaseLayer
+  - first:
+      74: 8744504458924283259
+    second: Arche001|Grass1060|Take 001|BaseLayer
+  - first:
+      74: 6946909669775399687
+    second: Arche001|Grass1061|Take 001|BaseLayer
+  - first:
+      74: 3540716038745027783
+    second: Arche001|Grass1062|Take 001|BaseLayer
+  - first:
+      74: -5407131334033680894
+    second: Arche001|Grass1063|Take 001|BaseLayer
+  - first:
+      74: 4578005502193194108
+    second: Arche001|Grass1064|Take 001|BaseLayer
+  - first:
+      74: -982379467005362402
+    second: Arche001|Grass1065|Take 001|BaseLayer
+  - first:
+      74: 504487284911714402
+    second: Arche001|Grass1066|Take 001|BaseLayer
+  - first:
+      74: -6845295988305710201
+    second: Arche001|Grass1067|Take 001|BaseLayer
+  - first:
+      74: -7851591510853206038
+    second: Arche001|Grass1068|Take 001|BaseLayer
+  - first:
+      74: 8590309178882980166
+    second: Arche001|Grass1069|Take 001|BaseLayer
+  - first:
+      74: -3559007594601543847
+    second: Arche001|Grass106|Take 001|BaseLayer
+  - first:
+      74: 5973130282855255896
+    second: Arche001|Grass1070|Take 001|BaseLayer
+  - first:
+      74: 842478550855849117
+    second: Arche001|Grass1071|Take 001|BaseLayer
+  - first:
+      74: -1293661784562398018
+    second: Arche001|Grass1072|Take 001|BaseLayer
+  - first:
+      74: 1772808600511355144
+    second: Arche001|Grass1073|Take 001|BaseLayer
+  - first:
+      74: -478720844529878003
+    second: Arche001|Grass1074|Take 001|BaseLayer
+  - first:
+      74: 7528699958410228055
+    second: Arche001|Grass1075|Take 001|BaseLayer
+  - first:
+      74: -5782715583853809070
+    second: Arche001|Grass1076|Take 001|BaseLayer
+  - first:
+      74: -898580362952958270
+    second: Arche001|Grass1077|Take 001|BaseLayer
+  - first:
+      74: -7548042560935474476
+    second: Arche001|Grass1078|Take 001|BaseLayer
+  - first:
+      74: -4243766911653379606
+    second: Arche001|Grass1079|Take 001|BaseLayer
+  - first:
+      74: -4116987935449085314
+    second: Arche001|Grass107|Take 001|BaseLayer
+  - first:
+      74: 6115544666403408426
+    second: Arche001|Grass1080|Take 001|BaseLayer
+  - first:
+      74: -4955023529026395510
+    second: Arche001|Grass1081|Take 001|BaseLayer
+  - first:
+      74: 8289790310027490661
+    second: Arche001|Grass1082|Take 001|BaseLayer
+  - first:
+      74: 2287805296790798642
+    second: Arche001|Grass1083|Take 001|BaseLayer
+  - first:
+      74: 8061407765348075213
+    second: Arche001|Grass1084|Take 001|BaseLayer
+  - first:
+      74: -7891324390315805378
+    second: Arche001|Grass1085|Take 001|BaseLayer
+  - first:
+      74: 4328273704117348182
+    second: Arche001|Grass1086|Take 001|BaseLayer
+  - first:
+      74: 1632390213713455020
+    second: Arche001|Grass1087|Take 001|BaseLayer
+  - first:
+      74: 7316641821142750970
+    second: Arche001|Grass1088|Take 001|BaseLayer
+  - first:
+      74: -5112146926523925103
+    second: Arche001|Grass1089|Take 001|BaseLayer
+  - first:
+      74: 5830087122933539712
+    second: Arche001|Grass108|Take 001|BaseLayer
+  - first:
+      74: -5363165029710150030
+    second: Arche001|Grass1090|Take 001|BaseLayer
+  - first:
+      74: -7002126360853621963
+    second: Arche001|Grass1091|Take 001|BaseLayer
+  - first:
+      74: 6420650956663753080
+    second: Arche001|Grass1092|Take 001|BaseLayer
+  - first:
+      74: 2165904563888796263
+    second: Arche001|Grass1093|Take 001|BaseLayer
+  - first:
+      74: -3204615980419988308
+    second: Arche001|Grass1094|Take 001|BaseLayer
+  - first:
+      74: 3327412787824141559
+    second: Arche001|Grass1095|Take 001|BaseLayer
+  - first:
+      74: -8879707906317089519
+    second: Arche001|Grass1096|Take 001|BaseLayer
+  - first:
+      74: -4536504544615757143
+    second: Arche001|Grass1097|Take 001|BaseLayer
+  - first:
+      74: -3437773942737088942
+    second: Arche001|Grass1098|Take 001|BaseLayer
+  - first:
+      74: 6802980990516810470
+    second: Arche001|Grass1099|Take 001|BaseLayer
+  - first:
+      74: -8894807151147250976
+    second: Arche001|Grass109|Take 001|BaseLayer
+  - first:
+      74: 1941360087052236845
+    second: Arche001|Grass1100|Take 001|BaseLayer
+  - first:
+      74: -8023560094863456383
+    second: Arche001|Grass1101|Take 001|BaseLayer
+  - first:
+      74: -8042320503799060957
+    second: Arche001|Grass1102|Take 001|BaseLayer
+  - first:
+      74: 3972421581653506032
+    second: Arche001|Grass1103|Take 001|BaseLayer
+  - first:
+      74: 688564621431740536
+    second: Arche001|Grass1104|Take 001|BaseLayer
+  - first:
+      74: -4160737589438108406
+    second: Arche001|Grass1105|Take 001|BaseLayer
+  - first:
+      74: 8910398392706364395
+    second: Arche001|Grass1106|Take 001|BaseLayer
+  - first:
+      74: -9218128791719211434
+    second: Arche001|Grass1107|Take 001|BaseLayer
+  - first:
+      74: -3135824594520274326
+    second: Arche001|Grass1108|Take 001|BaseLayer
+  - first:
+      74: -3878119020491718392
+    second: Arche001|Grass1109|Take 001|BaseLayer
+  - first:
+      74: 5528787455188143772
+    second: Arche001|Grass110|Take 001|BaseLayer
+  - first:
+      74: -3734937885957067491
+    second: Arche001|Grass1110|Take 001|BaseLayer
+  - first:
+      74: 6780783038412444936
+    second: Arche001|Grass1111|Take 001|BaseLayer
+  - first:
+      74: -2647205112060178091
+    second: Arche001|Grass1112|Take 001|BaseLayer
+  - first:
+      74: 1591740090101069785
+    second: Arche001|Grass1113|Take 001|BaseLayer
+  - first:
+      74: -8827749482923695443
+    second: Arche001|Grass1114|Take 001|BaseLayer
+  - first:
+      74: 7289395576384319745
+    second: Arche001|Grass1115|Take 001|BaseLayer
+  - first:
+      74: 7130421376153675222
+    second: Arche001|Grass1116|Take 001|BaseLayer
+  - first:
+      74: -6927804348075824729
+    second: Arche001|Grass1117|Take 001|BaseLayer
+  - first:
+      74: -1219180016726539000
+    second: Arche001|Grass1118|Take 001|BaseLayer
+  - first:
+      74: 1979349671233009826
+    second: Arche001|Grass1119|Take 001|BaseLayer
+  - first:
+      74: 2191202972262881440
+    second: Arche001|Grass111|Take 001|BaseLayer
+  - first:
+      74: 7283526962536707385
+    second: Arche001|Grass1120|Take 001|BaseLayer
+  - first:
+      74: -74135409871477142
+    second: Arche001|Grass1121|Take 001|BaseLayer
+  - first:
+      74: -9188681681781845410
+    second: Arche001|Grass1122|Take 001|BaseLayer
+  - first:
+      74: -1803001787357895342
+    second: Arche001|Grass1123|Take 001|BaseLayer
+  - first:
+      74: -8465966948665732322
+    second: Arche001|Grass1124|Take 001|BaseLayer
+  - first:
+      74: 687914061512284511
+    second: Arche001|Grass1125|Take 001|BaseLayer
+  - first:
+      74: 6203522080647547004
+    second: Arche001|Grass1126|Take 001|BaseLayer
+  - first:
+      74: -5999320598680463716
+    second: Arche001|Grass1127|Take 001|BaseLayer
+  - first:
+      74: -6422561674892313725
+    second: Arche001|Grass1128|Take 001|BaseLayer
+  - first:
+      74: 8911412165971008907
+    second: Arche001|Grass1129|Take 001|BaseLayer
+  - first:
+      74: -780649285051784232
+    second: Arche001|Grass112|Take 001|BaseLayer
+  - first:
+      74: 2268171509243641629
+    second: Arche001|Grass1130|Take 001|BaseLayer
+  - first:
+      74: -8588104227731169850
+    second: Arche001|Grass1131|Take 001|BaseLayer
+  - first:
+      74: 7300395155376531340
+    second: Arche001|Grass1132|Take 001|BaseLayer
+  - first:
+      74: 2115181951226096182
+    second: Arche001|Grass1133|Take 001|BaseLayer
+  - first:
+      74: -4811329373221006896
+    second: Arche001|Grass1134|Take 001|BaseLayer
+  - first:
+      74: 4478059881686718765
+    second: Arche001|Grass1135|Take 001|BaseLayer
+  - first:
+      74: 5809991301742131700
+    second: Arche001|Grass1136|Take 001|BaseLayer
+  - first:
+      74: -3833573751966582471
+    second: Arche001|Grass1137|Take 001|BaseLayer
+  - first:
+      74: 9048859779501070977
+    second: Arche001|Grass1138|Take 001|BaseLayer
+  - first:
+      74: 7474856638587291675
+    second: Arche001|Grass1139|Take 001|BaseLayer
+  - first:
+      74: -4317578100312427299
+    second: Arche001|Grass113|Take 001|BaseLayer
+  - first:
+      74: -2978232105195980760
+    second: Arche001|Grass1140|Take 001|BaseLayer
+  - first:
+      74: 3089977308562223254
+    second: Arche001|Grass1141|Take 001|BaseLayer
+  - first:
+      74: 5202923114289173729
+    second: Arche001|Grass1142|Take 001|BaseLayer
+  - first:
+      74: -5422316808271226524
+    second: Arche001|Grass1143|Take 001|BaseLayer
+  - first:
+      74: -6187773181378306723
+    second: Arche001|Grass1144|Take 001|BaseLayer
+  - first:
+      74: -2827093542397764157
+    second: Arche001|Grass1145|Take 001|BaseLayer
+  - first:
+      74: -4934345851688936901
+    second: Arche001|Grass1146|Take 001|BaseLayer
+  - first:
+      74: 1638220130354591887
+    second: Arche001|Grass1147|Take 001|BaseLayer
+  - first:
+      74: -1915082313492800113
+    second: Arche001|Grass1148|Take 001|BaseLayer
+  - first:
+      74: 4487050758598603120
+    second: Arche001|Grass1149|Take 001|BaseLayer
+  - first:
+      74: 5848551547416294159
+    second: Arche001|Grass114|Take 001|BaseLayer
+  - first:
+      74: -3810112694206579400
+    second: Arche001|Grass1150|Take 001|BaseLayer
+  - first:
+      74: -2602811731820304133
+    second: Arche001|Grass1151|Take 001|BaseLayer
+  - first:
+      74: -5304692446835692736
+    second: Arche001|Grass1152|Take 001|BaseLayer
+  - first:
+      74: 7130224698661119909
+    second: Arche001|Grass1153|Take 001|BaseLayer
+  - first:
+      74: 6523880716584575422
+    second: Arche001|Grass1154|Take 001|BaseLayer
+  - first:
+      74: 229452950081431227
+    second: Arche001|Grass1155|Take 001|BaseLayer
+  - first:
+      74: 5605379559639726990
+    second: Arche001|Grass1156|Take 001|BaseLayer
+  - first:
+      74: -5840599671518124649
+    second: Arche001|Grass1157|Take 001|BaseLayer
+  - first:
+      74: 2298386972020468742
+    second: Arche001|Grass1158|Take 001|BaseLayer
+  - first:
+      74: 1164282307986809350
+    second: Arche001|Grass1159|Take 001|BaseLayer
+  - first:
+      74: -7146223344024995294
+    second: Arche001|Grass115|Take 001|BaseLayer
+  - first:
+      74: 7765245402629876458
+    second: Arche001|Grass1160|Take 001|BaseLayer
+  - first:
+      74: -9138153685638093589
+    second: Arche001|Grass1161|Take 001|BaseLayer
+  - first:
+      74: -2317988180894977260
+    second: Arche001|Grass1162|Take 001|BaseLayer
+  - first:
+      74: -6414015266566044618
+    second: Arche001|Grass1163|Take 001|BaseLayer
+  - first:
+      74: -3082833629202300966
+    second: Arche001|Grass1164|Take 001|BaseLayer
+  - first:
+      74: 3008472689135426771
+    second: Arche001|Grass1165|Take 001|BaseLayer
+  - first:
+      74: -3346626503312119075
+    second: Arche001|Grass1166|Take 001|BaseLayer
+  - first:
+      74: 3360700800706734766
+    second: Arche001|Grass1167|Take 001|BaseLayer
+  - first:
+      74: -3844837486019021365
+    second: Arche001|Grass1168|Take 001|BaseLayer
+  - first:
+      74: 4114939992110723434
+    second: Arche001|Grass1169|Take 001|BaseLayer
+  - first:
+      74: -2784663482322509322
+    second: Arche001|Grass116|Take 001|BaseLayer
+  - first:
+      74: 178059040777731550
+    second: Arche001|Grass1170|Take 001|BaseLayer
+  - first:
+      74: 538011943434970911
+    second: Arche001|Grass1171|Take 001|BaseLayer
+  - first:
+      74: -7669348102901770188
+    second: Arche001|Grass1172|Take 001|BaseLayer
+  - first:
+      74: -1077917543836268865
+    second: Arche001|Grass1173|Take 001|BaseLayer
+  - first:
+      74: 8290293029632843913
+    second: Arche001|Grass1174|Take 001|BaseLayer
+  - first:
+      74: -2758252248676682463
+    second: Arche001|Grass1175|Take 001|BaseLayer
+  - first:
+      74: -5817951958075935286
+    second: Arche001|Grass1176|Take 001|BaseLayer
+  - first:
+      74: 1472843177790695643
+    second: Arche001|Grass1177|Take 001|BaseLayer
+  - first:
+      74: 635753319284534624
+    second: Arche001|Grass1178|Take 001|BaseLayer
+  - first:
+      74: -7283243736465797052
+    second: Arche001|Grass1179|Take 001|BaseLayer
+  - first:
+      74: -849215670590159214
+    second: Arche001|Grass117|Take 001|BaseLayer
+  - first:
+      74: 8148407066396437445
+    second: Arche001|Grass1180|Take 001|BaseLayer
+  - first:
+      74: -2307040743697754093
+    second: Arche001|Grass1181|Take 001|BaseLayer
+  - first:
+      74: -7564051269357932918
+    second: Arche001|Grass1182|Take 001|BaseLayer
+  - first:
+      74: 6060537656138647768
+    second: Arche001|Grass1183|Take 001|BaseLayer
+  - first:
+      74: -1671961290299447340
+    second: Arche001|Grass1184|Take 001|BaseLayer
+  - first:
+      74: 6776813677732253037
+    second: Arche001|Grass1185|Take 001|BaseLayer
+  - first:
+      74: -8517893640751337905
+    second: Arche001|Grass1186|Take 001|BaseLayer
+  - first:
+      74: 349661287363967722
+    second: Arche001|Grass1187|Take 001|BaseLayer
+  - first:
+      74: 6938864548078904014
+    second: Arche001|Grass1188|Take 001|BaseLayer
+  - first:
+      74: 7956902254481629946
+    second: Arche001|Grass1189|Take 001|BaseLayer
+  - first:
+      74: 129732160342620367
+    second: Arche001|Grass118|Take 001|BaseLayer
+  - first:
+      74: -3607058707290602712
+    second: Arche001|Grass1190|Take 001|BaseLayer
+  - first:
+      74: -580958326460251953
+    second: Arche001|Grass1191|Take 001|BaseLayer
+  - first:
+      74: -5988892340363262484
+    second: Arche001|Grass1192|Take 001|BaseLayer
+  - first:
+      74: 2140196416574331693
+    second: Arche001|Grass1193|Take 001|BaseLayer
+  - first:
+      74: -3993533883814394490
+    second: Arche001|Grass1194|Take 001|BaseLayer
+  - first:
+      74: 1258524462898727397
+    second: Arche001|Grass1195|Take 001|BaseLayer
+  - first:
+      74: -2480270838965531362
+    second: Arche001|Grass1196|Take 001|BaseLayer
+  - first:
+      74: -4831703519974056115
+    second: Arche001|Grass1197|Take 001|BaseLayer
+  - first:
+      74: 4869359537143998087
+    second: Arche001|Grass1198|Take 001|BaseLayer
+  - first:
+      74: 4320378168354139340
+    second: Arche001|Grass1199|Take 001|BaseLayer
+  - first:
+      74: -1170122965213148112
+    second: Arche001|Grass119|Take 001|BaseLayer
+  - first:
+      74: -8164650466943715869
+    second: Arche001|Grass1200|Take 001|BaseLayer
+  - first:
+      74: -1836287130771247936
+    second: Arche001|Grass1201|Take 001|BaseLayer
+  - first:
+      74: 6342780379891337789
+    second: Arche001|Grass1202|Take 001|BaseLayer
+  - first:
+      74: -2189191411625028268
+    second: Arche001|Grass1203|Take 001|BaseLayer
+  - first:
+      74: -3217766307149374353
+    second: Arche001|Grass1204|Take 001|BaseLayer
+  - first:
+      74: -2187656240505270622
+    second: Arche001|Grass1205|Take 001|BaseLayer
+  - first:
+      74: -4530627985977407614
+    second: Arche001|Grass1206|Take 001|BaseLayer
+  - first:
+      74: 2714251663270853756
+    second: Arche001|Grass1207|Take 001|BaseLayer
+  - first:
+      74: -6961326551338660462
+    second: Arche001|Grass1208|Take 001|BaseLayer
+  - first:
+      74: -8769673706230147030
+    second: Arche001|Grass1209|Take 001|BaseLayer
+  - first:
+      74: -6155774166314553921
+    second: Arche001|Grass120|Take 001|BaseLayer
+  - first:
+      74: -5230491282287637522
+    second: Arche001|Grass1210|Take 001|BaseLayer
+  - first:
+      74: -4869875704133466644
+    second: Arche001|Grass1211|Take 001|BaseLayer
+  - first:
+      74: -3203734456411152503
+    second: Arche001|Grass1212|Take 001|BaseLayer
+  - first:
+      74: -7446488862680793654
+    second: Arche001|Grass1213|Take 001|BaseLayer
+  - first:
+      74: -6357720323203462404
+    second: Arche001|Grass1214|Take 001|BaseLayer
+  - first:
+      74: 8525881318752738621
+    second: Arche001|Grass1215|Take 001|BaseLayer
+  - first:
+      74: 5542996443278233951
+    second: Arche001|Grass1216|Take 001|BaseLayer
+  - first:
+      74: 300852246120303420
+    second: Arche001|Grass1217|Take 001|BaseLayer
+  - first:
+      74: 1629358766802924305
+    second: Arche001|Grass1218|Take 001|BaseLayer
+  - first:
+      74: 8212483771787766809
+    second: Arche001|Grass1219|Take 001|BaseLayer
+  - first:
+      74: -5586977378054709760
+    second: Arche001|Grass121|Take 001|BaseLayer
+  - first:
+      74: 1860481354913673098
+    second: Arche001|Grass1220|Take 001|BaseLayer
+  - first:
+      74: -272455278611164660
+    second: Arche001|Grass1221|Take 001|BaseLayer
+  - first:
+      74: 2634087842674680177
+    second: Arche001|Grass1222|Take 001|BaseLayer
+  - first:
+      74: -6444802434323117058
+    second: Arche001|Grass1223|Take 001|BaseLayer
+  - first:
+      74: -1501269793881062871
+    second: Arche001|Grass1224|Take 001|BaseLayer
+  - first:
+      74: 2440007066156470902
+    second: Arche001|Grass1225|Take 001|BaseLayer
+  - first:
+      74: -4592477547463985501
+    second: Arche001|Grass1226|Take 001|BaseLayer
+  - first:
+      74: 7342127925790229641
+    second: Arche001|Grass1227|Take 001|BaseLayer
+  - first:
+      74: -2894810173372926429
+    second: Arche001|Grass1228|Take 001|BaseLayer
+  - first:
+      74: 2292435319876859641
+    second: Arche001|Grass1229|Take 001|BaseLayer
+  - first:
+      74: -7316689934756503968
+    second: Arche001|Grass122|Take 001|BaseLayer
+  - first:
+      74: 2180620205278734969
+    second: Arche001|Grass1230|Take 001|BaseLayer
+  - first:
+      74: 6019927554554013651
+    second: Arche001|Grass1231|Take 001|BaseLayer
+  - first:
+      74: -6798102966629891078
+    second: Arche001|Grass1232|Take 001|BaseLayer
+  - first:
+      74: -2247863097806303189
+    second: Arche001|Grass1233|Take 001|BaseLayer
+  - first:
+      74: 5447200553364421588
+    second: Arche001|Grass1234|Take 001|BaseLayer
+  - first:
+      74: -4146491476760845095
+    second: Arche001|Grass1235|Take 001|BaseLayer
+  - first:
+      74: -4293061132998550734
+    second: Arche001|Grass1236|Take 001|BaseLayer
+  - first:
+      74: -9105418670100067034
+    second: Arche001|Grass1237|Take 001|BaseLayer
+  - first:
+      74: 6834222562778667639
+    second: Arche001|Grass1238|Take 001|BaseLayer
+  - first:
+      74: -411797030185890719
+    second: Arche001|Grass1239|Take 001|BaseLayer
+  - first:
+      74: -3706033995259668665
+    second: Arche001|Grass123|Take 001|BaseLayer
+  - first:
+      74: -7773802766294008808
+    second: Arche001|Grass1240|Take 001|BaseLayer
+  - first:
+      74: -2869419256394129028
+    second: Arche001|Grass1241|Take 001|BaseLayer
+  - first:
+      74: -537756761628142386
+    second: Arche001|Grass1242|Take 001|BaseLayer
+  - first:
+      74: -5155146294516457018
+    second: Arche001|Grass1243|Take 001|BaseLayer
+  - first:
+      74: 6782277835388060889
+    second: Arche001|Grass1244|Take 001|BaseLayer
+  - first:
+      74: -3189925760400897309
+    second: Arche001|Grass1245|Take 001|BaseLayer
+  - first:
+      74: 3301307501282379044
+    second: Arche001|Grass1246|Take 001|BaseLayer
+  - first:
+      74: 2550126607207234074
+    second: Arche001|Grass1247|Take 001|BaseLayer
+  - first:
+      74: -5719737273440468415
+    second: Arche001|Grass1248|Take 001|BaseLayer
+  - first:
+      74: 8062493597664774801
+    second: Arche001|Grass1249|Take 001|BaseLayer
+  - first:
+      74: 113327990089663794
+    second: Arche001|Grass124|Take 001|BaseLayer
+  - first:
+      74: -754416299607536610
+    second: Arche001|Grass1250|Take 001|BaseLayer
+  - first:
+      74: -2528834410642979355
+    second: Arche001|Grass1251|Take 001|BaseLayer
+  - first:
+      74: -1799315173295975800
+    second: Arche001|Grass1252|Take 001|BaseLayer
+  - first:
+      74: -3578968444162017933
+    second: Arche001|Grass1253|Take 001|BaseLayer
+  - first:
+      74: 538131815610127073
+    second: Arche001|Grass1254|Take 001|BaseLayer
+  - first:
+      74: -7711199578363513925
+    second: Arche001|Grass1255|Take 001|BaseLayer
+  - first:
+      74: 528650397422765015
+    second: Arche001|Grass1256|Take 001|BaseLayer
+  - first:
+      74: 3682151378477493602
+    second: Arche001|Grass1257|Take 001|BaseLayer
+  - first:
+      74: 4686645724670816823
+    second: Arche001|Grass1258|Take 001|BaseLayer
+  - first:
+      74: 7357950365325476312
+    second: Arche001|Grass1259|Take 001|BaseLayer
+  - first:
+      74: 2890053304254251370
+    second: Arche001|Grass125|Take 001|BaseLayer
+  - first:
+      74: 3763273306500839067
+    second: Arche001|Grass1260|Take 001|BaseLayer
+  - first:
+      74: 6634154878717641624
+    second: Arche001|Grass1261|Take 001|BaseLayer
+  - first:
+      74: -4615449485472060478
+    second: Arche001|Grass1262|Take 001|BaseLayer
+  - first:
+      74: -1856697855388042278
+    second: Arche001|Grass1263|Take 001|BaseLayer
+  - first:
+      74: -5141963679905779772
+    second: Arche001|Grass1264|Take 001|BaseLayer
+  - first:
+      74: -6617686881054182239
+    second: Arche001|Grass1265|Take 001|BaseLayer
+  - first:
+      74: 1354824192779262349
+    second: Arche001|Grass1266|Take 001|BaseLayer
+  - first:
+      74: 7737222164437722663
+    second: Arche001|Grass1267|Take 001|BaseLayer
+  - first:
+      74: 6359226193222702948
+    second: Arche001|Grass1268|Take 001|BaseLayer
+  - first:
+      74: 6360213701309696277
+    second: Arche001|Grass1269|Take 001|BaseLayer
+  - first:
+      74: 1693911346027603093
+    second: Arche001|Grass126|Take 001|BaseLayer
+  - first:
+      74: -6902253693912160037
+    second: Arche001|Grass1270|Take 001|BaseLayer
+  - first:
+      74: 5241093282636433175
+    second: Arche001|Grass1271|Take 001|BaseLayer
+  - first:
+      74: -1370081020773954911
+    second: Arche001|Grass1272|Take 001|BaseLayer
+  - first:
+      74: -502814457730613543
+    second: Arche001|Grass1273|Take 001|BaseLayer
+  - first:
+      74: -3623642346613133602
+    second: Arche001|Grass1274|Take 001|BaseLayer
+  - first:
+      74: -1675605050623359867
+    second: Arche001|Grass1275|Take 001|BaseLayer
+  - first:
+      74: 2358112867640465312
+    second: Arche001|Grass1276|Take 001|BaseLayer
+  - first:
+      74: 5232974643123677158
+    second: Arche001|Grass1277|Take 001|BaseLayer
+  - first:
+      74: 1751629460121406819
+    second: Arche001|Grass1278|Take 001|BaseLayer
+  - first:
+      74: -9044960691942815499
+    second: Arche001|Grass1279|Take 001|BaseLayer
+  - first:
+      74: 7363622431452405644
+    second: Arche001|Grass127|Take 001|BaseLayer
+  - first:
+      74: -2023827250555544963
+    second: Arche001|Grass1280|Take 001|BaseLayer
+  - first:
+      74: -7784666710051051338
+    second: Arche001|Grass1281|Take 001|BaseLayer
+  - first:
+      74: -1235843917649624732
+    second: Arche001|Grass1282|Take 001|BaseLayer
+  - first:
+      74: 5186229870549832207
+    second: Arche001|Grass1283|Take 001|BaseLayer
+  - first:
+      74: -6892041999168596624
+    second: Arche001|Grass1284|Take 001|BaseLayer
+  - first:
+      74: 1334997756032196626
+    second: Arche001|Grass1285|Take 001|BaseLayer
+  - first:
+      74: -8684782331704170007
+    second: Arche001|Grass1286|Take 001|BaseLayer
+  - first:
+      74: 7779251407142563297
+    second: Arche001|Grass1287|Take 001|BaseLayer
+  - first:
+      74: 3518948530381498879
+    second: Arche001|Grass1288|Take 001|BaseLayer
+  - first:
+      74: -5753025098180601512
+    second: Arche001|Grass1289|Take 001|BaseLayer
+  - first:
+      74: 8534061293455133777
+    second: Arche001|Grass128|Take 001|BaseLayer
+  - first:
+      74: -7207275532129831418
+    second: Arche001|Grass1290|Take 001|BaseLayer
+  - first:
+      74: -8162865481193858075
+    second: Arche001|Grass1291|Take 001|BaseLayer
+  - first:
+      74: -3627200231270125156
+    second: Arche001|Grass1292|Take 001|BaseLayer
+  - first:
+      74: -6612371515088983570
+    second: Arche001|Grass1293|Take 001|BaseLayer
+  - first:
+      74: 2707494999811764915
+    second: Arche001|Grass1294|Take 001|BaseLayer
+  - first:
+      74: 5537640592942905200
+    second: Arche001|Grass1295|Take 001|BaseLayer
+  - first:
+      74: -5813465370305270667
+    second: Arche001|Grass1296|Take 001|BaseLayer
+  - first:
+      74: -2031674234363023415
+    second: Arche001|Grass1297|Take 001|BaseLayer
+  - first:
+      74: -1395943130664981104
+    second: Arche001|Grass1298|Take 001|BaseLayer
+  - first:
+      74: -8917392669669234500
+    second: Arche001|Grass1299|Take 001|BaseLayer
+  - first:
+      74: 3270760930128137903
+    second: Arche001|Grass129|Take 001|BaseLayer
+  - first:
+      74: 6085697429863083876
+    second: Arche001|Grass1300|Take 001|BaseLayer
+  - first:
+      74: -6253475641700610900
+    second: Arche001|Grass1301|Take 001|BaseLayer
+  - first:
+      74: -33405881418518999
+    second: Arche001|Grass1302|Take 001|BaseLayer
+  - first:
+      74: 6455092015979298140
+    second: Arche001|Grass1303|Take 001|BaseLayer
+  - first:
+      74: 1248265746831417089
+    second: Arche001|Grass1304|Take 001|BaseLayer
+  - first:
+      74: 3837569947796775666
+    second: Arche001|Grass1305|Take 001|BaseLayer
+  - first:
+      74: -5402470300619409096
+    second: Arche001|Grass1306|Take 001|BaseLayer
+  - first:
+      74: -6840331391120061588
+    second: Arche001|Grass1307|Take 001|BaseLayer
+  - first:
+      74: 1260684388836708588
+    second: Arche001|Grass1308|Take 001|BaseLayer
+  - first:
+      74: -644564949883649040
+    second: Arche001|Grass1309|Take 001|BaseLayer
+  - first:
+      74: 8430222547632551799
+    second: Arche001|Grass130|Take 001|BaseLayer
+  - first:
+      74: -2853735109412478354
+    second: Arche001|Grass1310|Take 001|BaseLayer
+  - first:
+      74: 8845511082645064702
+    second: Arche001|Grass1311|Take 001|BaseLayer
+  - first:
+      74: 5466643688369588766
+    second: Arche001|Grass1312|Take 001|BaseLayer
+  - first:
+      74: -4893217080696640504
+    second: Arche001|Grass1313|Take 001|BaseLayer
+  - first:
+      74: 7445226143365582648
+    second: Arche001|Grass1314|Take 001|BaseLayer
+  - first:
+      74: 1946699737547587964
+    second: Arche001|Grass1315|Take 001|BaseLayer
+  - first:
+      74: -213520153301200147
+    second: Arche001|Grass1316|Take 001|BaseLayer
+  - first:
+      74: 5558633298943737599
+    second: Arche001|Grass1317|Take 001|BaseLayer
+  - first:
+      74: 6366433305102769781
+    second: Arche001|Grass1318|Take 001|BaseLayer
+  - first:
+      74: 8830026853539213493
+    second: Arche001|Grass1319|Take 001|BaseLayer
+  - first:
+      74: 1799662976660110729
+    second: Arche001|Grass131|Take 001|BaseLayer
+  - first:
+      74: 5226936497095093273
+    second: Arche001|Grass1320|Take 001|BaseLayer
+  - first:
+      74: 6981384289975013824
+    second: Arche001|Grass1321|Take 001|BaseLayer
+  - first:
+      74: 5149064382616916650
+    second: Arche001|Grass1322|Take 001|BaseLayer
+  - first:
+      74: -6343150036766781058
+    second: Arche001|Grass1323|Take 001|BaseLayer
+  - first:
+      74: -429776853946158618
+    second: Arche001|Grass1324|Take 001|BaseLayer
+  - first:
+      74: 2153426497864877732
+    second: Arche001|Grass1325|Take 001|BaseLayer
+  - first:
+      74: -1258255356888635977
+    second: Arche001|Grass1326|Take 001|BaseLayer
+  - first:
+      74: -6252908589025387696
+    second: Arche001|Grass1327|Take 001|BaseLayer
+  - first:
+      74: -4968392944611006075
+    second: Arche001|Grass1328|Take 001|BaseLayer
+  - first:
+      74: -1565093702257619113
+    second: Arche001|Grass1329|Take 001|BaseLayer
+  - first:
+      74: 5422264592935893961
+    second: Arche001|Grass132|Take 001|BaseLayer
+  - first:
+      74: -7866188936961065701
+    second: Arche001|Grass1330|Take 001|BaseLayer
+  - first:
+      74: 4559669773293575614
+    second: Arche001|Grass1331|Take 001|BaseLayer
+  - first:
+      74: -7948232944467990523
+    second: Arche001|Grass1332|Take 001|BaseLayer
+  - first:
+      74: 267644164425971115
+    second: Arche001|Grass1333|Take 001|BaseLayer
+  - first:
+      74: -7774377495937079274
+    second: Arche001|Grass1334|Take 001|BaseLayer
+  - first:
+      74: -5562501657922319436
+    second: Arche001|Grass1335|Take 001|BaseLayer
+  - first:
+      74: -1090824251392348727
+    second: Arche001|Grass1336|Take 001|BaseLayer
+  - first:
+      74: 104026933227378300
+    second: Arche001|Grass1337|Take 001|BaseLayer
+  - first:
+      74: 7403529839673384719
+    second: Arche001|Grass1338|Take 001|BaseLayer
+  - first:
+      74: -266039468265729249
+    second: Arche001|Grass1339|Take 001|BaseLayer
+  - first:
+      74: -700897546968050297
+    second: Arche001|Grass133|Take 001|BaseLayer
+  - first:
+      74: -1990925191458594872
+    second: Arche001|Grass1340|Take 001|BaseLayer
+  - first:
+      74: -6295840594514558165
+    second: Arche001|Grass1341|Take 001|BaseLayer
+  - first:
+      74: 2539767406742495099
+    second: Arche001|Grass1342|Take 001|BaseLayer
+  - first:
+      74: 8223018828682789338
+    second: Arche001|Grass1343|Take 001|BaseLayer
+  - first:
+      74: -1573861926162249956
+    second: Arche001|Grass1344|Take 001|BaseLayer
+  - first:
+      74: -8073925719072664970
+    second: Arche001|Grass134|Take 001|BaseLayer
+  - first:
+      74: 5509847779203597208
+    second: Arche001|Grass135|Take 001|BaseLayer
+  - first:
+      74: -4259598680722469724
+    second: Arche001|Grass136|Take 001|BaseLayer
+  - first:
+      74: 2637565490508230260
+    second: Arche001|Grass137|Take 001|BaseLayer
+  - first:
+      74: 5962887119517162052
+    second: Arche001|Grass138|Take 001|BaseLayer
+  - first:
+      74: -3276767255490017555
+    second: Arche001|Grass139|Take 001|BaseLayer
+  - first:
+      74: 5925577801361722200
+    second: Arche001|Grass140|Take 001|BaseLayer
+  - first:
+      74: -2031788603979675665
+    second: Arche001|Grass141|Take 001|BaseLayer
+  - first:
+      74: -7364899959862373512
+    second: Arche001|Grass142|Take 001|BaseLayer
+  - first:
+      74: -7133529484185193854
+    second: Arche001|Grass143|Take 001|BaseLayer
+  - first:
+      74: -4960614623851754609
+    second: Arche001|Grass144|Take 001|BaseLayer
+  - first:
+      74: -5726865830706024070
+    second: Arche001|Grass145|Take 001|BaseLayer
+  - first:
+      74: -8003048533319421557
+    second: Arche001|Grass146|Take 001|BaseLayer
+  - first:
+      74: -2222697882616374443
+    second: Arche001|Grass147|Take 001|BaseLayer
+  - first:
+      74: -3293750113712514160
+    second: Arche001|Grass148|Take 001|BaseLayer
+  - first:
+      74: -4440154073650105762
+    second: Arche001|Grass149|Take 001|BaseLayer
+  - first:
+      74: 6519895834139687594
+    second: Arche001|Grass150|Take 001|BaseLayer
+  - first:
+      74: -927887964327733691
+    second: Arche001|Grass151|Take 001|BaseLayer
+  - first:
+      74: -7474268551118105357
+    second: Arche001|Grass152|Take 001|BaseLayer
+  - first:
+      74: -3719223723075757803
+    second: Arche001|Grass153|Take 001|BaseLayer
+  - first:
+      74: -5771189068439122075
+    second: Arche001|Grass154|Take 001|BaseLayer
+  - first:
+      74: -320245511754689575
+    second: Arche001|Grass222|Take 001|BaseLayer
+  - first:
+      74: 3974943627750352830
+    second: Arche001|Grass223|Take 001|BaseLayer
+  - first:
+      74: -7074537807739215
+    second: Arche001|Grass224|Take 001|BaseLayer
+  - first:
+      74: 4346115777510892721
+    second: Arche001|Grass225|Take 001|BaseLayer
+  - first:
+      74: 707963869368964931
+    second: Arche001|Grass226|Take 001|BaseLayer
+  - first:
+      74: -905279156946486201
+    second: Arche001|Grass227|Take 001|BaseLayer
+  - first:
+      74: -9192948484445010702
+    second: Arche001|Grass228|Take 001|BaseLayer
+  - first:
+      74: -5302836287293683414
+    second: Arche001|Grass229|Take 001|BaseLayer
+  - first:
+      74: 8646737593466890819
+    second: Arche001|Grass230|Take 001|BaseLayer
+  - first:
+      74: -7870939102058002883
+    second: Arche001|Grass231|Take 001|BaseLayer
+  - first:
+      74: 5008940877742766272
+    second: Arche001|Grass232|Take 001|BaseLayer
+  - first:
+      74: -2264492246015112714
+    second: Arche001|Grass233|Take 001|BaseLayer
+  - first:
+      74: 3825531033308544984
+    second: Arche001|Grass234|Take 001|BaseLayer
+  - first:
+      74: 1918871854909370683
+    second: Arche001|Grass235|Take 001|BaseLayer
+  - first:
+      74: -8875986661551410976
+    second: Arche001|Grass236|Take 001|BaseLayer
+  - first:
+      74: 7888545469738592950
+    second: Arche001|Grass237|Take 001|BaseLayer
+  - first:
+      74: -5715261907105783455
+    second: Arche001|Grass238|Take 001|BaseLayer
+  - first:
+      74: -5023104591437743978
+    second: Arche001|Grass239|Take 001|BaseLayer
+  - first:
+      74: -1155418728861004017
+    second: Arche001|Grass240|Take 001|BaseLayer
+  - first:
+      74: 7401745133886177077
+    second: Arche001|Grass241|Take 001|BaseLayer
+  - first:
+      74: -2615883793607372640
+    second: Arche001|Grass242|Take 001|BaseLayer
+  - first:
+      74: -9148519292659456770
+    second: Arche001|Grass243|Take 001|BaseLayer
+  - first:
+      74: -8802844434626807285
+    second: Arche001|Grass244|Take 001|BaseLayer
+  - first:
+      74: -5743790401005062781
+    second: Arche001|Grass245|Take 001|BaseLayer
+  - first:
+      74: 8914393182193498433
+    second: Arche001|Grass246|Take 001|BaseLayer
+  - first:
+      74: 4015565401369359239
+    second: Arche001|Grass247|Take 001|BaseLayer
+  - first:
+      74: 3158505479346352288
+    second: Arche001|Grass248|Take 001|BaseLayer
+  - first:
+      74: -2532963312373310427
+    second: Arche001|Grass249|Take 001|BaseLayer
+  - first:
+      74: 6607984952695316665
+    second: Arche001|Grass250|Take 001|BaseLayer
+  - first:
+      74: 643915783856644311
+    second: Arche001|Grass251|Take 001|BaseLayer
+  - first:
+      74: -9023096921832290449
+    second: Arche001|Grass252|Take 001|BaseLayer
+  - first:
+      74: 267030337282388898
+    second: Arche001|Grass253|Take 001|BaseLayer
+  - first:
+      74: -7904438025829799615
+    second: Arche001|Grass254|Take 001|BaseLayer
+  - first:
+      74: -8755470191961303066
+    second: Arche001|Grass255|Take 001|BaseLayer
+  - first:
+      74: -4236940938294285933
+    second: Arche001|Grass256|Take 001|BaseLayer
+  - first:
+      74: 3082237053682890212
+    second: Arche001|Grass257|Take 001|BaseLayer
+  - first:
+      74: -707229511512043987
+    second: Arche001|Grass258|Take 001|BaseLayer
+  - first:
+      74: -632418919423459447
+    second: Arche001|Grass259|Take 001|BaseLayer
+  - first:
+      74: 3489808926314226995
+    second: Arche001|Grass260|Take 001|BaseLayer
+  - first:
+      74: 7730095589427343558
+    second: Arche001|Grass261|Take 001|BaseLayer
+  - first:
+      74: 1423709262443976120
+    second: Arche001|Grass262|Take 001|BaseLayer
+  - first:
+      74: -3198979278986403996
+    second: Arche001|Grass263|Take 001|BaseLayer
+  - first:
+      74: 9139196979182246286
+    second: Arche001|Grass264|Take 001|BaseLayer
+  - first:
+      74: -4527765911273550759
+    second: Arche001|Grass265|Take 001|BaseLayer
+  - first:
+      74: -5996321441686277217
+    second: Arche001|Grass266|Take 001|BaseLayer
+  - first:
+      74: 467351498873515806
+    second: Arche001|Grass267|Take 001|BaseLayer
+  - first:
+      74: 7569610329127697086
+    second: Arche001|Grass268|Take 001|BaseLayer
+  - first:
+      74: -3398776278848228114
+    second: Arche001|Grass269|Take 001|BaseLayer
+  - first:
+      74: 5424184492807773558
+    second: Arche001|Grass270|Take 001|BaseLayer
+  - first:
+      74: -6270131367949213266
+    second: Arche001|Grass271|Take 001|BaseLayer
+  - first:
+      74: -2020917737912524386
+    second: Arche001|Grass272|Take 001|BaseLayer
+  - first:
+      74: 8556694947549625231
+    second: Arche001|Grass273|Take 001|BaseLayer
+  - first:
+      74: -664566151390603009
+    second: Arche001|Grass274|Take 001|BaseLayer
+  - first:
+      74: -6366490842016325375
+    second: Arche001|Grass275|Take 001|BaseLayer
+  - first:
+      74: 5040221299677563324
+    second: Arche001|Grass276|Take 001|BaseLayer
+  - first:
+      74: 2135646252545516645
+    second: Arche001|Grass277|Take 001|BaseLayer
+  - first:
+      74: 6546783750974885141
+    second: Arche001|Grass278|Take 001|BaseLayer
+  - first:
+      74: 3093430193494209012
+    second: Arche001|Grass279|Take 001|BaseLayer
+  - first:
+      74: 7931200227833114932
+    second: Arche001|Grass280|Take 001|BaseLayer
+  - first:
+      74: 1022648619658597155
+    second: Arche001|Grass281|Take 001|BaseLayer
+  - first:
+      74: 3633508900485399722
+    second: Arche001|Grass282|Take 001|BaseLayer
+  - first:
+      74: 7160034586141197794
+    second: Arche001|Grass283|Take 001|BaseLayer
+  - first:
+      74: -2521186114618304951
+    second: Arche001|Grass284|Take 001|BaseLayer
+  - first:
+      74: -4541390415139508972
+    second: Arche001|Grass285|Take 001|BaseLayer
+  - first:
+      74: -1344973117842659976
+    second: Arche001|Grass286|Take 001|BaseLayer
+  - first:
+      74: -4789016996388841960
+    second: Arche001|Grass287|Take 001|BaseLayer
+  - first:
+      74: 8532894900253767763
+    second: Arche001|Grass288|Take 001|BaseLayer
+  - first:
+      74: -6741214331458633825
+    second: Arche001|Grass289|Take 001|BaseLayer
+  - first:
+      74: -5128344006323983924
+    second: Arche001|Grass290|Take 001|BaseLayer
+  - first:
+      74: -2872996883632743152
+    second: Arche001|Grass291|Take 001|BaseLayer
+  - first:
+      74: 7503180968521601415
+    second: Arche001|Grass292|Take 001|BaseLayer
+  - first:
+      74: -6245346014452761751
+    second: Arche001|Grass293|Take 001|BaseLayer
+  - first:
+      74: -8782084813656129390
+    second: Arche001|Grass294|Take 001|BaseLayer
+  - first:
+      74: -7443875707639345055
+    second: Arche001|Grass295|Take 001|BaseLayer
+  - first:
+      74: -6157289950846899853
+    second: Arche001|Grass296|Take 001|BaseLayer
+  - first:
+      74: 5527519120977241356
+    second: Arche001|Grass297|Take 001|BaseLayer
+  - first:
+      74: 711900607970226731
+    second: Arche001|Grass298|Take 001|BaseLayer
+  - first:
+      74: 2581491037693706998
+    second: Arche001|Grass299|Take 001|BaseLayer
+  - first:
+      74: 4450612264902045257
+    second: Arche001|Grass300|Take 001|BaseLayer
+  - first:
+      74: -7595356019919052156
+    second: Arche001|Grass301|Take 001|BaseLayer
+  - first:
+      74: 684117230153594137
+    second: Arche001|Grass302|Take 001|BaseLayer
+  - first:
+      74: 311908611708210345
+    second: Arche001|Grass303|Take 001|BaseLayer
+  - first:
+      74: -2990856057304017404
+    second: Arche001|Grass304|Take 001|BaseLayer
+  - first:
+      74: -8918169774690172560
+    second: Arche001|Grass305|Take 001|BaseLayer
+  - first:
+      74: -311198800520533394
+    second: Arche001|Grass306|Take 001|BaseLayer
+  - first:
+      74: -3237378221838299965
+    second: Arche001|Grass307|Take 001|BaseLayer
+  - first:
+      74: 7090775329135027093
+    second: Arche001|Grass308|Take 001|BaseLayer
+  - first:
+      74: -8541630735518514610
+    second: Arche001|Grass309|Take 001|BaseLayer
+  - first:
+      74: 6540099946968339467
+    second: Arche001|Grass310|Take 001|BaseLayer
+  - first:
+      74: -2481209139783879228
+    second: Arche001|Grass311|Take 001|BaseLayer
+  - first:
+      74: 51681826813404268
+    second: Arche001|Grass312|Take 001|BaseLayer
+  - first:
+      74: -5194619957298082576
+    second: Arche001|Grass313|Take 001|BaseLayer
+  - first:
+      74: 3084398713323978977
+    second: Arche001|Grass314|Take 001|BaseLayer
+  - first:
+      74: 625030958810665633
+    second: Arche001|Grass315|Take 001|BaseLayer
+  - first:
+      74: -8288585455150210737
+    second: Arche001|Grass316|Take 001|BaseLayer
+  - first:
+      74: -4586052402402376297
+    second: Arche001|Grass317|Take 001|BaseLayer
+  - first:
+      74: 8029731220234687485
+    second: Arche001|Grass318|Take 001|BaseLayer
+  - first:
+      74: 5089665286892633041
+    second: Arche001|Grass319|Take 001|BaseLayer
+  - first:
+      74: -1158937569498406360
+    second: Arche001|Grass320|Take 001|BaseLayer
+  - first:
+      74: -3257022376252371759
+    second: Arche001|Grass321|Take 001|BaseLayer
+  - first:
+      74: -311710194243004725
+    second: Arche001|Grass322|Take 001|BaseLayer
+  - first:
+      74: 7489788273369638438
+    second: Arche001|Grass323|Take 001|BaseLayer
+  - first:
+      74: 2221683930577998474
+    second: Arche001|Grass324|Take 001|BaseLayer
+  - first:
+      74: -8522705768250225047
+    second: Arche001|Grass325|Take 001|BaseLayer
+  - first:
+      74: -1933280907457816403
+    second: Arche001|Grass326|Take 001|BaseLayer
+  - first:
+      74: -7133872954126851793
+    second: Arche001|Grass327|Take 001|BaseLayer
+  - first:
+      74: 386721018170985597
+    second: Arche001|Grass328|Take 001|BaseLayer
+  - first:
+      74: -8762442406800766879
+    second: Arche001|Grass329|Take 001|BaseLayer
+  - first:
+      74: 6098387290531491690
+    second: Arche001|Grass330|Take 001|BaseLayer
+  - first:
+      74: 1655882794740760403
+    second: Arche001|Grass331|Take 001|BaseLayer
+  - first:
+      74: 1129974548810553011
+    second: Arche001|Grass332|Take 001|BaseLayer
+  - first:
+      74: 2645292700864256913
+    second: Arche001|Grass333|Take 001|BaseLayer
+  - first:
+      74: 8128667708907278673
+    second: Arche001|Grass334|Take 001|BaseLayer
+  - first:
+      74: 3044857007012212972
+    second: Arche001|Grass335|Take 001|BaseLayer
+  - first:
+      74: -5578925259555558421
+    second: Arche001|Grass336|Take 001|BaseLayer
+  - first:
+      74: 659756923797194356
+    second: Arche001|Grass337|Take 001|BaseLayer
+  - first:
+      74: -95768729112819574
+    second: Arche001|Grass338|Take 001|BaseLayer
+  - first:
+      74: 9015890616291501570
+    second: Arche001|Grass339|Take 001|BaseLayer
+  - first:
+      74: 4295173753074833561
+    second: Arche001|Grass340|Take 001|BaseLayer
+  - first:
+      74: 4804688893509185501
+    second: Arche001|Grass341|Take 001|BaseLayer
+  - first:
+      74: 1940006455969407726
+    second: Arche001|Grass342|Take 001|BaseLayer
+  - first:
+      74: 4729433121990501910
+    second: Arche001|Grass343|Take 001|BaseLayer
+  - first:
+      74: 2728342862503246663
+    second: Arche001|Grass344|Take 001|BaseLayer
+  - first:
+      74: 3231654768934746114
+    second: Arche001|Grass345|Take 001|BaseLayer
+  - first:
+      74: -680793824179733946
+    second: Arche001|Grass346|Take 001|BaseLayer
+  - first:
+      74: 1684118595446022102
+    second: Arche001|Grass347|Take 001|BaseLayer
+  - first:
+      74: 7351739340031221277
+    second: Arche001|Grass348|Take 001|BaseLayer
+  - first:
+      74: 363232150047225379
+    second: Arche001|Grass349|Take 001|BaseLayer
+  - first:
+      74: 2018061590091372250
+    second: Arche001|Grass350|Take 001|BaseLayer
+  - first:
+      74: -3881953111233751248
+    second: Arche001|Grass351|Take 001|BaseLayer
+  - first:
+      74: -1875952961106325660
+    second: Arche001|Grass352|Take 001|BaseLayer
+  - first:
+      74: 945266876579335444
+    second: Arche001|Grass353|Take 001|BaseLayer
+  - first:
+      74: -608386177243677351
+    second: Arche001|Grass354|Take 001|BaseLayer
+  - first:
+      74: -4958357028841589382
+    second: Arche001|Grass355|Take 001|BaseLayer
+  - first:
+      74: 1881995756143319802
+    second: Arche001|Grass356|Take 001|BaseLayer
+  - first:
+      74: 917039050926027131
+    second: Arche001|Grass357|Take 001|BaseLayer
+  - first:
+      74: 4664726743626842578
+    second: Arche001|Grass358|Take 001|BaseLayer
+  - first:
+      74: -5653784462671681047
+    second: Arche001|Grass359|Take 001|BaseLayer
+  - first:
+      74: -8546823923959986197
+    second: Arche001|Grass360|Take 001|BaseLayer
+  - first:
+      74: 7605853545309373993
+    second: Arche001|Grass361|Take 001|BaseLayer
+  - first:
+      74: 2686950990533010626
+    second: Arche001|Grass362|Take 001|BaseLayer
+  - first:
+      74: 4478007190436223740
+    second: Arche001|Grass363|Take 001|BaseLayer
+  - first:
+      74: 7404440446062894347
+    second: Arche001|Grass364|Take 001|BaseLayer
+  - first:
+      74: -798061877037001383
+    second: Arche001|Grass365|Take 001|BaseLayer
+  - first:
+      74: 3123797451594585578
+    second: Arche001|Grass366|Take 001|BaseLayer
+  - first:
+      74: -4884427292277849888
+    second: Arche001|Grass367|Take 001|BaseLayer
+  - first:
+      74: -6412156099465719514
+    second: Arche001|Grass368|Take 001|BaseLayer
+  - first:
+      74: -3244101530016076836
+    second: Arche001|Grass369|Take 001|BaseLayer
+  - first:
+      74: 7900097865636937393
+    second: Arche001|Grass370|Take 001|BaseLayer
+  - first:
+      74: 4569735436487274706
+    second: Arche001|Grass371|Take 001|BaseLayer
+  - first:
+      74: -4117735056900147931
+    second: Arche001|Grass372|Take 001|BaseLayer
+  - first:
+      74: 2298486378896169328
+    second: Arche001|Grass373|Take 001|BaseLayer
+  - first:
+      74: 1828019058123023734
+    second: Arche001|Grass374|Take 001|BaseLayer
+  - first:
+      74: 4701970442245496676
+    second: Arche001|Grass375|Take 001|BaseLayer
+  - first:
+      74: 8826081797116416449
+    second: Arche001|Grass376|Take 001|BaseLayer
+  - first:
+      74: 8952621827371622720
+    second: Arche001|Grass377|Take 001|BaseLayer
+  - first:
+      74: 3658247385696499643
+    second: Arche001|Grass378|Take 001|BaseLayer
+  - first:
+      74: 252008974888653758
+    second: Arche001|Grass379|Take 001|BaseLayer
+  - first:
+      74: -4836347487582016679
+    second: Arche001|Grass380|Take 001|BaseLayer
+  - first:
+      74: -8808083714313874763
+    second: Arche001|Grass381|Take 001|BaseLayer
+  - first:
+      74: -267325929803477987
+    second: Arche001|Grass382|Take 001|BaseLayer
+  - first:
+      74: 802279712867764644
+    second: Arche001|Grass383|Take 001|BaseLayer
+  - first:
+      74: 3124526337123720286
+    second: Arche001|Grass384|Take 001|BaseLayer
+  - first:
+      74: -3943187829557416302
+    second: Arche001|Grass385|Take 001|BaseLayer
+  - first:
+      74: -7218488998212707787
+    second: Arche001|Grass386|Take 001|BaseLayer
+  - first:
+      74: 3452930415384024400
+    second: Arche001|Grass387|Take 001|BaseLayer
+  - first:
+      74: -3426050829322772032
+    second: Arche001|Grass388|Take 001|BaseLayer
+  - first:
+      74: 7044164817697321843
+    second: Arche001|Grass389|Take 001|BaseLayer
+  - first:
+      74: 656458154721928733
+    second: Arche001|Grass390|Take 001|BaseLayer
+  - first:
+      74: 4985055002533593843
+    second: Arche001|Grass391|Take 001|BaseLayer
+  - first:
+      74: -3831223728125056107
+    second: Arche001|Grass392|Take 001|BaseLayer
+  - first:
+      74: -984380048109264814
+    second: Arche001|Grass393|Take 001|BaseLayer
+  - first:
+      74: 1393133588450289046
+    second: Arche001|Grass394|Take 001|BaseLayer
+  - first:
+      74: 7404276469080433843
+    second: Arche001|Grass395|Take 001|BaseLayer
+  - first:
+      74: -7348941492317219032
+    second: Arche001|Grass396|Take 001|BaseLayer
+  - first:
+      74: -5069529168493741277
+    second: Arche001|Grass397|Take 001|BaseLayer
+  - first:
+      74: 8005788581068880467
+    second: Arche001|Grass398|Take 001|BaseLayer
+  - first:
+      74: 6452506615040666629
+    second: Arche001|Grass399|Take 001|BaseLayer
+  - first:
+      74: -9003493209496442829
+    second: Arche001|Grass400|Take 001|BaseLayer
+  - first:
+      74: -200570096223741515
+    second: Arche001|Grass401|Take 001|BaseLayer
+  - first:
+      74: -4434244154598285739
+    second: Arche001|Grass402|Take 001|BaseLayer
+  - first:
+      74: 7232945078166030878
+    second: Arche001|Grass403|Take 001|BaseLayer
+  - first:
+      74: 4449486117899508011
+    second: Arche001|Grass404|Take 001|BaseLayer
+  - first:
+      74: -867710742353379819
+    second: Arche001|Grass405|Take 001|BaseLayer
+  - first:
+      74: -416085778011606044
+    second: Arche001|Grass406|Take 001|BaseLayer
+  - first:
+      74: 8501912727488587588
+    second: Arche001|Grass407|Take 001|BaseLayer
+  - first:
+      74: -4427861496397818328
+    second: Arche001|Grass408|Take 001|BaseLayer
+  - first:
+      74: 37415026301866654
+    second: Arche001|Grass409|Take 001|BaseLayer
+  - first:
+      74: 9107215120626914227
+    second: Arche001|Grass410|Take 001|BaseLayer
+  - first:
+      74: 505194658600372311
+    second: Arche001|Grass411|Take 001|BaseLayer
+  - first:
+      74: -8197664265427538327
+    second: Arche001|Grass412|Take 001|BaseLayer
+  - first:
+      74: 7731775920624752834
+    second: Arche001|Grass413|Take 001|BaseLayer
+  - first:
+      74: 1024140904139094809
+    second: Arche001|Grass414|Take 001|BaseLayer
+  - first:
+      74: -7888830029109003170
+    second: Arche001|Grass415|Take 001|BaseLayer
+  - first:
+      74: -1742361408122150882
+    second: Arche001|Grass416|Take 001|BaseLayer
+  - first:
+      74: -9210816291002905548
+    second: Arche001|Grass417|Take 001|BaseLayer
+  - first:
+      74: 2369278351541919088
+    second: Arche001|Grass418|Take 001|BaseLayer
+  - first:
+      74: -2237888729696542657
+    second: Arche001|Grass419|Take 001|BaseLayer
+  - first:
+      74: 6081090765972534598
+    second: Arche001|Grass420|Take 001|BaseLayer
+  - first:
+      74: 8614820324917068267
+    second: Arche001|Grass421|Take 001|BaseLayer
+  - first:
+      74: 7013517344929442692
+    second: Arche001|Grass422|Take 001|BaseLayer
+  - first:
+      74: -2615574578363846427
+    second: Arche001|Grass423|Take 001|BaseLayer
+  - first:
+      74: 7921770477297646290
+    second: Arche001|Grass424|Take 001|BaseLayer
+  - first:
+      74: -6061139918476805957
+    second: Arche001|Grass425|Take 001|BaseLayer
+  - first:
+      74: 4460744293982304979
+    second: Arche001|Grass426|Take 001|BaseLayer
+  - first:
+      74: -8799650749292072127
+    second: Arche001|Grass427|Take 001|BaseLayer
+  - first:
+      74: 3141246438797721773
+    second: Arche001|Grass428|Take 001|BaseLayer
+  - first:
+      74: -5456501485284669161
+    second: Arche001|Grass429|Take 001|BaseLayer
+  - first:
+      74: -9012729557928762905
+    second: Arche001|Grass430|Take 001|BaseLayer
+  - first:
+      74: -7366995170061059666
+    second: Arche001|Grass431|Take 001|BaseLayer
+  - first:
+      74: 1357554277746051937
+    second: Arche001|Grass432|Take 001|BaseLayer
+  - first:
+      74: 1687312028292834978
+    second: Arche001|Grass433|Take 001|BaseLayer
+  - first:
+      74: 317668319592282041
+    second: Arche001|Grass434|Take 001|BaseLayer
+  - first:
+      74: 3031281125865658577
+    second: Arche001|Grass435|Take 001|BaseLayer
+  - first:
+      74: -5052365031722968079
+    second: Arche001|Grass436|Take 001|BaseLayer
+  - first:
+      74: 2417920831750541790
+    second: Arche001|Grass437|Take 001|BaseLayer
+  - first:
+      74: 4216420766592634480
+    second: Arche001|Grass438|Take 001|BaseLayer
+  - first:
+      74: 3560835054909476454
+    second: Arche001|Grass439|Take 001|BaseLayer
+  - first:
+      74: -3131742939187962503
+    second: Arche001|Grass440|Take 001|BaseLayer
+  - first:
+      74: 6852866702369551565
+    second: Arche001|Grass441|Take 001|BaseLayer
+  - first:
+      74: -3628105161604752977
+    second: Arche001|Grass442|Take 001|BaseLayer
+  - first:
+      74: 5183957605825721632
+    second: Arche001|Grass443|Take 001|BaseLayer
+  - first:
+      74: 6945279850227487200
+    second: Arche001|Grass444|Take 001|BaseLayer
+  - first:
+      74: 5339299920147468686
+    second: Arche001|Grass445|Take 001|BaseLayer
+  - first:
+      74: -8240929691237121893
+    second: Arche001|Grass446|Take 001|BaseLayer
+  - first:
+      74: -6640934872882766583
+    second: Arche001|Grass447|Take 001|BaseLayer
+  - first:
+      74: 1302245541219337684
+    second: Arche001|Grass448|Take 001|BaseLayer
+  - first:
+      74: -7160582511172135259
+    second: Arche001|Grass449|Take 001|BaseLayer
+  - first:
+      74: -863894006081958771
+    second: Arche001|Grass450|Take 001|BaseLayer
+  - first:
+      74: -3747132345348941527
+    second: Arche001|Grass451|Take 001|BaseLayer
+  - first:
+      74: 6570982299113357408
+    second: Arche001|Grass452|Take 001|BaseLayer
+  - first:
+      74: -8369895080336951473
+    second: Arche001|Grass453|Take 001|BaseLayer
+  - first:
+      74: -8931610455896995553
+    second: Arche001|Grass454|Take 001|BaseLayer
+  - first:
+      74: -4900579901966892099
+    second: Arche001|Grass455|Take 001|BaseLayer
+  - first:
+      74: -7034876266426829518
+    second: Arche001|Grass456|Take 001|BaseLayer
+  - first:
+      74: -7717486209079227091
+    second: Arche001|Grass457|Take 001|BaseLayer
+  - first:
+      74: 1282448340636111835
+    second: Arche001|Grass458|Take 001|BaseLayer
+  - first:
+      74: -6576755836921811017
+    second: Arche001|Grass459|Take 001|BaseLayer
+  - first:
+      74: 6627783428958296958
+    second: Arche001|Grass460|Take 001|BaseLayer
+  - first:
+      74: 6476418575523767349
+    second: Arche001|Grass461|Take 001|BaseLayer
+  - first:
+      74: 123613087519544711
+    second: Arche001|Grass462|Take 001|BaseLayer
+  - first:
+      74: -6682905460282068151
+    second: Arche001|Grass463|Take 001|BaseLayer
+  - first:
+      74: -8745979286226348736
+    second: Arche001|Grass464|Take 001|BaseLayer
+  - first:
+      74: 8712398954924031338
+    second: Arche001|Grass465|Take 001|BaseLayer
+  - first:
+      74: 2969097842747721356
+    second: Arche001|Grass466|Take 001|BaseLayer
+  - first:
+      74: -2875353179229136514
+    second: Arche001|Grass467|Take 001|BaseLayer
+  - first:
+      74: 2651085090522121460
+    second: Arche001|Grass468|Take 001|BaseLayer
+  - first:
+      74: -4655022137839557835
+    second: Arche001|Grass469|Take 001|BaseLayer
+  - first:
+      74: 3665253658585882027
+    second: Arche001|Grass470|Take 001|BaseLayer
+  - first:
+      74: 6356855610088308082
+    second: Arche001|Grass471|Take 001|BaseLayer
+  - first:
+      74: 8894917460353336045
+    second: Arche001|Grass472|Take 001|BaseLayer
+  - first:
+      74: 1995145751456996359
+    second: Arche001|Grass473|Take 001|BaseLayer
+  - first:
+      74: 4466624294072624144
+    second: Arche001|Grass474|Take 001|BaseLayer
+  - first:
+      74: 7507375437233546794
+    second: Arche001|Grass475|Take 001|BaseLayer
+  - first:
+      74: 7916308266775064475
+    second: Arche001|Grass476|Take 001|BaseLayer
+  - first:
+      74: 6562959146242494906
+    second: Arche001|Grass477|Take 001|BaseLayer
+  - first:
+      74: -7397803173256293986
+    second: Arche001|Grass478|Take 001|BaseLayer
+  - first:
+      74: -5586183755300146310
+    second: Arche001|Grass479|Take 001|BaseLayer
+  - first:
+      74: 7017618377730159012
+    second: Arche001|Grass480|Take 001|BaseLayer
+  - first:
+      74: 3335874427495145971
+    second: Arche001|Grass481|Take 001|BaseLayer
+  - first:
+      74: 4035430257342646568
+    second: Arche001|Grass482|Take 001|BaseLayer
+  - first:
+      74: -8107574361190144847
+    second: Arche001|Grass483|Take 001|BaseLayer
+  - first:
+      74: -46468660790829922
+    second: Arche001|Grass484|Take 001|BaseLayer
+  - first:
+      74: 7928904478763457700
+    second: Arche001|Grass485|Take 001|BaseLayer
+  - first:
+      74: 8584401068163652086
+    second: Arche001|Grass486|Take 001|BaseLayer
+  - first:
+      74: -4481815086629575321
+    second: Arche001|Grass487|Take 001|BaseLayer
+  - first:
+      74: 2317453794326789695
+    second: Arche001|Grass488|Take 001|BaseLayer
+  - first:
+      74: -3221502382589934636
+    second: Arche001|Grass489|Take 001|BaseLayer
+  - first:
+      74: -2004397824091590363
+    second: Arche001|Grass490|Take 001|BaseLayer
+  - first:
+      74: -8836913394937565503
+    second: Arche001|Grass491|Take 001|BaseLayer
+  - first:
+      74: 3471082162934212773
+    second: Arche001|Grass492|Take 001|BaseLayer
+  - first:
+      74: -741546232666220613
+    second: Arche001|Grass493|Take 001|BaseLayer
+  - first:
+      74: 5128247889906518708
+    second: Arche001|Grass494|Take 001|BaseLayer
+  - first:
+      74: 7045499518396330932
+    second: Arche001|Grass495|Take 001|BaseLayer
+  - first:
+      74: -9097997287140113023
+    second: Arche001|Grass496|Take 001|BaseLayer
+  - first:
+      74: -6268134741405177077
+    second: Arche001|Grass497|Take 001|BaseLayer
+  - first:
+      74: 3782582361101594003
+    second: Arche001|Grass498|Take 001|BaseLayer
+  - first:
+      74: -4660300739773834038
+    second: Arche001|Grass499|Take 001|BaseLayer
+  - first:
+      74: 7356396927513292960
+    second: Arche001|Grass500|Take 001|BaseLayer
+  - first:
+      74: 579536182626710707
+    second: Arche001|Grass501|Take 001|BaseLayer
+  - first:
+      74: -3895378752973266250
+    second: Arche001|Grass502|Take 001|BaseLayer
+  - first:
+      74: -4896287836921452717
+    second: Arche001|Grass503|Take 001|BaseLayer
+  - first:
+      74: -369238196875511488
+    second: Arche001|Grass504|Take 001|BaseLayer
+  - first:
+      74: -6451578098527506193
+    second: Arche001|Grass505|Take 001|BaseLayer
+  - first:
+      74: -5879281011806828782
+    second: Arche001|Grass506|Take 001|BaseLayer
+  - first:
+      74: -7192331816630513894
+    second: Arche001|Grass507|Take 001|BaseLayer
+  - first:
+      74: 7367513649207813658
+    second: Arche001|Grass508|Take 001|BaseLayer
+  - first:
+      74: -1711104333739405235
+    second: Arche001|Grass509|Take 001|BaseLayer
+  - first:
+      74: -8049768993116067781
+    second: Arche001|Grass510|Take 001|BaseLayer
+  - first:
+      74: 7944242022209479562
+    second: Arche001|Grass511|Take 001|BaseLayer
+  - first:
+      74: 2787774226881117798
+    second: Arche001|Grass512|Take 001|BaseLayer
+  - first:
+      74: -8915220797286981531
+    second: Arche001|Grass513|Take 001|BaseLayer
+  - first:
+      74: -8492838759138104955
+    second: Arche001|Grass514|Take 001|BaseLayer
+  - first:
+      74: -7200007839586444911
+    second: Arche001|Grass515|Take 001|BaseLayer
+  - first:
+      74: -7629554962113679201
+    second: Arche001|Grass516|Take 001|BaseLayer
+  - first:
+      74: 1665936120690811057
+    second: Arche001|Grass517|Take 001|BaseLayer
+  - first:
+      74: 1992600305648090784
+    second: Arche001|Grass518|Take 001|BaseLayer
+  - first:
+      74: -602708347540544231
+    second: Arche001|Grass519|Take 001|BaseLayer
+  - first:
+      74: -4037960534465367608
+    second: Arche001|Grass520|Take 001|BaseLayer
+  - first:
+      74: -2365076492278087559
+    second: Arche001|Grass521|Take 001|BaseLayer
+  - first:
+      74: -3004816559358001195
+    second: Arche001|Grass522|Take 001|BaseLayer
+  - first:
+      74: 2462024596931830767
+    second: Arche001|Grass523|Take 001|BaseLayer
+  - first:
+      74: -2096858860989014335
+    second: Arche001|Grass524|Take 001|BaseLayer
+  - first:
+      74: 985524557209742659
+    second: Arche001|Grass525|Take 001|BaseLayer
+  - first:
+      74: 1796926818369684358
+    second: Arche001|Grass526|Take 001|BaseLayer
+  - first:
+      74: 3074263508346723583
+    second: Arche001|Grass527|Take 001|BaseLayer
+  - first:
+      74: 1083470573984372896
+    second: Arche001|Grass528|Take 001|BaseLayer
+  - first:
+      74: -3727905262178628995
+    second: Arche001|Grass529|Take 001|BaseLayer
+  - first:
+      74: -5103887361260853746
+    second: Arche001|Grass530|Take 001|BaseLayer
+  - first:
+      74: 8119047191343962039
+    second: Arche001|Grass531|Take 001|BaseLayer
+  - first:
+      74: -5552583602623917
+    second: Arche001|Grass532|Take 001|BaseLayer
+  - first:
+      74: -6212876057070097358
+    second: Arche001|Grass533|Take 001|BaseLayer
+  - first:
+      74: 4083337036502880405
+    second: Arche001|Grass534|Take 001|BaseLayer
+  - first:
+      74: -1991721365311457891
+    second: Arche001|Grass535|Take 001|BaseLayer
+  - first:
+      74: 1484333990774494055
+    second: Arche001|Grass536|Take 001|BaseLayer
+  - first:
+      74: -7243553375906239049
+    second: Arche001|Grass537|Take 001|BaseLayer
+  - first:
+      74: -8679791747941435014
+    second: Arche001|Grass538|Take 001|BaseLayer
+  - first:
+      74: 8177365600047834233
+    second: Arche001|Grass539|Take 001|BaseLayer
+  - first:
+      74: 8139102103492026657
+    second: Arche001|Grass540|Take 001|BaseLayer
+  - first:
+      74: -2691128388618796447
+    second: Arche001|Grass541|Take 001|BaseLayer
+  - first:
+      74: -1218566878641329520
+    second: Arche001|Grass542|Take 001|BaseLayer
+  - first:
+      74: -3286401851234741227
+    second: Arche001|Grass543|Take 001|BaseLayer
+  - first:
+      74: 1107195770602919832
+    second: Arche001|Grass544|Take 001|BaseLayer
+  - first:
+      74: -5300261550160884124
+    second: Arche001|Grass545|Take 001|BaseLayer
+  - first:
+      74: -543456304854397878
+    second: Arche001|Grass546|Take 001|BaseLayer
+  - first:
+      74: 5253800971434885103
+    second: Arche001|Grass547|Take 001|BaseLayer
+  - first:
+      74: -8151392993248100104
+    second: Arche001|Grass548|Take 001|BaseLayer
+  - first:
+      74: 8813344988649506001
+    second: Arche001|Grass549|Take 001|BaseLayer
+  - first:
+      74: -7259158653358658772
+    second: Arche001|Grass550|Take 001|BaseLayer
+  - first:
+      74: 113542119764060958
+    second: Arche001|Grass551|Take 001|BaseLayer
+  - first:
+      74: -1640806748573211349
+    second: Arche001|Grass552|Take 001|BaseLayer
+  - first:
+      74: -5775519950741735368
+    second: Arche001|Grass553|Take 001|BaseLayer
+  - first:
+      74: 6969449649097429439
+    second: Arche001|Grass554|Take 001|BaseLayer
+  - first:
+      74: -4715400351457391292
+    second: Arche001|Grass555|Take 001|BaseLayer
+  - first:
+      74: 2316018897328098220
+    second: Arche001|Grass556|Take 001|BaseLayer
+  - first:
+      74: 7279269265430357054
+    second: Arche001|Grass557|Take 001|BaseLayer
+  - first:
+      74: 5522957110980790773
+    second: Arche001|Grass558|Take 001|BaseLayer
+  - first:
+      74: -3392164330485577818
+    second: Arche001|Grass559|Take 001|BaseLayer
+  - first:
+      74: 4006309916841931959
+    second: Arche001|Grass560|Take 001|BaseLayer
+  - first:
+      74: 6217155605513182000
+    second: Arche001|Grass561|Take 001|BaseLayer
+  - first:
+      74: 7592895117686483507
+    second: Arche001|Grass562|Take 001|BaseLayer
+  - first:
+      74: -7504883187751489890
+    second: Arche001|Grass563|Take 001|BaseLayer
+  - first:
+      74: -777649904275128541
+    second: Arche001|Grass564|Take 001|BaseLayer
+  - first:
+      74: 1381605610903493070
+    second: Arche001|Grass565|Take 001|BaseLayer
+  - first:
+      74: -1225363750525092442
+    second: Arche001|Grass566|Take 001|BaseLayer
+  - first:
+      74: -8164887000590415524
+    second: Arche001|Grass567|Take 001|BaseLayer
+  - first:
+      74: 7990480194357539086
+    second: Arche001|Grass568|Take 001|BaseLayer
+  - first:
+      74: -1254664891940681027
+    second: Arche001|Grass569|Take 001|BaseLayer
+  - first:
+      74: -8999507873628265244
+    second: Arche001|Grass570|Take 001|BaseLayer
+  - first:
+      74: 6204636621070193407
+    second: Arche001|Grass571|Take 001|BaseLayer
+  - first:
+      74: 3564467436695819937
+    second: Arche001|Grass572|Take 001|BaseLayer
+  - first:
+      74: 7089396953334994175
+    second: Arche001|Grass573|Take 001|BaseLayer
+  - first:
+      74: 8899288144024033364
+    second: Arche001|Grass574|Take 001|BaseLayer
+  - first:
+      74: -3644300017358045673
+    second: Arche001|Grass575|Take 001|BaseLayer
+  - first:
+      74: -2903441986731548919
+    second: Arche001|Grass576|Take 001|BaseLayer
+  - first:
+      74: -9026944978209087291
+    second: Arche001|Grass577|Take 001|BaseLayer
+  - first:
+      74: -4486492752054158455
+    second: Arche001|Grass578|Take 001|BaseLayer
+  - first:
+      74: 4948152472269421297
+    second: Arche001|Grass579|Take 001|BaseLayer
+  - first:
+      74: -4176260142178656983
+    second: Arche001|Grass580|Take 001|BaseLayer
+  - first:
+      74: 2635265640063803621
+    second: Arche001|Grass581|Take 001|BaseLayer
+  - first:
+      74: -1971634714672026567
+    second: Arche001|Grass582|Take 001|BaseLayer
+  - first:
+      74: 1747489519256355121
+    second: Arche001|Grass583|Take 001|BaseLayer
+  - first:
+      74: -6203540741446973791
+    second: Arche001|Grass584|Take 001|BaseLayer
+  - first:
+      74: -7073935462730831070
+    second: Arche001|Grass585|Take 001|BaseLayer
+  - first:
+      74: 476647088523858347
+    second: Arche001|Grass586|Take 001|BaseLayer
+  - first:
+      74: 7202415041860862915
+    second: Arche001|Grass587|Take 001|BaseLayer
+  - first:
+      74: 8169257927865371813
+    second: Arche001|Grass588|Take 001|BaseLayer
+  - first:
+      74: -8110677463176377200
+    second: Arche001|Grass589|Take 001|BaseLayer
+  - first:
+      74: -575367251634884958
+    second: Arche001|Grass590|Take 001|BaseLayer
+  - first:
+      74: 2550000549587996363
+    second: Arche001|Grass591|Take 001|BaseLayer
+  - first:
+      74: 7303920536450082467
+    second: Arche001|Grass592|Take 001|BaseLayer
+  - first:
+      74: -7548293792979878569
+    second: Arche001|Grass593|Take 001|BaseLayer
+  - first:
+      74: 2322958478880122135
+    second: Arche001|Grass594|Take 001|BaseLayer
+  - first:
+      74: -8526177895655747057
+    second: Arche001|Grass595|Take 001|BaseLayer
+  - first:
+      74: 6728997060466428730
+    second: Arche001|Grass596|Take 001|BaseLayer
+  - first:
+      74: -5385359832195885457
+    second: Arche001|Grass597|Take 001|BaseLayer
+  - first:
+      74: -1615115114863540494
+    second: Arche001|Grass598|Take 001|BaseLayer
+  - first:
+      74: -5655404102628625359
+    second: Arche001|Grass599|Take 001|BaseLayer
+  - first:
+      74: -7161809528984929912
+    second: Arche001|Grass600|Take 001|BaseLayer
+  - first:
+      74: -8603057233010631777
+    second: Arche001|Grass601|Take 001|BaseLayer
+  - first:
+      74: -8948764055853518756
+    second: Arche001|Grass602|Take 001|BaseLayer
+  - first:
+      74: -5508106816072605624
+    second: Arche001|Grass603|Take 001|BaseLayer
+  - first:
+      74: -8426565950566458523
+    second: Arche001|Grass604|Take 001|BaseLayer
+  - first:
+      74: -3671148116583533341
+    second: Arche001|Grass605|Take 001|BaseLayer
+  - first:
+      74: 6591544291498258956
+    second: Arche001|Grass606|Take 001|BaseLayer
+  - first:
+      74: 3811347060621332214
+    second: Arche001|Grass607|Take 001|BaseLayer
+  - first:
+      74: -8663129912508553315
+    second: Arche001|Grass608|Take 001|BaseLayer
+  - first:
+      74: 3926730955999889892
+    second: Arche001|Grass609|Take 001|BaseLayer
+  - first:
+      74: 7448575832425254774
+    second: Arche001|Grass610|Take 001|BaseLayer
+  - first:
+      74: -3646314157315814939
+    second: Arche001|Grass611|Take 001|BaseLayer
+  - first:
+      74: 7671510225923017931
+    second: Arche001|Grass612|Take 001|BaseLayer
+  - first:
+      74: 1197489527694834836
+    second: Arche001|Grass613|Take 001|BaseLayer
+  - first:
+      74: -5291016396949674515
+    second: Arche001|Grass614|Take 001|BaseLayer
+  - first:
+      74: -2819134423071603062
+    second: Arche001|Grass615|Take 001|BaseLayer
+  - first:
+      74: -2148158933188997218
+    second: Arche001|Grass616|Take 001|BaseLayer
+  - first:
+      74: -1341047822198714877
+    second: Arche001|Grass617|Take 001|BaseLayer
+  - first:
+      74: -5070862010923038285
+    second: Arche001|Grass618|Take 001|BaseLayer
+  - first:
+      74: -7954669213525400711
+    second: Arche001|Grass619|Take 001|BaseLayer
+  - first:
+      74: -2511863925173594219
+    second: Arche001|Grass620|Take 001|BaseLayer
+  - first:
+      74: -91838010787182353
+    second: Arche001|Grass621|Take 001|BaseLayer
+  - first:
+      74: 247754915123590052
+    second: Arche001|Grass622|Take 001|BaseLayer
+  - first:
+      74: -1451085388828731085
+    second: Arche001|Grass623|Take 001|BaseLayer
+  - first:
+      74: 294280850835801933
+    second: Arche001|Grass624|Take 001|BaseLayer
+  - first:
+      74: -4360453015323052433
+    second: Arche001|Grass625|Take 001|BaseLayer
+  - first:
+      74: -384941557987682158
+    second: Arche001|Grass626|Take 001|BaseLayer
+  - first:
+      74: -6729682614042517989
+    second: Arche001|Grass627|Take 001|BaseLayer
+  - first:
+      74: 1701521229204290478
+    second: Arche001|Grass628|Take 001|BaseLayer
+  - first:
+      74: 5485824891634114343
+    second: Arche001|Grass629|Take 001|BaseLayer
+  - first:
+      74: 5870624975812381801
+    second: Arche001|Grass630|Take 001|BaseLayer
+  - first:
+      74: 6262451691197447997
+    second: Arche001|Grass631|Take 001|BaseLayer
+  - first:
+      74: 3936942797333128459
+    second: Arche001|Grass632|Take 001|BaseLayer
+  - first:
+      74: 5381221456416438265
+    second: Arche001|Grass633|Take 001|BaseLayer
+  - first:
+      74: -6504241005642152166
+    second: Arche001|Grass634|Take 001|BaseLayer
+  - first:
+      74: 5727710331591538055
+    second: Arche001|Grass635|Take 001|BaseLayer
+  - first:
+      74: -7992245274746876490
+    second: Arche001|Grass636|Take 001|BaseLayer
+  - first:
+      74: -8395166127624371041
+    second: Arche001|Grass637|Take 001|BaseLayer
+  - first:
+      74: 6690389975771443701
+    second: Arche001|Grass638|Take 001|BaseLayer
+  - first:
+      74: -7463959906557492318
+    second: Arche001|Grass639|Take 001|BaseLayer
+  - first:
+      74: -6683298137794756558
+    second: Arche001|Grass640|Take 001|BaseLayer
+  - first:
+      74: -5658173384478916324
+    second: Arche001|Grass641|Take 001|BaseLayer
+  - first:
+      74: 1472280899750803875
+    second: Arche001|Grass642|Take 001|BaseLayer
+  - first:
+      74: -2762515609441419894
+    second: Arche001|Grass643|Take 001|BaseLayer
+  - first:
+      74: -8156129298276734777
+    second: Arche001|Grass644|Take 001|BaseLayer
+  - first:
+      74: 5182037403380876295
+    second: Arche001|Grass645|Take 001|BaseLayer
+  - first:
+      74: 1328112124346299381
+    second: Arche001|Grass646|Take 001|BaseLayer
+  - first:
+      74: -633169975816689723
+    second: Arche001|Grass647|Take 001|BaseLayer
+  - first:
+      74: 1621155105747709856
+    second: Arche001|Grass648|Take 001|BaseLayer
+  - first:
+      74: 7363386232291484664
+    second: Arche001|Grass649|Take 001|BaseLayer
+  - first:
+      74: -1571364990480502900
+    second: Arche001|Grass650|Take 001|BaseLayer
+  - first:
+      74: 920404620834617520
+    second: Arche001|Grass651|Take 001|BaseLayer
+  - first:
+      74: 6461342376554168140
+    second: Arche001|Grass652|Take 001|BaseLayer
+  - first:
+      74: 1014353175266249611
+    second: Arche001|Grass653|Take 001|BaseLayer
+  - first:
+      74: 3036680405684984944
+    second: Arche001|Grass654|Take 001|BaseLayer
+  - first:
+      74: 9184327960720500449
+    second: Arche001|Grass655|Take 001|BaseLayer
+  - first:
+      74: 4196989907705731246
+    second: Arche001|Grass656|Take 001|BaseLayer
+  - first:
+      74: -1669432780367944629
+    second: Arche001|Grass657|Take 001|BaseLayer
+  - first:
+      74: 8342099064628427268
+    second: Arche001|Grass658|Take 001|BaseLayer
+  - first:
+      74: 4049015542467980301
+    second: Arche001|Grass659|Take 001|BaseLayer
+  - first:
+      74: -6038534884054531752
+    second: Arche001|Grass660|Take 001|BaseLayer
+  - first:
+      74: -6965606831360252334
+    second: Arche001|Grass661|Take 001|BaseLayer
+  - first:
+      74: 3271902329268989190
+    second: Arche001|Grass662|Take 001|BaseLayer
+  - first:
+      74: -4730619191175779888
+    second: Arche001|Grass663|Take 001|BaseLayer
+  - first:
+      74: 8282862869147094550
+    second: Arche001|Grass664|Take 001|BaseLayer
+  - first:
+      74: -5007987684244731699
+    second: Arche001|Grass665|Take 001|BaseLayer
+  - first:
+      74: 8613872839195769986
+    second: Arche001|Grass666|Take 001|BaseLayer
+  - first:
+      74: -2897707207136402400
+    second: Arche001|Grass667|Take 001|BaseLayer
+  - first:
+      74: 5860792370219312405
+    second: Arche001|Grass668|Take 001|BaseLayer
+  - first:
+      74: 2928125205221884289
+    second: Arche001|Grass669|Take 001|BaseLayer
+  - first:
+      74: 1619745548020555993
+    second: Arche001|Grass670|Take 001|BaseLayer
+  - first:
+      74: -1940633210844014062
+    second: Arche001|Grass671|Take 001|BaseLayer
+  - first:
+      74: 2732775123513449561
+    second: Arche001|Grass672|Take 001|BaseLayer
+  - first:
+      74: 3935451700921876242
+    second: Arche001|Grass673|Take 001|BaseLayer
+  - first:
+      74: 6210075856746303347
+    second: Arche001|Grass674|Take 001|BaseLayer
+  - first:
+      74: -3274013664914545503
+    second: Arche001|Grass675|Take 001|BaseLayer
+  - first:
+      74: 6004202207614687360
+    second: Arche001|Grass676|Take 001|BaseLayer
+  - first:
+      74: 2412459561601927293
+    second: Arche001|Grass677|Take 001|BaseLayer
+  - first:
+      74: 1430035706372625695
+    second: Arche001|Grass678|Take 001|BaseLayer
+  - first:
+      74: 1302038087424357059
+    second: Arche001|Grass679|Take 001|BaseLayer
+  - first:
+      74: 8046457684199930233
+    second: Arche001|Grass680|Take 001|BaseLayer
+  - first:
+      74: 432538390599449852
+    second: Arche001|Grass681|Take 001|BaseLayer
+  - first:
+      74: -5370982026295387306
+    second: Arche001|Grass682|Take 001|BaseLayer
+  - first:
+      74: -2021321859309265273
+    second: Arche001|Grass683|Take 001|BaseLayer
+  - first:
+      74: -2485478219708231527
+    second: Arche001|Grass684|Take 001|BaseLayer
+  - first:
+      74: -6967959650167025872
+    second: Arche001|Grass685|Take 001|BaseLayer
+  - first:
+      74: -1471276092179421797
+    second: Arche001|Grass686|Take 001|BaseLayer
+  - first:
+      74: -2032882809128932857
+    second: Arche001|Grass687|Take 001|BaseLayer
+  - first:
+      74: 562775507273377309
+    second: Arche001|Grass688|Take 001|BaseLayer
+  - first:
+      74: -3230246650209743472
+    second: Arche001|Grass689|Take 001|BaseLayer
+  - first:
+      74: -1779050524403624335
+    second: Arche001|Grass690|Take 001|BaseLayer
+  - first:
+      74: -8037209938583653499
+    second: Arche001|Grass691|Take 001|BaseLayer
+  - first:
+      74: 6358731531033314236
+    second: Arche001|Grass692|Take 001|BaseLayer
+  - first:
+      74: -205987528205201626
+    second: Arche001|Grass693|Take 001|BaseLayer
+  - first:
+      74: -1246095351551736571
+    second: Arche001|Grass694|Take 001|BaseLayer
+  - first:
+      74: -3666563631830310935
+    second: Arche001|Grass695|Take 001|BaseLayer
+  - first:
+      74: 8148042727619657290
+    second: Arche001|Grass696|Take 001|BaseLayer
+  - first:
+      74: 8682971196320144721
+    second: Arche001|Grass697|Take 001|BaseLayer
+  - first:
+      74: -1908430947442387011
+    second: Arche001|Grass698|Take 001|BaseLayer
+  - first:
+      74: 1620096680393524491
+    second: Arche001|Grass699|Take 001|BaseLayer
+  - first:
+      74: -8738771706628068518
+    second: Arche001|Grass700|Take 001|BaseLayer
+  - first:
+      74: 6548441111613203473
+    second: Arche001|Grass701|Take 001|BaseLayer
+  - first:
+      74: 4901976885506486964
+    second: Arche001|Grass702|Take 001|BaseLayer
+  - first:
+      74: 8195693680728955008
+    second: Arche001|Grass703|Take 001|BaseLayer
+  - first:
+      74: 8346712961019232076
+    second: Arche001|Grass704|Take 001|BaseLayer
+  - first:
+      74: -2487815711198041147
+    second: Arche001|Grass705|Take 001|BaseLayer
+  - first:
+      74: -9011243386149037275
+    second: Arche001|Grass706|Take 001|BaseLayer
+  - first:
+      74: -2215117487886806714
+    second: Arche001|Grass707|Take 001|BaseLayer
+  - first:
+      74: 852637273550900912
+    second: Arche001|Grass708|Take 001|BaseLayer
+  - first:
+      74: 2692531948174593522
+    second: Arche001|Grass709|Take 001|BaseLayer
+  - first:
+      74: 8356689820148572016
+    second: Arche001|Grass710|Take 001|BaseLayer
+  - first:
+      74: 6514560879609736636
+    second: Arche001|Grass711|Take 001|BaseLayer
+  - first:
+      74: -961019088816988018
+    second: Arche001|Grass712|Take 001|BaseLayer
+  - first:
+      74: -15076207112944042
+    second: Arche001|Grass713|Take 001|BaseLayer
+  - first:
+      74: -157336266569966524
+    second: Arche001|Grass714|Take 001|BaseLayer
+  - first:
+      74: 4479333545322667519
+    second: Arche001|Grass715|Take 001|BaseLayer
+  - first:
+      74: 809308116362826396
+    second: Arche001|Grass716|Take 001|BaseLayer
+  - first:
+      74: 1954971884809022216
+    second: Arche001|Grass717|Take 001|BaseLayer
+  - first:
+      74: -4125487251090044650
+    second: Arche001|Grass718|Take 001|BaseLayer
+  - first:
+      74: 8618628759242830450
+    second: Arche001|Grass719|Take 001|BaseLayer
+  - first:
+      74: 4808583399700547220
+    second: Arche001|Grass720|Take 001|BaseLayer
+  - first:
+      74: -240034425283284018
+    second: Arche001|Grass721|Take 001|BaseLayer
+  - first:
+      74: -5361267080587003494
+    second: Arche001|Grass722|Take 001|BaseLayer
+  - first:
+      74: 5727301238240544262
+    second: Arche001|Grass723|Take 001|BaseLayer
+  - first:
+      74: 6196721644480780882
+    second: Arche001|Grass724|Take 001|BaseLayer
+  - first:
+      74: -671224479688711455
+    second: Arche001|Grass725|Take 001|BaseLayer
+  - first:
+      74: 9120857994433964858
+    second: Arche001|Grass726|Take 001|BaseLayer
+  - first:
+      74: -6192830125057747398
+    second: Arche001|Grass727|Take 001|BaseLayer
+  - first:
+      74: 4984736122751270743
+    second: Arche001|Grass728|Take 001|BaseLayer
+  - first:
+      74: -8186304229618774570
+    second: Arche001|Grass729|Take 001|BaseLayer
+  - first:
+      74: 7678161592715592120
+    second: Arche001|Grass730|Take 001|BaseLayer
+  - first:
+      74: -1575795040992968237
+    second: Arche001|Grass731|Take 001|BaseLayer
+  - first:
+      74: 388691040085158998
+    second: Arche001|Grass732|Take 001|BaseLayer
+  - first:
+      74: -761069657182414525
+    second: Arche001|Grass733|Take 001|BaseLayer
+  - first:
+      74: -8204863091013767762
+    second: Arche001|Grass734|Take 001|BaseLayer
+  - first:
+      74: -2329678239375521399
+    second: Arche001|Grass735|Take 001|BaseLayer
+  - first:
+      74: -8354796312720640937
+    second: Arche001|Grass736|Take 001|BaseLayer
+  - first:
+      74: 5066861440826764554
+    second: Arche001|Grass737|Take 001|BaseLayer
+  - first:
+      74: 5916957288539080758
+    second: Arche001|Grass738|Take 001|BaseLayer
+  - first:
+      74: -7897261493340332786
+    second: Arche001|Grass739|Take 001|BaseLayer
+  - first:
+      74: -8752389742632127930
+    second: Arche001|Grass740|Take 001|BaseLayer
+  - first:
+      74: 7559870487832882983
+    second: Arche001|Grass741|Take 001|BaseLayer
+  - first:
+      74: 245181361919299895
+    second: Arche001|Grass742|Take 001|BaseLayer
+  - first:
+      74: 2194422532263583705
+    second: Arche001|Grass743|Take 001|BaseLayer
+  - first:
+      74: 3688638558246388286
+    second: Arche001|Grass744|Take 001|BaseLayer
+  - first:
+      74: 6586867605015991371
+    second: Arche001|Grass745|Take 001|BaseLayer
+  - first:
+      74: -7178255948448402615
+    second: Arche001|Grass746|Take 001|BaseLayer
+  - first:
+      74: -7546372365645220826
+    second: Arche001|Grass747|Take 001|BaseLayer
+  - first:
+      74: -5382656727632563364
+    second: Arche001|Grass748|Take 001|BaseLayer
+  - first:
+      74: -2981934956670422856
+    second: Arche001|Grass749|Take 001|BaseLayer
+  - first:
+      74: 5769848547180489832
+    second: Arche001|Grass750|Take 001|BaseLayer
+  - first:
+      74: 38485970838926779
+    second: Arche001|Grass751|Take 001|BaseLayer
+  - first:
+      74: -723193483398463469
+    second: Arche001|Grass752|Take 001|BaseLayer
+  - first:
+      74: 634763174525889742
+    second: Arche001|Grass753|Take 001|BaseLayer
+  - first:
+      74: 7628015319484365058
+    second: Arche001|Grass754|Take 001|BaseLayer
+  - first:
+      74: -8799748932684161250
+    second: Arche001|Grass755|Take 001|BaseLayer
+  - first:
+      74: 4391092631391805586
+    second: Arche001|Grass756|Take 001|BaseLayer
+  - first:
+      74: 888649735798095358
+    second: Arche001|Grass757|Take 001|BaseLayer
+  - first:
+      74: 4736893831985219054
+    second: Arche001|Grass758|Take 001|BaseLayer
+  - first:
+      74: 1068182749343840466
+    second: Arche001|Grass759|Take 001|BaseLayer
+  - first:
+      74: -3167008502539411020
+    second: Arche001|Grass760|Take 001|BaseLayer
+  - first:
+      74: -6975908085578245733
+    second: Arche001|Grass761|Take 001|BaseLayer
+  - first:
+      74: 428013966504990902
+    second: Arche001|Grass762|Take 001|BaseLayer
+  - first:
+      74: 6057486370046463672
+    second: Arche001|Grass763|Take 001|BaseLayer
+  - first:
+      74: 1699404573472213153
+    second: Arche001|Grass764|Take 001|BaseLayer
+  - first:
+      74: 5542356703089533812
+    second: Arche001|Grass765|Take 001|BaseLayer
+  - first:
+      74: 6529230453311571378
+    second: Arche001|Grass766|Take 001|BaseLayer
+  - first:
+      74: -2336180462098473104
+    second: Arche001|Grass767|Take 001|BaseLayer
+  - first:
+      74: -2356715392802899134
+    second: Arche001|Grass768|Take 001|BaseLayer
+  - first:
+      74: -7782430835268027751
+    second: Arche001|Grass769|Take 001|BaseLayer
+  - first:
+      74: -6445437390841058439
+    second: Arche001|Grass770|Take 001|BaseLayer
+  - first:
+      74: -9004561930670553675
+    second: Arche001|Grass771|Take 001|BaseLayer
+  - first:
+      74: -446525300880101425
+    second: Arche001|Grass772|Take 001|BaseLayer
+  - first:
+      74: -6084500772752231651
+    second: Arche001|Grass773|Take 001|BaseLayer
+  - first:
+      74: 973385816413272575
+    second: Arche001|Grass774|Take 001|BaseLayer
+  - first:
+      74: 3257280086603514815
+    second: Arche001|Grass775|Take 001|BaseLayer
+  - first:
+      74: 9078254260784790905
+    second: Arche001|Grass776|Take 001|BaseLayer
+  - first:
+      74: -3708136726460260269
+    second: Arche001|Grass777|Take 001|BaseLayer
+  - first:
+      74: 5170036145532993079
+    second: Arche001|Grass778|Take 001|BaseLayer
+  - first:
+      74: -791570429638160316
+    second: Arche001|Grass779|Take 001|BaseLayer
+  - first:
+      74: 1054211449635529284
+    second: Arche001|Grass780|Take 001|BaseLayer
+  - first:
+      74: -1800394708394364926
+    second: Arche001|Grass781|Take 001|BaseLayer
+  - first:
+      74: 4890471460965189475
+    second: Arche001|Grass782|Take 001|BaseLayer
+  - first:
+      74: -6932082090664474848
+    second: Arche001|Grass783|Take 001|BaseLayer
+  - first:
+      74: -5623328602872790037
+    second: Arche001|Grass784|Take 001|BaseLayer
+  - first:
+      74: -6949965550303294282
+    second: Arche001|Grass785|Take 001|BaseLayer
+  - first:
+      74: 2158591367695306976
+    second: Arche001|Grass786|Take 001|BaseLayer
+  - first:
+      74: -9117257360658220278
+    second: Arche001|Grass787|Take 001|BaseLayer
+  - first:
+      74: 2159181912843717514
+    second: Arche001|Grass788|Take 001|BaseLayer
+  - first:
+      74: 3283052843229899019
+    second: Arche001|Grass789|Take 001|BaseLayer
+  - first:
+      74: -2216652561684952541
+    second: Arche001|Grass790|Take 001|BaseLayer
+  - first:
+      74: 8437780870036542685
+    second: Arche001|Grass791|Take 001|BaseLayer
+  - first:
+      74: 5115930588684491034
+    second: Arche001|Grass792|Take 001|BaseLayer
+  - first:
+      74: 1643357731461887884
+    second: Arche001|Grass793|Take 001|BaseLayer
+  - first:
+      74: -7994080378653198999
+    second: Arche001|Grass794|Take 001|BaseLayer
+  - first:
+      74: 5630135234942953921
+    second: Arche001|Grass795|Take 001|BaseLayer
+  - first:
+      74: 6939648567885500296
+    second: Arche001|Grass796|Take 001|BaseLayer
+  - first:
+      74: -5447139188175357215
+    second: Arche001|Grass797|Take 001|BaseLayer
+  - first:
+      74: 1405584678015884516
+    second: Arche001|Grass798|Take 001|BaseLayer
+  - first:
+      74: 1799157366688008349
+    second: Arche001|Grass799|Take 001|BaseLayer
+  - first:
+      74: -7209412672998094122
+    second: Arche001|Grass800|Take 001|BaseLayer
+  - first:
+      74: -7133838708943387510
+    second: Arche001|Grass801|Take 001|BaseLayer
+  - first:
+      74: -8448885694467299693
+    second: Arche001|Grass802|Take 001|BaseLayer
+  - first:
+      74: 6995520530382160681
+    second: Arche001|Grass803|Take 001|BaseLayer
+  - first:
+      74: -4378453222025828542
+    second: Arche001|Grass804|Take 001|BaseLayer
+  - first:
+      74: -6887593387013075980
+    second: Arche001|Grass805|Take 001|BaseLayer
+  - first:
+      74: -1077878182552102769
+    second: Arche001|Grass806|Take 001|BaseLayer
+  - first:
+      74: -2017811704298672486
+    second: Arche001|Grass807|Take 001|BaseLayer
+  - first:
+      74: -4671392474538777650
+    second: Arche001|Grass808|Take 001|BaseLayer
+  - first:
+      74: 8763200532702627622
+    second: Arche001|Grass809|Take 001|BaseLayer
+  - first:
+      74: 5489242057852284148
+    second: Arche001|Grass810|Take 001|BaseLayer
+  - first:
+      74: 4792392252958471466
+    second: Arche001|Grass811|Take 001|BaseLayer
+  - first:
+      74: -7313852776034041617
+    second: Arche001|Grass812|Take 001|BaseLayer
+  - first:
+      74: 6946347306200277882
+    second: Arche001|Grass813|Take 001|BaseLayer
+  - first:
+      74: 2021204717224495133
+    second: Arche001|Grass814|Take 001|BaseLayer
+  - first:
+      74: 6247530709914271119
+    second: Arche001|Grass815|Take 001|BaseLayer
+  - first:
+      74: -2650023836290533693
+    second: Arche001|Grass816|Take 001|BaseLayer
+  - first:
+      74: 9172307020071212630
+    second: Arche001|Grass817|Take 001|BaseLayer
+  - first:
+      74: 6393933273317155583
+    second: Arche001|Grass818|Take 001|BaseLayer
+  - first:
+      74: 7453567914961317145
+    second: Arche001|Grass819|Take 001|BaseLayer
+  - first:
+      74: -5215249431402236769
+    second: Arche001|Grass820|Take 001|BaseLayer
+  - first:
+      74: -6739351824437176670
+    second: Arche001|Grass821|Take 001|BaseLayer
+  - first:
+      74: -1332269987599074216
+    second: Arche001|Grass822|Take 001|BaseLayer
+  - first:
+      74: 4943921252233953719
+    second: Arche001|Grass823|Take 001|BaseLayer
+  - first:
+      74: -4256002787849260800
+    second: Arche001|Grass824|Take 001|BaseLayer
+  - first:
+      74: -7526695724626299285
+    second: Arche001|Grass825|Take 001|BaseLayer
+  - first:
+      74: -7633385344883869256
+    second: Arche001|Grass826|Take 001|BaseLayer
+  - first:
+      74: -710072236456122612
+    second: Arche001|Grass827|Take 001|BaseLayer
+  - first:
+      74: 7101567148971230670
+    second: Arche001|Grass828|Take 001|BaseLayer
+  - first:
+      74: -5967604397589763102
+    second: Arche001|Grass829|Take 001|BaseLayer
+  - first:
+      74: -557410852220614465
+    second: Arche001|Grass830|Take 001|BaseLayer
+  - first:
+      74: -7915547009355538665
+    second: Arche001|Grass831|Take 001|BaseLayer
+  - first:
+      74: -735079545081109092
+    second: Arche001|Grass832|Take 001|BaseLayer
+  - first:
+      74: -3541800148375410570
+    second: Arche001|Grass833|Take 001|BaseLayer
+  - first:
+      74: 3451916268810612365
+    second: Arche001|Grass834|Take 001|BaseLayer
+  - first:
+      74: 5181369885964819075
+    second: Arche001|Grass835|Take 001|BaseLayer
+  - first:
+      74: 1378265230955891225
+    second: Arche001|Grass836|Take 001|BaseLayer
+  - first:
+      74: 7219475659094583745
+    second: Arche001|Grass837|Take 001|BaseLayer
+  - first:
+      74: -6234616001132230220
+    second: Arche001|Grass838|Take 001|BaseLayer
+  - first:
+      74: -524318967909047642
+    second: Arche001|Grass839|Take 001|BaseLayer
+  - first:
+      74: -2656804323600949420
+    second: Arche001|Grass840|Take 001|BaseLayer
+  - first:
+      74: 2761081985446232878
+    second: Arche001|Grass841|Take 001|BaseLayer
+  - first:
+      74: 1088231326002726039
+    second: Arche001|Grass842|Take 001|BaseLayer
+  - first:
+      74: 2644893736178351005
+    second: Arche001|Grass843|Take 001|BaseLayer
+  - first:
+      74: -7511724850521194240
+    second: Arche001|Grass844|Take 001|BaseLayer
+  - first:
+      74: -7808499105788330800
+    second: Arche001|Grass845|Take 001|BaseLayer
+  - first:
+      74: 7827818714811423602
+    second: Arche001|Grass846|Take 001|BaseLayer
+  - first:
+      74: -546402121867100120
+    second: Arche001|Grass847|Take 001|BaseLayer
+  - first:
+      74: -4682076821870004548
+    second: Arche001|Grass848|Take 001|BaseLayer
+  - first:
+      74: -6321488347970699697
+    second: Arche001|Grass849|Take 001|BaseLayer
+  - first:
+      74: 7546888766019477793
+    second: Arche001|Grass850|Take 001|BaseLayer
+  - first:
+      74: -4903026876129352176
+    second: Arche001|Grass851|Take 001|BaseLayer
+  - first:
+      74: 4476399357911160241
+    second: Arche001|Grass852|Take 001|BaseLayer
+  - first:
+      74: 50457082020120948
+    second: Arche001|Grass853|Take 001|BaseLayer
+  - first:
+      74: -6743476637088795319
+    second: Arche001|Grass854|Take 001|BaseLayer
+  - first:
+      74: 5845082359526744235
+    second: Arche001|Grass855|Take 001|BaseLayer
+  - first:
+      74: -9128805414293394653
+    second: Arche001|Grass856|Take 001|BaseLayer
+  - first:
+      74: -1870988618371954532
+    second: Arche001|Grass857|Take 001|BaseLayer
+  - first:
+      74: 4492227104894297314
+    second: Arche001|Grass858|Take 001|BaseLayer
+  - first:
+      74: 8284026454334435930
+    second: Arche001|Grass859|Take 001|BaseLayer
+  - first:
+      74: -8015882464807974454
+    second: Arche001|Grass860|Take 001|BaseLayer
+  - first:
+      74: -173092819137657651
+    second: Arche001|Grass861|Take 001|BaseLayer
+  - first:
+      74: 7809511584686212221
+    second: Arche001|Grass862|Take 001|BaseLayer
+  - first:
+      74: -8712717197879507117
+    second: Arche001|Grass863|Take 001|BaseLayer
+  - first:
+      74: -7034645008113077362
+    second: Arche001|Grass864|Take 001|BaseLayer
+  - first:
+      74: -4346738228253240137
+    second: Arche001|Grass865|Take 001|BaseLayer
+  - first:
+      74: 450233679172164395
+    second: Arche001|Grass866|Take 001|BaseLayer
+  - first:
+      74: 5575395376532757013
+    second: Arche001|Grass867|Take 001|BaseLayer
+  - first:
+      74: -5555069771583765212
+    second: Arche001|Grass868|Take 001|BaseLayer
+  - first:
+      74: -3640840382274461295
+    second: Arche001|Grass869|Take 001|BaseLayer
+  - first:
+      74: 1496363060997061993
+    second: Arche001|Grass870|Take 001|BaseLayer
+  - first:
+      74: 8631754888484296789
+    second: Arche001|Grass871|Take 001|BaseLayer
+  - first:
+      74: 8913350254222550551
+    second: Arche001|Grass872|Take 001|BaseLayer
+  - first:
+      74: 6793108688900796548
+    second: Arche001|Grass873|Take 001|BaseLayer
+  - first:
+      74: -3002599337689111495
+    second: Arche001|Grass874|Take 001|BaseLayer
+  - first:
+      74: 6314488183542305362
+    second: Arche001|Grass875|Take 001|BaseLayer
+  - first:
+      74: 1739527327901182742
+    second: Arche001|Grass876|Take 001|BaseLayer
+  - first:
+      74: -2525427926257615903
+    second: Arche001|Grass877|Take 001|BaseLayer
+  - first:
+      74: 8259025326219215778
+    second: Arche001|Grass878|Take 001|BaseLayer
+  - first:
+      74: 3819812871861257025
+    second: Arche001|Grass879|Take 001|BaseLayer
+  - first:
+      74: -8389917734096397342
+    second: Arche001|Grass880|Take 001|BaseLayer
+  - first:
+      74: -2779768906743136057
+    second: Arche001|Grass881|Take 001|BaseLayer
+  - first:
+      74: 2989235050130003226
+    second: Arche001|Grass882|Take 001|BaseLayer
+  - first:
+      74: -5332088184488466315
+    second: Arche001|Grass883|Take 001|BaseLayer
+  - first:
+      74: 5785332924167704987
+    second: Arche001|Grass884|Take 001|BaseLayer
+  - first:
+      74: -8353159899867507050
+    second: Arche001|Grass885|Take 001|BaseLayer
+  - first:
+      74: 2837805107522151671
+    second: Arche001|Grass886|Take 001|BaseLayer
+  - first:
+      74: -4059243082320917703
+    second: Arche001|Grass887|Take 001|BaseLayer
+  - first:
+      74: -9137350363623084557
+    second: Arche001|Grass888|Take 001|BaseLayer
+  - first:
+      74: 1804719738260104157
+    second: Arche001|Grass889|Take 001|BaseLayer
+  - first:
+      74: 8526002573548471631
+    second: Arche001|Grass890|Take 001|BaseLayer
+  - first:
+      74: -8171204866670129259
+    second: Arche001|Grass891|Take 001|BaseLayer
+  - first:
+      74: 7820199688234288517
+    second: Arche001|Grass892|Take 001|BaseLayer
+  - first:
+      74: 6449965987688728018
+    second: Arche001|Grass893|Take 001|BaseLayer
+  - first:
+      74: -2536746830155506792
+    second: Arche001|Grass894|Take 001|BaseLayer
+  - first:
+      74: -2549222155387583931
+    second: Arche001|Grass895|Take 001|BaseLayer
+  - first:
+      74: 7607320252824937542
+    second: Arche001|Grass896|Take 001|BaseLayer
+  - first:
+      74: 7900700511267053916
+    second: Arche001|Grass897|Take 001|BaseLayer
+  - first:
+      74: 1371937372222202922
+    second: Arche001|Grass898|Take 001|BaseLayer
+  - first:
+      74: -7909691015748493940
+    second: Arche001|Grass899|Take 001|BaseLayer
+  - first:
+      74: 1966644778831711647
+    second: Arche001|Grass900|Take 001|BaseLayer
+  - first:
+      74: -5954671250637668962
+    second: Arche001|Grass901|Take 001|BaseLayer
+  - first:
+      74: -4411781056362839542
+    second: Arche001|Grass902|Take 001|BaseLayer
+  - first:
+      74: -2924371387672399272
+    second: Arche001|Grass903|Take 001|BaseLayer
+  - first:
+      74: 3868951140001850967
+    second: Arche001|Grass904|Take 001|BaseLayer
+  - first:
+      74: 351695436127215036
+    second: Arche001|Grass905|Take 001|BaseLayer
+  - first:
+      74: -6440396607807907019
+    second: Arche001|Grass906|Take 001|BaseLayer
+  - first:
+      74: -6325139840779309143
+    second: Arche001|Grass907|Take 001|BaseLayer
+  - first:
+      74: 9131333716478729897
+    second: Arche001|Grass908|Take 001|BaseLayer
+  - first:
+      74: -7427072587040687452
+    second: Arche001|Grass909|Take 001|BaseLayer
+  - first:
+      74: 4415430366994509008
+    second: Arche001|Grass910|Take 001|BaseLayer
+  - first:
+      74: -10069507444809773
+    second: Arche001|Grass911|Take 001|BaseLayer
+  - first:
+      74: -1087788064848533043
+    second: Arche001|Grass912|Take 001|BaseLayer
+  - first:
+      74: -9068545133507045038
+    second: Arche001|Grass913|Take 001|BaseLayer
+  - first:
+      74: -222471237758180074
+    second: Arche001|Grass914|Take 001|BaseLayer
+  - first:
+      74: 7671222869334579049
+    second: Arche001|Grass915|Take 001|BaseLayer
+  - first:
+      74: -1445528916788482453
+    second: Arche001|Grass916|Take 001|BaseLayer
+  - first:
+      74: -6861729369640709884
+    second: Arche001|Grass917|Take 001|BaseLayer
+  - first:
+      74: 5311237417641030870
+    second: Arche001|Grass918|Take 001|BaseLayer
+  - first:
+      74: -5585926106420658325
+    second: Arche001|Grass919|Take 001|BaseLayer
+  - first:
+      74: 6574539373702016806
+    second: Arche001|Grass920|Take 001|BaseLayer
+  - first:
+      74: 7804550906340437548
+    second: Arche001|Grass921|Take 001|BaseLayer
+  - first:
+      74: -384530402841001996
+    second: Arche001|Grass922|Take 001|BaseLayer
+  - first:
+      74: 7805596890931366746
+    second: Arche001|Grass923|Take 001|BaseLayer
+  - first:
+      74: -8093926371532674865
+    second: Arche001|Grass924|Take 001|BaseLayer
+  - first:
+      74: 393484674300005671
+    second: Arche001|Grass925|Take 001|BaseLayer
+  - first:
+      74: 3288103314777349462
+    second: Arche001|Grass926|Take 001|BaseLayer
+  - first:
+      74: -4769243570173360979
+    second: Arche001|Grass927|Take 001|BaseLayer
+  - first:
+      74: -3495575249338209934
+    second: Arche001|Grass928|Take 001|BaseLayer
+  - first:
+      74: 6218900238603999316
+    second: Arche001|Grass929|Take 001|BaseLayer
+  - first:
+      74: -2024519442935361936
+    second: Arche001|Grass930|Take 001|BaseLayer
+  - first:
+      74: 2765972944681679274
+    second: Arche001|Grass931|Take 001|BaseLayer
+  - first:
+      74: 1588079996496985468
+    second: Arche001|Grass932|Take 001|BaseLayer
+  - first:
+      74: 6387536199259697651
+    second: Arche001|Grass933|Take 001|BaseLayer
+  - first:
+      74: -7864329968791217358
+    second: Arche001|Grass934|Take 001|BaseLayer
+  - first:
+      74: -6387655963899433211
+    second: Arche001|Grass935|Take 001|BaseLayer
+  - first:
+      74: -5805700199808550596
+    second: Arche001|Grass936|Take 001|BaseLayer
+  - first:
+      74: 4154745767586348196
+    second: Arche001|Grass937|Take 001|BaseLayer
+  - first:
+      74: -1882540144232271979
+    second: Arche001|Grass938|Take 001|BaseLayer
+  - first:
+      74: -5471615876074040939
+    second: Arche001|Grass939|Take 001|BaseLayer
+  - first:
+      74: -841339328756967536
+    second: Arche001|Grass940|Take 001|BaseLayer
+  - first:
+      74: 6091488429402520167
+    second: Arche001|Grass941|Take 001|BaseLayer
+  - first:
+      74: -3954245505767437642
+    second: Arche001|Grass942|Take 001|BaseLayer
+  - first:
+      74: 3086690398782900016
+    second: Arche001|Grass943|Take 001|BaseLayer
+  - first:
+      74: -778568187037909865
+    second: Arche001|Grass944|Take 001|BaseLayer
+  - first:
+      74: -3882607030143740554
+    second: Arche001|Grass945|Take 001|BaseLayer
+  - first:
+      74: -2316247456336996333
+    second: Arche001|Grass946|Take 001|BaseLayer
+  - first:
+      74: -2143083416826371202
+    second: Arche001|Grass947|Take 001|BaseLayer
+  - first:
+      74: 4985585457193900429
+    second: Arche001|Grass948|Take 001|BaseLayer
+  - first:
+      74: 6887578086380256054
+    second: Arche001|Grass949|Take 001|BaseLayer
+  - first:
+      74: -8488462314129739172
+    second: Arche001|Grass950|Take 001|BaseLayer
+  - first:
+      74: 1695435904827106873
+    second: Arche001|Grass951|Take 001|BaseLayer
+  - first:
+      74: -5938071949238241208
+    second: Arche001|Grass952|Take 001|BaseLayer
+  - first:
+      74: 5484787275490955310
+    second: Arche001|Grass953|Take 001|BaseLayer
+  - first:
+      74: -4681176051382788745
+    second: Arche001|Grass954|Take 001|BaseLayer
+  - first:
+      74: 5055914374687156540
+    second: Arche001|Grass955|Take 001|BaseLayer
+  - first:
+      74: 4464189721022723189
+    second: Arche001|Grass956|Take 001|BaseLayer
+  - first:
+      74: -869960015129353633
+    second: Arche001|Grass957|Take 001|BaseLayer
+  - first:
+      74: 8118858498145159573
+    second: Arche001|Grass958|Take 001|BaseLayer
+  - first:
+      74: 9200505069616197004
+    second: Arche001|Grass959|Take 001|BaseLayer
+  - first:
+      74: -7150517527109746883
+    second: Arche001|Grass960|Take 001|BaseLayer
+  - first:
+      74: -1468425415679952065
+    second: Arche001|Grass961|Take 001|BaseLayer
+  - first:
+      74: -4405409932590548806
+    second: Arche001|Grass962|Take 001|BaseLayer
+  - first:
+      74: -5828955623153741239
+    second: Arche001|Grass963|Take 001|BaseLayer
+  - first:
+      74: -7479039330726502161
+    second: Arche001|Grass964|Take 001|BaseLayer
+  - first:
+      74: 6820792952084029961
+    second: Arche001|Grass965|Take 001|BaseLayer
+  - first:
+      74: -2302657315689835508
+    second: Arche001|Grass966|Take 001|BaseLayer
+  - first:
+      74: 3321381869218543157
+    second: Arche001|Grass967|Take 001|BaseLayer
+  - first:
+      74: -4361234310647820316
+    second: Arche001|Grass968|Take 001|BaseLayer
+  - first:
+      74: -6331051397263127037
+    second: Arche001|Grass969|Take 001|BaseLayer
+  - first:
+      74: 9129588291973300614
+    second: Arche001|Grass970|Take 001|BaseLayer
+  - first:
+      74: 5439522398210810428
+    second: Arche001|Grass971|Take 001|BaseLayer
+  - first:
+      74: 4127086615662214168
+    second: Arche001|Grass972|Take 001|BaseLayer
+  - first:
+      74: 4999593336493868451
+    second: Arche001|Grass973|Take 001|BaseLayer
+  - first:
+      74: 297335502912139252
+    second: Arche001|Grass974|Take 001|BaseLayer
+  - first:
+      74: -6973395171297844541
+    second: Arche001|Grass975|Take 001|BaseLayer
+  - first:
+      74: -2090575896862299349
+    second: Arche001|Grass976|Take 001|BaseLayer
+  - first:
+      74: 4760737523300814942
+    second: Arche001|Grass977|Take 001|BaseLayer
+  - first:
+      74: 6764349558179555652
+    second: Arche001|Grass978|Take 001|BaseLayer
+  - first:
+      74: 1586541580110187244
+    second: Arche001|Grass979|Take 001|BaseLayer
+  - first:
+      74: -7693459645785460031
+    second: Arche001|Grass980|Take 001|BaseLayer
+  - first:
+      74: -8975174596102523145
+    second: Arche001|Grass981|Take 001|BaseLayer
+  - first:
+      74: 2597509094195489262
+    second: Arche001|Grass982|Take 001|BaseLayer
+  - first:
+      74: -4251236059680506452
+    second: Arche001|Grass983|Take 001|BaseLayer
+  - first:
+      74: -340302071323258121
+    second: Arche001|Grass984|Take 001|BaseLayer
+  - first:
+      74: 7910180606753361068
+    second: Arche001|Grass985|Take 001|BaseLayer
+  - first:
+      74: 2918274447929685543
+    second: Arche001|Grass986|Take 001|BaseLayer
+  - first:
+      74: -1535959749252009565
+    second: Arche001|Grass987|Take 001|BaseLayer
+  - first:
+      74: 1578638573700702853
+    second: Arche001|Grass988|Take 001|BaseLayer
+  - first:
+      74: -5758168293283471766
+    second: Arche001|Grass989|Take 001|BaseLayer
+  - first:
+      74: -4058752107740169643
+    second: Arche001|Grass990|Take 001|BaseLayer
+  - first:
+      74: 3184212759331813338
+    second: Arche001|Grass991|Take 001|BaseLayer
+  - first:
+      74: 710790698375267607
+    second: Arche001|Grass992|Take 001|BaseLayer
+  - first:
+      74: -4698522400062979344
+    second: Arche001|Grass993|Take 001|BaseLayer
+  - first:
+      74: -3897826377733923213
+    second: Arche001|Grass994|Take 001|BaseLayer
+  - first:
+      74: -6056865284032876389
+    second: Arche001|Grass995|Take 001|BaseLayer
+  - first:
+      74: -3397899416843529803
+    second: Arche001|Grass996|Take 001|BaseLayer
+  - first:
+      74: 5037898034692980132
+    second: Arche001|Grass997|Take 001|BaseLayer
+  - first:
+      74: -1101198490234906744
+    second: Arche001|Grass998|Take 001|BaseLayer
+  - first:
+      74: -3798770979520682336
+    second: Arche001|Grass999|Take 001|BaseLayer
+  - first:
+      74: -1502485503749181844
+    second: Arche001|lanterne002|Take 001|BaseLayer
+  - first:
+      74: 793933723813676163
+    second: Arche001|lanterne003|Take 001|BaseLayer
+  - first:
+      74: -3645800056355170255
+    second: Arche001|Lanterne003|Take 001|BaseLayer
+  - first:
+      74: -1167413868257177347
+    second: Arche001|lanterne004|Take 001|BaseLayer
+  - first:
+      74: 4826605329231852607
+    second: Arche001|Lanterne004|Take 001|BaseLayer
+  - first:
+      74: -355883581106058866
+    second: Arche001|Lanterne005|Take 001|BaseLayer
+  - first:
+      74: -2130336053104889575
+    second: Arche001|lanterne005|Take 001|BaseLayer
+  - first:
+      74: 2425987500174145387
+    second: Arche001|lanterne006|Take 001|BaseLayer
+  - first:
+      74: -8205788393457626337
+    second: Arche001|lanterne007|Take 001|BaseLayer
+  - first:
+      74: 1180518628277342934
+    second: Arche001|lanterne01|Take 001|BaseLayer
+  - first:
+      74: -1564137895045291459
+    second: Arche001|Lanterne02|Take 001|BaseLayer
+  - first:
+      74: 5886264120399511324
+    second: Arche001|LanterneSorciere001|Take 001|BaseLayer
+  - first:
+      74: 5894595674294012232
+    second: Arche001|LanterneSorciere002|Take 001|BaseLayer
+  - first:
+      74: -2526299609002122785
+    second: Arche001|LanterneSorciere003|Take 001|BaseLayer
+  - first:
+      74: 8625053113457677139
+    second: Arche001|LanterneSorciere|Take 001|BaseLayer
+  - first:
+      74: -8141997810316636408
+    second: Arche001|Mine001|Take 001|BaseLayer
+  - first:
+      74: -3151532930934853945
+    second: Arche001|Mine|Take 001|BaseLayer
+  - first:
+      74: -8266998897714959367
+    second: Arche001|Pentacle|Take 001|BaseLayer
+  - first:
+      74: -2438565342136200022
+    second: Arche001|pillar|Take 001|BaseLayer
+  - first:
+      74: -7157941918497298121
+    second: Arche001|Rock003|Take 001|BaseLayer
+  - first:
+      74: -3425516501969174312
+    second: Arche001|Rock004|Take 001|BaseLayer
+  - first:
+      74: 7305520598486829107
+    second: Arche001|Rock005|Take 001|BaseLayer
+  - first:
+      74: 6966952934962731758
+    second: Arche001|Rock006|Take 001|BaseLayer
+  - first:
+      74: 2059001086203759058
+    second: Arche001|Rock007|Take 001|BaseLayer
+  - first:
+      74: 6067359753234535934
+    second: Arche001|Rock008|Take 001|BaseLayer
+  - first:
+      74: 5627485274915284888
+    second: Arche001|Rock009|Take 001|BaseLayer
+  - first:
+      74: -2522570497907126160
+    second: Arche001|Rock010|Take 001|BaseLayer
+  - first:
+      74: 7079692279167435324
+    second: Arche001|Rock011|Take 001|BaseLayer
+  - first:
+      74: -6145476472396576685
+    second: Arche001|Rock012|Take 001|BaseLayer
+  - first:
+      74: -3072351462848889011
+    second: Arche001|Rock013|Take 001|BaseLayer
+  - first:
+      74: 1246297712411838853
+    second: Arche001|Rock01|Take 001|BaseLayer
+  - first:
+      74: 1434917706471885779
+    second: Arche001|Rock02|Take 001|BaseLayer
+  - first:
+      74: 17734521469013543
+    second: Arche001|rock4_002|Take 001|BaseLayer
+  - first:
+      74: 6190258454661529586
+    second: Arche001|rock4_003|Take 001|BaseLayer
+  - first:
+      74: 5368510889428200329
+    second: Arche001|rock4_004|Take 001|BaseLayer
+  - first:
+      74: -8860650071406393245
+    second: Arche001|rock4_005|Take 001|BaseLayer
+  - first:
+      74: -2761384710402435158
+    second: Arche001|rock4_006|Take 001|BaseLayer
+  - first:
+      74: -5521357015912200671
+    second: Arche001|rock4_007|Take 001|BaseLayer
+  - first:
+      74: 4579322717865478052
+    second: Arche001|rock4_008|Take 001|BaseLayer
+  - first:
+      74: -3864640368983251922
+    second: Arche001|rock4_009|Take 001|BaseLayer
+  - first:
+      74: -5384541637154282623
+    second: Arche001|rock4_1|Take 001|BaseLayer
+  - first:
+      74: -6016421583220731779
+    second: Arche001|rockset1|Take 001|BaseLayer
+  - first:
+      74: 4427441684717349114
+    second: Arche001|Ronce001|Take 001|BaseLayer
+  - first:
+      74: -8705316862465244146
+    second: Arche001|Ronce|Take 001|BaseLayer
+  - first:
+      74: 3506468951362776
+    second: Arche001|scole|Take 001|BaseLayer
+  - first:
+      74: 3219656262978286177
+    second: Arche001|stele01|Take 001|BaseLayer
+  - first:
+      74: 3251843853220553597
+    second: Arche001|Table|Take 001|BaseLayer
+  - first:
+      74: 6158893485220571811
+    second: Arche001|Temple|Take 001|BaseLayer
+  - first:
+      74: 5463939769062353712
+    second: Arche001|Wall001|Take 001|BaseLayer
+  - first:
+      74: -4752036815035637315
+    second: Arche001|WallTower001|Take 001|BaseLayer
+  - first:
+      74: -7283490024120635299
+    second: Arche001|WallTower002|Take 001|BaseLayer
+  - first:
+      74: -1203358912521463313
+    second: Arche001|WallTower|Take 001|BaseLayer
+  - first:
+      74: -899516151061559152
+    second: Arche001|Wall|Take 001|BaseLayer
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
