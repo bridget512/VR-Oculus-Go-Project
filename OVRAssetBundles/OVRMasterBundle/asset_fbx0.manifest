@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 167550788
+CRC: 3592124008
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 38b7604409a99c902e514dca01cb2223
+    Hash: f28f982c4560e798ca38c3669c99d54b
   TypeTreeHash:
     serializedVersion: 2
     Hash: 4a98e78f78aff62674c551fec7262106
@@ -38,6 +38,7 @@ Assets:
 - Assets/Scenes/Models/Fence_Light_Type1.fbx
 - Assets/Oculus/VR/Meshes/OculusTouchForQuestAndRiftS/OculusTouchForQuestAndRiftS_Right.fbx
 - Assets/Scenes/Models/Rock_Large_01.fbx
+- Assets/Scenes/Models/SpellBook UI Static Demo.fbx
 - Assets/Scenes/Models/Fence_Type1.fbx
 - Assets/Oculus/VR/Meshes/OculusTouchForRift/left_touch_controller_model_skel.fbx
 - Assets/Oculus/VR/Meshes/OculusTouchForQuestAndRiftS/OculusTouchForQuestAndRiftS_Left.fbx
@@ -45,5 +46,5 @@ Assets:
 - Assets/Scenes/Models/Fence_HangingLight_Type1.fbx
 - Assets/Oculus/VR/Meshes/OculusGoController/OculusGoController.fbx
 Dependencies:
-- C:/Users/Bridget/Documents/Unity Projects/VR - Oculus Go - Teleportation/OVRAssetBundles/OVRMasterBundle/asset_mat0
-- C:/Users/Bridget/Documents/Unity Projects/VR - Oculus Go - Teleportation/OVRAssetBundles/OVRMasterBundle/asset_png0
+- C:/Users/Bridget/Documents/Unity Projects/VR - Oculus Go/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- C:/Users/Bridget/Documents/Unity Projects/VR - Oculus Go/OVRAssetBundles/OVRMasterBundle/asset_png0

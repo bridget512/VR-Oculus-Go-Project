@@ -31,10 +31,6 @@ public class Controller_Object_GrabAndSlide : MonoBehaviour
 
         // else set transform position back to original transform location
         this.transform.position = initialTransform;
-
-        //this.transform.position = args.attachTransform.gameObject.transform.position;
-
-
     }
 
     public void Start()
